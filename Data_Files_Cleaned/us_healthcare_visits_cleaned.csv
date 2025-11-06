@@ -1,0 +1,3111 @@
+Year,Age_Group,Category,Visits_Thousands,Visits_Millions
+2000,All ages,All places,1014848.0,1014.848
+2001,All ages,All places,1142420.0,1142.42
+2002,All ages,All places,1157798.0,1157.798
+2003,All ages,All places,1114504.0,1114.504
+2004,All ages,All places,1106067.0,1106.067
+2005,All ages,All places,1169333.0,1169.333
+2006,All ages,All places,1123354.0,1123.354
+2007,All ages,All places,1200017.0,1200.017
+2008,All ages,All places,1189619.0,1189.619
+2009,All ages,All places,1270001.0,1270.001
+2010,All ages,All places,1239387.0,1239.387
+2011,All ages,All places,1249047.0,1249.047
+2000,Under 18 years,All places,212165.0,212.165
+2001,Under 18 years,All places,220921.0,220.921
+2002,Under 18 years,All places,238571.0,238.571
+2003,Under 18 years,All places,223724.0,223.724
+2004,Under 18 years,All places,220605.0,220.605
+2005,Under 18 years,All places,238389.0,238.389
+2006,Under 18 years,All places,231535.0,231.535
+2007,Under 18 years,All places,240813.0,240.813
+2008,Under 18 years,All places,225531.0,225.531
+2009,Under 18 years,All places,239590.0,239.59
+2010,Under 18 years,All places,246228.0,246.228
+2011,Under 18 years,All places,263387.0,263.387
+2000,18-44 years,All places,315774.0,315.774
+2001,18-44 years,All places,341383.0,341.383
+2002,18-44 years,All places,337681.0,337.681
+2003,18-44 years,All places,331015.0,331.015
+2004,18-44 years,All places,314993.0,314.993
+2005,18-44 years,All places,324108.0,324.108
+2006,18-44 years,All places,317502.0,317.502
+2007,18-44 years,All places,335440.0,335.44
+2008,18-44 years,All places,328438.0,328.438
+2009,18-44 years,All places,341209.0,341.209
+2010,18-44 years,All places,342797.0,342.797
+2011,18-44 years,All places,333427.0,333.427
+2000,45-64 years,All places,255894.0,255.894
+2001,45-64 years,All places,300567.0,300.567
+2002,45-64 years,All places,308627.0,308.627
+2003,45-64 years,All places,301558.0,301.558
+2004,45-64 years,All places,307736.0,307.736
+2005,45-64 years,All places,328564.0,328.564
+2006,45-64 years,All places,310667.0,310.667
+2007,45-64 years,All places,334088.0,334.088
+2008,45-64 years,All places,341595.0,341.595
+2009,45-64 years,All places,374775.0,374.775
+2010,45-64 years,All places,352001.0,352.001
+2011,45-64 years,All places,353591.0,353.591
+2000,45-54 years,All places,142233.0,142.233
+2001,45-54 years,All places,165321.0,165.321
+2002,45-54 years,All places,169871.0,169.871
+2003,45-54 years,All places,164431.0,164.431
+2004,45-54 years,All places,160023.0,160.023
+2005,45-54 years,All places,170674.0,170.674
+2006,45-54 years,All places,164692.0,164.692
+2007,45-54 years,All places,170514.0,170.514
+2008,45-54 years,All places,169674.0,169.674
+2009,45-54 years,All places,190701.0,190.701
+2010,45-54 years,All places,171039.0,171.039
+2011,45-54 years,All places,173334.0,173.334
+2000,55-64 years,All places,113661.0,113.661
+2001,55-64 years,All places,135247.0,135.247
+2002,55-64 years,All places,138756.0,138.756
+2003,55-64 years,All places,137126.0,137.126
+2004,55-64 years,All places,147712.0,147.712
+2005,55-64 years,All places,157890.0,157.89
+2006,55-64 years,All places,145975.0,145.975
+2007,55-64 years,All places,163574.0,163.574
+2008,55-64 years,All places,171921.0,171.921
+2009,55-64 years,All places,184074.0,184.074
+2010,55-64 years,All places,180962.0,180.962
+2011,55-64 years,All places,180258.0,180.258
+2000,65 years and over,All places,231014.0,231.014
+2001,65 years and over,All places,279548.0,279.548
+2002,65 years and over,All places,272919.0,272.919
+2003,65 years and over,All places,258206.0,258.206
+2004,65 years and over,All places,262734.0,262.734
+2005,65 years and over,All places,278272.0,278.272
+2006,65 years and over,All places,263649.0,263.649
+2007,65 years and over,All places,289675.0,289.675
+2008,65 years and over,All places,294054.0,294.054
+2009,65 years and over,All places,314428.0,314.428
+2010,65 years and over,All places,298362.0,298.362
+2011,65 years and over,All places,298642.0,298.642
+2000,65-74 years,All places,116505.0,116.505
+2001,65-74 years,All places,136819.0,136.819
+2002,65-74 years,All places,132116.0,132.116
+2003,65-74 years,All places,120655.0,120.655
+2004,65-74 years,All places,126802.0,126.802
+2005,65-74 years,All places,133334.0,133.334
+2006,65-74 years,All places,124089.0,124.089
+2007,65-74 years,All places,142528.0,142.528
+2008,65-74 years,All places,144878.0,144.878
+2009,65-74 years,All places,153884.0,153.884
+2010,65-74 years,All places,151075.0,151.075
+2011,65-74 years,All places,151970.0,151.97
+2000,75 years and over,All places,114510.0,114.51
+2001,75 years and over,All places,142729.0,142.729
+2002,75 years and over,All places,140802.0,140.802
+2003,75 years and over,All places,137552.0,137.552
+2004,75 years and over,All places,135931.0,135.931
+2005,75 years and over,All places,144938.0,144.938
+2006,75 years and over,All places,139560.0,139.56
+2007,75 years and over,All places,147147.0,147.147
+2008,75 years and over,All places,149177.0,149.177
+2009,75 years and over,All places,160544.0,160.544
+2010,75 years and over,All places,147287.0,147.287
+2011,75 years and over,All places,146672.0,146.672
+2000,All ages,All places,374.0,0.374
+2001,All ages,All places,410.0,0.41
+2002,All ages,All places,410.0,0.41
+2003,All ages,All places,391.0,0.391
+2004,All ages,All places,383.0,0.383
+2005,All ages,All places,400.0,0.4
+2006,All ages,All places,380.0,0.38
+2007,All ages,All places,402.0,0.402
+2008,All ages,All places,393.0,0.393
+2009,All ages,All places,414.0,0.414
+2010,All ages,All places,401.0,0.401
+2011,All ages,All places,400.0,0.4
+2000,All ages,All places,325.0,0.325
+2001,All ages,All places,356.0,0.356
+2002,All ages,All places,353.0,0.353
+2003,All ages,All places,338.0,0.338
+2004,All ages,All places,334.0,0.334
+2005,All ages,All places,352.0,0.352
+2006,All ages,All places,328.0,0.328
+2007,All ages,All places,351.0,0.351
+2008,All ages,All places,334.0,0.334
+2009,All ages,All places,358.0,0.358
+2010,All ages,All places,350.0,0.35
+2011,All ages,All places,354.0,0.354
+2000,All ages,All places,420.0,0.42
+2001,All ages,All places,463.0,0.463
+2002,All ages,All places,465.0,0.465
+2003,All ages,All places,442.0,0.442
+2004,All ages,All places,431.0,0.431
+2005,All ages,All places,445.0,0.445
+2006,All ages,All places,431.0,0.431
+2007,All ages,All places,452.0,0.452
+2008,All ages,All places,451.0,0.451
+2009,All ages,All places,469.0,0.469
+2010,All ages,All places,452.0,0.452
+2011,All ages,All places,444.0,0.444
+2000,All ages,All places,380.0,0.38
+2001,All ages,All places,428.0,0.428
+2002,All ages,All places,421.0,0.421
+2003,All ages,All places,399.0,0.399
+2004,All ages,All places,389.0,0.389
+2005,All ages,All places,413.0,0.413
+2006,All ages,All places,384.0,0.384
+2007,All ages,All places,398.0,0.398
+2008,All ages,All places,395.0,0.395
+2009,All ages,All places,421.0,0.421
+2010,All ages,All places,408.0,0.408
+2011,All ages,All places,411.0,0.411
+2000,All ages,All places,353.0,0.353
+2001,All ages,All places,357.0,0.357
+2002,All ages,All places,427.0,0.427
+2003,All ages,All places,393.0,0.393
+2004,All ages,All places,420.0,0.42
+2005,All ages,All places,398.0,0.398
+2006,All ages,All places,397.0,0.397
+2007,All ages,All places,475.0,0.475
+2008,All ages,All places,443.0,0.443
+2009,All ages,All places,459.0,0.459
+2010,All ages,All places,439.0,0.439
+2011,All ages,All places,430.0,0.43
+2000,All ages,All places,370.0,0.37
+2001,All ages,All places,408.0,0.408
+2002,All ages,All places,409.0,0.409
+2003,All ages,All places,390.0,0.39
+2004,All ages,All places,384.0,0.384
+2005,All ages,All places,402.0,0.402
+2006,All ages,All places,382.0,0.382
+2007,All ages,All places,405.0,0.405
+2008,All ages,All places,398.0,0.398
+2009,All ages,All places,421.0,0.421
+2010,All ages,All places,408.0,0.408
+2011,All ages,All places,408.0,0.408
+2000,Under 18 years,All places,293.0,0.293
+2001,Under 18 years,All places,305.0,0.305
+2002,Under 18 years,All places,328.0,0.328
+2003,Under 18 years,All places,307.0,0.307
+2004,Under 18 years,All places,302.0,0.302
+2005,Under 18 years,All places,325.0,0.325
+2006,Under 18 years,All places,315.0,0.315
+2007,Under 18 years,All places,327.0,0.327
+2008,Under 18 years,All places,306.0,0.306
+2009,Under 18 years,All places,322.0,0.322
+2010,Under 18 years,All places,331.0,0.331
+2011,Under 18 years,All places,357.0,0.357
+2000,18-44 years,All places,291.0,0.291
+2001,18-44 years,All places,311.0,0.311
+2002,18-44 years,All places,306.0,0.306
+2003,18-44 years,All places,301.0,0.301
+2004,18-44 years,All places,285.0,0.285
+2005,18-44 years,All places,294.0,0.294
+2006,18-44 years,All places,287.0,0.287
+2007,18-44 years,All places,304.0,0.304
+2008,18-44 years,All places,298.0,0.298
+2009,18-44 years,All places,309.0,0.309
+2010,18-44 years,All places,310.0,0.31
+2011,18-44 years,All places,302.0,0.302
+2000,45-64 years,All places,422.0,0.422
+2001,45-64 years,All places,469.0,0.469
+2002,45-64 years,All places,466.0,0.466
+2003,45-64 years,All places,442.0,0.442
+2004,45-64 years,All places,438.0,0.438
+2005,45-64 years,All places,454.0,0.454
+2006,45-64 years,All places,418.0,0.418
+2007,45-64 years,All places,439.0,0.439
+2008,45-64 years,All places,441.0,0.441
+2009,45-64 years,All places,475.0,0.475
+2010,45-64 years,All places,441.0,0.441
+2011,45-64 years,All places,431.0,0.431
+2000,45-54 years,All places,385.0,0.385
+2001,45-54 years,All places,425.0,0.425
+2002,45-54 years,All places,427.0,0.427
+2003,45-54 years,All places,406.0,0.406
+2004,45-54 years,All places,388.0,0.388
+2005,45-54 years,All places,405.0,0.405
+2006,45-54 years,All places,384.0,0.384
+2007,45-54 years,All places,392.0,0.392
+2008,45-54 years,All places,386.0,0.386
+2009,45-54 years,All places,431.0,0.431
+2010,45-54 years,All places,388.0,0.388
+2011,45-54 years,All places,392.0,0.392
+2000,55-64 years,All places,481.0,0.481
+2001,55-64 years,All places,538.0,0.538
+2002,55-64 years,All places,525.0,0.525
+2003,55-64 years,All places,494.0,0.494
+2004,55-64 years,All places,511.0,0.511
+2005,55-64 years,All places,523.0,0.523
+2006,55-64 years,All places,465.0,0.465
+2007,55-64 years,All places,503.0,0.503
+2008,55-64 years,All places,513.0,0.513
+2009,55-64 years,All places,532.0,0.532
+2010,55-64 years,All places,505.0,0.505
+2011,55-64 years,All places,477.0,0.477
+2000,65 years and over,All places,706.0,0.706
+2001,65 years and over,All places,829.0,0.829
+2002,65 years and over,All places,804.0,0.804
+2003,65 years and over,All places,753.0,0.753
+2004,65 years and over,All places,758.0,0.758
+2005,65 years and over,All places,792.0,0.792
+2006,65 years and over,All places,740.0,0.74
+2007,65 years and over,All places,799.0,0.799
+2008,65 years and over,All places,790.0,0.79
+2009,65 years and over,All places,829.0,0.829
+2010,65 years and over,All places,767.0,0.767
+2011,65 years and over,All places,745.0,0.745
+2000,65-74 years,All places,656.0,0.656
+2001,65-74 years,All places,757.0,0.757
+2002,65-74 years,All places,733.0,0.733
+2003,65-74 years,All places,667.0,0.667
+2004,65-74 years,All places,696.0,0.696
+2005,65-74 years,All places,725.0,0.725
+2006,65-74 years,All places,665.0,0.665
+2007,65-74 years,All places,746.0,0.746
+2008,65-74 years,All places,729.0,0.729
+2009,65-74 years,All places,749.0,0.749
+2010,65-74 years,All places,713.0,0.713
+2011,65-74 years,All places,683.0,0.683
+2000,75 years and over,All places,766.0,0.766
+2001,75 years and over,All places,913.0,0.913
+2002,75 years and over,All places,884.0,0.884
+2003,75 years and over,All places,850.0,0.85
+2004,75 years and over,All places,827.0,0.827
+2005,75 years and over,All places,865.0,0.865
+2006,75 years and over,All places,824.0,0.824
+2007,75 years and over,All places,859.0,0.859
+2008,75 years and over,All places,860.0,0.86
+2009,75 years and over,All places,923.0,0.923
+2010,75 years and over,All places,831.0,0.831
+2011,75 years and over,All places,822.0,0.822
+2000,All ages,All places,314.0,0.314
+2001,All ages,All places,343.0,0.343
+2002,All ages,All places,343.0,0.343
+2003,All ages,All places,329.0,0.329
+2004,All ages,All places,326.0,0.326
+2005,All ages,All places,345.0,0.345
+2006,All ages,All places,322.0,0.322
+2007,All ages,All places,345.0,0.345
+2008,All ages,All places,330.0,0.33
+2009,All ages,All places,356.0,0.356
+2010,All ages,All places,350.0,0.35
+2011,All ages,All places,356.0,0.356
+2000,All ages,All places,424.0,0.424
+2001,All ages,All places,470.0,0.47
+2002,All ages,All places,472.0,0.472
+2003,All ages,All places,449.0,0.449
+2004,All ages,All places,439.0,0.439
+2005,All ages,All places,456.0,0.456
+2006,All ages,All places,440.0,0.44
+2007,All ages,All places,462.0,0.462
+2008,All ages,All places,464.0,0.464
+2009,All ages,All places,483.0,0.483
+2010,All ages,All places,464.0,0.464
+2011,All ages,All places,457.0,0.457
+2000,Under 18 years,All places,302.0,0.302
+2001,Under 18 years,All places,306.0,0.306
+2002,Under 18 years,All places,329.0,0.329
+2003,Under 18 years,All places,317.0,0.317
+2004,Under 18 years,All places,307.0,0.307
+2005,Under 18 years,All places,338.0,0.338
+2006,Under 18 years,All places,309.0,0.309
+2007,Under 18 years,All places,331.0,0.331
+2008,Under 18 years,All places,307.0,0.307
+2009,Under 18 years,All places,334.0,0.334
+2010,Under 18 years,All places,340.0,0.34
+2011,Under 18 years,All places,372.0,0.372
+2000,18-44 years,All places,203.0,0.203
+2001,18-44 years,All places,217.0,0.217
+2002,18-44 years,All places,214.0,0.214
+2003,18-44 years,All places,203.0,0.203
+2004,18-44 years,All places,187.0,0.187
+2005,18-44 years,All places,212.0,0.212
+2006,18-44 years,All places,197.0,0.197
+2007,18-44 years,All places,205.0,0.205
+2008,18-44 years,All places,188.0,0.188
+2009,18-44 years,All places,201.0,0.201
+2010,18-44 years,All places,205.0,0.205
+2011,18-44 years,All places,208.0,0.208
+2000,45-54 years,All places,316.0,0.316
+2001,45-54 years,All places,349.0,0.349
+2002,45-54 years,All places,351.0,0.351
+2003,45-54 years,All places,335.0,0.335
+2004,45-54 years,All places,334.0,0.334
+2005,45-54 years,All places,331.0,0.331
+2006,45-54 years,All places,328.0,0.328
+2007,45-54 years,All places,321.0,0.321
+2008,45-54 years,All places,319.0,0.319
+2009,45-54 years,All places,361.0,0.361
+2010,45-54 years,All places,324.0,0.324
+2011,45-54 years,All places,322.0,0.322
+2000,55-64 years,All places,428.0,0.428
+2001,55-64 years,All places,457.0,0.457
+2002,55-64 years,All places,448.0,0.448
+2003,55-64 years,All places,422.0,0.422
+2004,55-64 years,All places,457.0,0.457
+2005,55-64 years,All places,468.0,0.468
+2006,55-64 years,All places,410.0,0.41
+2007,55-64 years,All places,452.0,0.452
+2008,55-64 years,All places,441.0,0.441
+2009,55-64 years,All places,473.0,0.473
+2010,55-64 years,All places,460.0,0.46
+2011,55-64 years,All places,430.0,0.43
+2000,65-74 years,All places,614.0,0.614
+2001,65-74 years,All places,726.0,0.726
+2002,65-74 years,All places,703.0,0.703
+2003,65-74 years,All places,632.0,0.632
+2004,65-74 years,All places,672.0,0.672
+2005,65-74 years,All places,691.0,0.691
+2006,65-74 years,All places,631.0,0.631
+2007,65-74 years,All places,732.0,0.732
+2008,65-74 years,All places,687.0,0.687
+2009,65-74 years,All places,731.0,0.731
+2010,65-74 years,All places,680.0,0.68
+2011,65-74 years,All places,655.0,0.655
+2000,75 years and over,All places,771.0,0.771
+2001,75 years and over,All places,934.0,0.934
+2002,75 years and over,All places,850.0,0.85
+2003,75 years and over,All places,881.0,0.881
+2004,75 years and over,All places,860.0,0.86
+2005,75 years and over,All places,833.0,0.833
+2006,75 years and over,All places,810.0,0.81
+2007,75 years and over,All places,888.0,0.888
+2008,75 years and over,All places,886.0,0.886
+2009,75 years and over,All places,907.0,0.907
+2010,75 years and over,All places,871.0,0.871
+2011,75 years and over,All places,869.0,0.869
+2000,Under 18 years,All places,285.0,0.285
+2001,Under 18 years,All places,304.0,0.304
+2002,Under 18 years,All places,327.0,0.327
+2003,Under 18 years,All places,297.0,0.297
+2004,Under 18 years,All places,296.0,0.296
+2005,Under 18 years,All places,311.0,0.311
+2006,Under 18 years,All places,321.0,0.321
+2007,Under 18 years,All places,321.0,0.321
+2008,Under 18 years,All places,304.0,0.304
+2009,Under 18 years,All places,310.0,0.31
+2010,Under 18 years,All places,322.0,0.322
+2011,Under 18 years,All places,341.0,0.341
+2000,18-44 years,All places,377.0,0.377
+2001,18-44 years,All places,402.0,0.402
+2002,18-44 years,All places,397.0,0.397
+2003,18-44 years,All places,397.0,0.397
+2004,18-44 years,All places,382.0,0.382
+2005,18-44 years,All places,375.0,0.375
+2006,18-44 years,All places,377.0,0.377
+2007,18-44 years,All places,402.0,0.402
+2008,18-44 years,All places,407.0,0.407
+2009,18-44 years,All places,416.0,0.416
+2010,18-44 years,All places,415.0,0.415
+2011,18-44 years,All places,393.0,0.393
+2000,45-54 years,All places,451.0,0.451
+2001,45-54 years,All places,498.0,0.498
+2002,45-54 years,All places,500.0,0.5
+2003,45-54 years,All places,475.0,0.475
+2004,45-54 years,All places,439.0,0.439
+2005,45-54 years,All places,476.0,0.476
+2006,45-54 years,All places,437.0,0.437
+2007,45-54 years,All places,460.0,0.46
+2008,45-54 years,All places,450.0,0.45
+2009,45-54 years,All places,499.0,0.499
+2010,45-54 years,All places,450.0,0.45
+2011,45-54 years,All places,459.0,0.459
+2000,55-64 years,All places,529.0,0.529
+2001,55-64 years,All places,612.0,0.612
+2002,55-64 years,All places,596.0,0.596
+2003,55-64 years,All places,561.0,0.561
+2004,55-64 years,All places,561.0,0.561
+2005,55-64 years,All places,574.0,0.574
+2006,55-64 years,All places,515.0,0.515
+2007,55-64 years,All places,550.0,0.55
+2008,55-64 years,All places,580.0,0.58
+2009,55-64 years,All places,586.0,0.586
+2010,55-64 years,All places,546.0,0.546
+2011,55-64 years,All places,520.0,0.52
+2000,65-74 years,All places,692.0,0.692
+2001,65-74 years,All places,782.0,0.782
+2002,65-74 years,All places,757.0,0.757
+2003,65-74 years,All places,696.0,0.696
+2004,65-74 years,All places,717.0,0.717
+2005,65-74 years,All places,754.0,0.754
+2006,65-74 years,All places,693.0,0.693
+2007,65-74 years,All places,758.0,0.758
+2008,65-74 years,All places,765.0,0.765
+2009,65-74 years,All places,764.0,0.764
+2010,65-74 years,All places,741.0,0.741
+2011,65-74 years,All places,707.0,0.707
+2000,75 years and over,All places,763.0,0.763
+2001,75 years and over,All places,900.0,0.9
+2002,75 years and over,All places,905.0,0.905
+2003,75 years and over,All places,830.0,0.83
+2004,75 years and over,All places,806.0,0.806
+2005,75 years and over,All places,886.0,0.886
+2006,75 years and over,All places,832.0,0.832
+2007,75 years and over,All places,840.0,0.84
+2008,75 years and over,All places,843.0,0.843
+2009,75 years and over,All places,934.0,0.934
+2010,75 years and over,All places,804.0,0.804
+2011,75 years and over,All places,790.0,0.79
+2000,All ages,All places,381.0,0.381
+2001,All ages,All places,433.0,0.433
+2002,All ages,All places,426.0,0.426
+2003,All ages,All places,404.0,0.404
+2004,All ages,All places,396.0,0.396
+2005,All ages,All places,420.0,0.42
+2006,All ages,All places,391.0,0.391
+2007,All ages,All places,407.0,0.407
+2008,All ages,All places,406.0,0.406
+2009,All ages,All places,434.0,0.434
+2010,All ages,All places,421.0,0.421
+2011,All ages,All places,424.0,0.424
+2000,All ages,All places,324.0,0.324
+2001,All ages,All places,329.0,0.329
+2002,All ages,All places,392.0,0.392
+2003,All ages,All places,365.0,0.365
+2004,All ages,All places,391.0,0.391
+2005,All ages,All places,369.0,0.369
+2006,All ages,All places,379.0,0.379
+2007,All ages,All places,450.0,0.45
+2008,All ages,All places,421.0,0.421
+2009,All ages,All places,438.0,0.438
+2010,All ages,All places,425.0,0.425
+2011,All ages,All places,416.0,0.416
+2000,Under 18 years,All places,306.0,0.306
+2001,Under 18 years,All places,330.0,0.33
+2002,Under 18 years,All places,346.0,0.346
+2003,Under 18 years,All places,330.0,0.33
+2004,Under 18 years,All places,320.0,0.32
+2005,Under 18 years,All places,348.0,0.348
+2006,Under 18 years,All places,325.0,0.325
+2007,Under 18 years,All places,330.0,0.33
+2008,Under 18 years,All places,312.0,0.312
+2009,Under 18 years,All places,339.0,0.339
+2010,Under 18 years,All places,341.0,0.341
+2011,Under 18 years,All places,397.0,0.397
+2000,18-44 years,All places,301.0,0.301
+2001,18-44 years,All places,327.0,0.327
+2002,18-44 years,All places,317.0,0.317
+2003,18-44 years,All places,308.0,0.308
+2004,18-44 years,All places,289.0,0.289
+2005,18-44 years,All places,306.0,0.306
+2006,18-44 years,All places,292.0,0.292
+2007,18-44 years,All places,298.0,0.298
+2008,18-44 years,All places,299.0,0.299
+2009,18-44 years,All places,312.0,0.312
+2010,18-44 years,All places,319.0,0.319
+2011,18-44 years,All places,312.0,0.312
+2000,45-54 years,All places,386.0,0.386
+2001,45-54 years,All places,434.0,0.434
+2002,45-54 years,All places,439.0,0.439
+2003,45-54 years,All places,409.0,0.409
+2004,45-54 years,All places,391.0,0.391
+2005,45-54 years,All places,416.0,0.416
+2006,45-54 years,All places,379.0,0.379
+2007,45-54 years,All places,381.0,0.381
+2008,45-54 years,All places,387.0,0.387
+2009,45-54 years,All places,432.0,0.432
+2010,45-54 years,All places,389.0,0.389
+2011,45-54 years,All places,378.0,0.378
+2000,55-64 years,All places,480.0,0.48
+2001,55-64 years,All places,552.0,0.552
+2002,55-64 years,All places,534.0,0.534
+2003,55-64 years,All places,500.0,0.5
+2004,55-64 years,All places,514.0,0.514
+2005,55-64 years,All places,534.0,0.534
+2006,55-64 years,All places,465.0,0.465
+2007,55-64 years,All places,498.0,0.498
+2008,55-64 years,All places,512.0,0.512
+2009,55-64 years,All places,531.0,0.531
+2010,55-64 years,All places,505.0,0.505
+2011,55-64 years,All places,474.0,0.474
+2000,65-74 years,All places,641.0,0.641
+2001,65-74 years,All places,778.0,0.778
+2002,65-74 years,All places,734.0,0.734
+2003,65-74 years,All places,653.0,0.653
+2004,65-74 years,All places,685.0,0.685
+2005,65-74 years,All places,727.0,0.727
+2006,65-74 years,All places,672.0,0.672
+2007,65-74 years,All places,735.0,0.735
+2008,65-74 years,All places,729.0,0.729
+2009,65-74 years,All places,752.0,0.752
+2010,65-74 years,All places,727.0,0.727
+2011,65-74 years,All places,677.0,0.677
+2000,75 years and over,All places,764.0,0.764
+2001,75 years and over,All places,938.0,0.938
+2002,75 years and over,All places,880.0,0.88
+2003,75 years and over,All places,844.0,0.844
+2004,75 years and over,All places,832.0,0.832
+2005,75 years and over,All places,854.0,0.854
+2006,75 years and over,All places,820.0,0.82
+2007,75 years and over,All places,856.0,0.856
+2008,75 years and over,All places,855.0,0.855
+2009,75 years and over,All places,936.0,0.936
+2010,75 years and over,All places,838.0,0.838
+2011,75 years and over,All places,815.0,0.815
+2000,Under 18 years,All places,264.0,0.264
+2001,Under 18 years,All places,210.0,0.21
+2002,Under 18 years,All places,307.0,0.307
+2003,Under 18 years,All places,248.0,0.248
+2004,Under 18 years,All places,267.0,0.267
+2005,Under 18 years,All places,278.0,0.278
+2006,Under 18 years,All places,299.0,0.299
+2007,Under 18 years,All places,351.0,0.351
+2008,Under 18 years,All places,335.0,0.335
+2009,Under 18 years,All places,315.0,0.315
+2010,Under 18 years,All places,351.0,0.351
+2011,Under 18 years,All places,275.0,0.275
+2000,18-44 years,All places,257.0,0.257
+2001,18-44 years,All places,291.0,0.291
+2002,18-44 years,All places,316.0,0.316
+2003,18-44 years,All places,329.0,0.329
+2004,18-44 years,All places,336.0,0.336
+2005,18-44 years,All places,295.0,0.295
+2006,18-44 years,All places,331.0,0.331
+2007,18-44 years,All places,380.0,0.38
+2008,18-44 years,All places,343.0,0.343
+2009,18-44 years,All places,373.0,0.373
+2010,18-44 years,All places,339.0,0.339
+2011,18-44 years,All places,350.0,0.35
+2009,All ages,Physician offices,1037796.0,1037.796
+2000,45-54 years,All places,383.0,0.383
+2001,45-54 years,All places,454.0,0.454
+2002,45-54 years,All places,422.0,0.422
+2003,45-54 years,All places,445.0,0.445
+2004,45-54 years,All places,453.0,0.453
+2005,45-54 years,All places,422.0,0.422
+2006,45-54 years,All places,438.0,0.438
+2007,45-54 years,All places,490.0,0.49
+2008,45-54 years,All places,445.0,0.445
+2009,45-54 years,All places,486.0,0.486
+2010,45-54 years,All places,466.0,0.466
+2011,45-54 years,All places,550.0,0.55
+2000,55-64 years,All places,495.0,0.495
+2001,55-64 years,All places,519.0,0.519
+2002,55-64 years,All places,563.0,0.563
+2003,55-64 years,All places,487.0,0.487
+2004,55-64 years,All places,596.0,0.596
+2005,55-64 years,All places,515.0,0.515
+2006,55-64 years,All places,515.0,0.515
+2007,55-64 years,All places,592.0,0.592
+2008,55-64 years,All places,589.0,0.589
+2009,55-64 years,All places,645.0,0.645
+2010,55-64 years,All places,617.0,0.617
+2011,55-64 years,All places,566.0,0.566
+2000,65-74 years,All places,656.0,0.656
+2001,65-74 years,All places,633.0,0.633
+2002,65-74 years,All places,842.0,0.842
+2003,65-74 years,All places,761.0,0.761
+2004,65-74 years,All places,847.0,0.847
+2005,65-74 years,All places,745.0,0.745
+2006,65-74 years,All places,615.0,0.615
+2007,65-74 years,All places,900.0,0.9
+2008,65-74 years,All places,809.0,0.809
+2009,65-74 years,All places,821.0,0.821
+2010,65-74 years,All places,715.0,0.715
+2011,65-74 years,All places,733.0,0.733
+2000,75 years and over,All places,745.0,0.745
+2001,75 years and over,All places,676.0,0.676
+2002,75 years and over,All places,1019.0,1.019
+2003,75 years and over,All places,774.0,0.774
+2004,75 years and over,All places,833.0,0.833
+2005,75 years and over,All places,982.0,0.982
+2006,75 years and over,All places,744.0,0.744
+2007,75 years and over,All places,966.0,0.966
+2008,75 years and over,All places,942.0,0.942
+2009,75 years and over,All places,908.0,0.908
+2010,75 years and over,All places,845.0,0.845
+2011,75 years and over,All places,821.0,0.821
+2000,All ages,Physician offices,823542.0,823.542
+2001,All ages,Physician offices,951214.0,951.214
+2002,All ages,Physician offices,964304.0,964.304
+2003,All ages,Physician offices,906023.0,906.023
+2004,All ages,Physician offices,910857.0,910.857
+2005,All ages,Physician offices,963617.0,963.617
+2006,All ages,Physician offices,901954.0,901.954
+2007,All ages,Physician offices,994321.0,994.321
+2008,All ages,Physician offices,955969.0,955.969
+2010,All ages,Physician offices,1008802.0,1008.802
+2011,All ages,Physician offices,987029.0,987.029
+2012,All ages,Physician offices,928630.0,928.63
+2013,All ages,Physician offices,922596.0,922.596
+2014,All ages,Physician offices,884707.0,884.707
+2015,All ages,Physician offices,990808.0,990.808
+2016,All ages,Physician offices,883725.0,883.725
+2018,All ages,Physician offices,860386.0,860.386
+2000,Under 18 years,Physician offices,163459.0,163.459
+2001,Under 18 years,Physician offices,173383.0,173.383
+2002,Under 18 years,Physician offices,188933.0,188.933
+2003,Under 18 years,Physician offices,169392.0,169.392
+2004,Under 18 years,Physician offices,171459.0,171.459
+2005,Under 18 years,Physician offices,185186.0,185.186
+2006,Under 18 years,Physician offices,181560.0,181.56
+2007,Under 18 years,Physician offices,194959.0,194.959
+2008,Under 18 years,Physician offices,171744.0,171.744
+2009,Under 18 years,Physician offices,183999.0,183.999
+2010,Under 18 years,Physician offices,191500.0,191.5
+2011,Under 18 years,Physician offices,206285.0,206.285
+2012,Under 18 years,Physician offices,171045.0,171.045
+2013,Under 18 years,Physician offices,151036.0,151.036
+2014,Under 18 years,Physician offices,138814.0,138.814
+2015,Under 18 years,Physician offices,149556.0,149.556
+2016,Under 18 years,Physician offices,177481.0,177.481
+2018,Under 18 years,Physician offices,128781.0,128.781
+2000,18-44 years,Physician offices,243011.0,243.011
+2001,18-44 years,Physician offices,267844.0,267.844
+2002,18-44 years,Physician offices,263672.0,263.672
+2003,18-44 years,Physician offices,251853.0,251.853
+2004,18-44 years,Physician offices,241305.0,241.305
+2005,18-44 years,Physician offices,247568.0,247.568
+2006,18-44 years,Physician offices,234063.0,234.063
+2007,18-44 years,Physician offices,257257.0,257.257
+2008,18-44 years,Physician offices,243979.0,243.979
+2009,18-44 years,Physician offices,257890.0,257.89
+2010,18-44 years,Physician offices,261941.0,261.941
+2011,18-44 years,Physician offices,239224.0,239.224
+2012,18-44 years,Physician offices,234645.0,234.645
+2013,18-44 years,Physician offices,224256.0,224.256
+2014,18-44 years,Physician offices,207951.0,207.951
+2015,18-44 years,Physician offices,230511.0,230.511
+2016,18-44 years,Physician offices,215191.0,215.191
+2018,18-44 years,Physician offices,198673.0,198.673
+2000,45-64 years,Physician offices,216783.0,216.783
+2001,45-64 years,Physician offices,259718.0,259.718
+2002,45-64 years,Physician offices,267249.0,267.249
+2003,45-64 years,Physician offices,257258.0,257.258
+2004,45-64 years,Physician offices,264103.0,264.103
+2005,45-64 years,Physician offices,283180.0,283.18
+2006,45-64 years,Physician offices,256494.0,256.494
+2007,45-64 years,Physician offices,283890.0,283.89
+2008,45-64 years,Physician offices,284110.0,284.11
+2009,45-64 years,Physician offices,316395.0,316.395
+2010,45-64 years,Physician offices,296385.0,296.385
+2011,45-64 years,Physician offices,285784.0,285.784
+2012,45-64 years,Physician offices,275307.0,275.307
+2013,45-64 years,Physician offices,282109.0,282.109
+2014,45-64 years,Physician offices,273423.0,273.423
+2015,45-64 years,Physician offices,305071.0,305.071
+2016,45-64 years,Physician offices,252037.0,252.037
+2018,45-64 years,Physician offices,251488.0,251.488
+2000,45-54 years,Physician offices,119474.0,119.474
+2001,45-54 years,Physician offices,141598.0,141.598
+2002,45-54 years,Physician offices,145767.0,145.767
+2003,45-54 years,Physician offices,138634.0,138.634
+2004,45-54 years,Physician offices,135082.0,135.082
+2005,45-54 years,Physician offices,145034.0,145.034
+2006,45-54 years,Physician offices,133402.0,133.402
+2007,45-54 years,Physician offices,141478.0,141.478
+2008,45-54 years,Physician offices,137776.0,137.776
+2009,45-54 years,Physician offices,158120.0,158.12
+2010,45-54 years,Physician offices,140819.0,140.819
+2011,45-54 years,Physician offices,136429.0,136.429
+2012,45-54 years,Physician offices,129816.0,129.816
+2013,45-54 years,Physician offices,131013.0,131.013
+2014,45-54 years,Physician offices,124449.0,124.449
+2015,45-54 years,Physician offices,142016.0,142.016
+2016,45-54 years,Physician offices,113724.0,113.724
+2018,45-54 years,Physician offices,111899.0,111.899
+2000,55-64 years,Physician offices,97309.0,97.309
+2001,55-64 years,Physician offices,118120.0,118.12
+2002,55-64 years,Physician offices,121482.0,121.482
+2003,55-64 years,Physician offices,118624.0,118.624
+2004,55-64 years,Physician offices,129020.0,129.02
+2005,55-64 years,Physician offices,138146.0,138.146
+2006,55-64 years,Physician offices,123092.0,123.092
+2007,55-64 years,Physician offices,142412.0,142.412
+2008,55-64 years,Physician offices,146335.0,146.335
+2009,55-64 years,Physician offices,158275.0,158.275
+2010,55-64 years,Physician offices,155566.0,155.566
+2011,55-64 years,Physician offices,149355.0,149.355
+2012,55-64 years,Physician offices,145491.0,145.491
+2013,55-64 years,Physician offices,151096.0,151.096
+2014,55-64 years,Physician offices,148974.0,148.974
+2015,55-64 years,Physician offices,163055.0,163.055
+2016,55-64 years,Physician offices,138313.0,138.313
+2018,55-64 years,Physician offices,139589.0,139.589
+2000,65 years and over,Physician offices,200289.0,200.289
+2001,65 years and over,Physician offices,250269.0,250.269
+2002,65 years and over,Physician offices,244451.0,244.451
+2003,65 years and over,Physician offices,227520.0,227.52
+2004,65 years and over,Physician offices,233991.0,233.991
+2005,65 years and over,Physician offices,247683.0,247.683
+2006,65 years and over,Physician offices,229837.0,229.837
+2007,65 years and over,Physician offices,258214.0,258.214
+2008,65 years and over,Physician offices,256135.0,256.135
+2009,65 years and over,Physician offices,279514.0,279.514
+2010,65 years and over,Physician offices,258976.0,258.976
+2011,65 years and over,Physician offices,255736.0,255.736
+2012,65 years and over,Physician offices,247634.0,247.634
+2013,65 years and over,Physician offices,265195.0,265.195
+2014,65 years and over,Physician offices,264518.0,264.518
+2015,65 years and over,Physician offices,305670.0,305.67
+2016,65 years and over,Physician offices,239016.0,239.016
+2018,65 years and over,Physician offices,281444.0,281.444
+2000,65-74 years,Physician offices,102447.0,102.447
+2001,65-74 years,Physician offices,122970.0,122.97
+2002,65-74 years,Physician offices,118971.0,118.971
+2003,65-74 years,Physician offices,106424.0,106.424
+2004,65-74 years,Physician offices,113426.0,113.426
+2005,65-74 years,Physician offices,119061.0,119.061
+2006,65-74 years,Physician offices,108063.0,108.063
+2007,65-74 years,Physician offices,127805.0,127.805
+2008,65-74 years,Physician offices,127125.0,127.125
+2009,65-74 years,Physician offices,137452.0,137.452
+2010,65-74 years,Physician offices,132201.0,132.201
+2011,65-74 years,Physician offices,131233.0,131.233
+2012,65-74 years,Physician offices,126436.0,126.436
+2013,65-74 years,Physician offices,141507.0,141.507
+2014,65-74 years,Physician offices,143355.0,143.355
+2015,65-74 years,Physician offices,159752.0,159.752
+2016,65-74 years,Physician offices,132148.0,132.148
+2018,65-74 years,Physician offices,147017.0,147.017
+2000,75 years and over,Physician offices,97842.0,97.842
+2001,75 years and over,Physician offices,127299.0,127.299
+2002,75 years and over,Physician offices,125479.0,125.479
+2003,75 years and over,Physician offices,121096.0,121.096
+2004,75 years and over,Physician offices,120565.0,120.565
+2005,75 years and over,Physician offices,128623.0,128.623
+2006,75 years and over,Physician offices,121774.0,121.774
+2007,75 years and over,Physician offices,130409.0,130.409
+2008,75 years and over,Physician offices,129010.0,129.01
+2009,75 years and over,Physician offices,142062.0,142.062
+2010,75 years and over,Physician offices,126775.0,126.775
+2011,75 years and over,Physician offices,124503.0,124.503
+2012,75 years and over,Physician offices,121197.0,121.197
+2013,75 years and over,Physician offices,123688.0,123.688
+2014,75 years and over,Physician offices,121164.0,121.164
+2015,75 years and over,Physician offices,145918.0,145.918
+2016,75 years and over,Physician offices,106868.0,106.868
+2018,75 years and over,Physician offices,134427.0,134.427
+2000,All ages,Physician offices,304.0,0.304
+2001,All ages,Physician offices,342.0,0.342
+2002,All ages,Physician offices,342.0,0.342
+2003,All ages,Physician offices,317.0,0.317
+2004,All ages,Physician offices,315.0,0.315
+2005,All ages,Physician offices,329.0,0.329
+2006,All ages,Physician offices,305.0,0.305
+2007,All ages,Physician offices,332.0,0.332
+2008,All ages,Physician offices,315.0,0.315
+2009,All ages,Physician offices,337.0,0.337
+2010,All ages,Physician offices,325.0,0.325
+2011,All ages,Physician offices,314.0,0.314
+2012,All ages,Physician offices,292.0,0.292
+2013,All ages,Physician offices,285.0,0.285
+2014,All ages,Physician offices,268.0,0.268
+2015,All ages,Physician offices,297.0,0.297
+2016,All ages,Physician offices,267.0,0.267
+2018,All ages,Physician offices,250.0,0.25
+2000,All ages,Physician offices,261.0,0.261
+2001,All ages,Physician offices,294.0,0.294
+2002,All ages,Physician offices,293.0,0.293
+2003,All ages,Physician offices,273.0,0.273
+2004,All ages,Physician offices,274.0,0.274
+2005,All ages,Physician offices,289.0,0.289
+2006,All ages,Physician offices,262.0,0.262
+2007,All ages,Physician offices,290.0,0.29
+2008,All ages,Physician offices,265.0,0.265
+2009,All ages,Physician offices,290.0,0.29
+2010,All ages,Physician offices,283.0,0.283
+2011,All ages,Physician offices,280.0,0.28
+2012,All ages,Physician offices,254.0,0.254
+2013,All ages,Physician offices,250.0,0.25
+2014,All ages,Physician offices,238.0,0.238
+2015,All ages,Physician offices,252.0,0.252
+2016,All ages,Physician offices,230.0,0.23
+2018,All ages,Physician offices,214.0,0.214
+2000,All ages,Physician offices,345.0,0.345
+2001,All ages,Physician offices,388.0,0.388
+2002,All ages,Physician offices,388.0,0.388
+2003,All ages,Physician offices,360.0,0.36
+2004,All ages,Physician offices,355.0,0.355
+2005,All ages,Physician offices,367.0,0.367
+2006,All ages,Physician offices,346.0,0.346
+2007,All ages,Physician offices,374.0,0.374
+2008,All ages,Physician offices,363.0,0.363
+2009,All ages,Physician offices,383.0,0.383
+2010,All ages,Physician offices,367.0,0.367
+2011,All ages,Physician offices,348.0,0.348
+2012,All ages,Physician offices,328.0,0.328
+2013,All ages,Physician offices,318.0,0.318
+2014,All ages,Physician offices,298.0,0.298
+2015,All ages,Physician offices,342.0,0.342
+2016,All ages,Physician offices,301.0,0.301
+2018,All ages,Physician offices,286.0,0.286
+2000,All ages,Physician offices,315.0,0.315
+2001,All ages,Physician offices,364.0,0.364
+2002,All ages,Physician offices,359.0,0.359
+2003,All ages,Physician offices,332.0,0.332
+2004,All ages,Physician offices,327.0,0.327
+2005,All ages,Physician offices,347.0,0.347
+2006,All ages,Physician offices,317.0,0.317
+2007,All ages,Physician offices,335.0,0.335
+2008,All ages,Physician offices,324.0,0.324
+2009,All ages,Physician offices,351.0,0.351
+2010,All ages,Physician offices,336.0,0.336
+2011,All ages,Physician offices,333.0,0.333
+2012,All ages,Physician offices,315.0,0.315
+2013,All ages,Physician offices,304.0,0.304
+2014,All ages,Physician offices,289.0,0.289
+2015,All ages,Physician offices,293.0,0.293
+2016,All ages,Physician offices,286.0,0.286
+2018,All ages,Physician offices,269.0,0.269
+2000,All ages,Physician offices,239.0,0.239
+2001,All ages,Physician offices,242.0,0.242
+2002,All ages,Physician offices,301.0,0.301
+2003,All ages,Physician offices,261.0,0.261
+2004,All ages,Physician offices,298.0,0.298
+2005,All ages,Physician offices,270.0,0.27
+2006,All ages,Physician offices,251.0,0.251
+2007,All ages,Physician offices,339.0,0.339
+2008,All ages,Physician offices,296.0,0.296
+2009,All ages,Physician offices,314.0,0.314
+2010,All ages,Physician offices,316.0,0.316
+2011,All ages,Physician offices,277.0,0.277
+2012,All ages,Physician offices,229.0,0.229
+2013,All ages,Physician offices,243.0,0.243
+2014,All ages,Physician offices,206.0,0.206
+2015,All ages,Physician offices,326.0,0.326
+2016,All ages,Physician offices,227.0,0.227
+2018,All ages,Physician offices,172.0,0.172
+2000,All ages,Physician offices,300.0,0.3
+2001,All ages,Physician offices,340.0,0.34
+2002,All ages,Physician offices,341.0,0.341
+2003,All ages,Physician offices,317.0,0.317
+2004,All ages,Physician offices,316.0,0.316
+2005,All ages,Physician offices,331.0,0.331
+2006,All ages,Physician offices,307.0,0.307
+2007,All ages,Physician offices,336.0,0.336
+2008,All ages,Physician offices,320.0,0.32
+2009,All ages,Physician offices,344.0,0.344
+2010,All ages,Physician offices,332.0,0.332
+2011,All ages,Physician offices,322.0,0.322
+2012,All ages,Physician offices,301.0,0.301
+2013,All ages,Physician offices,297.0,0.297
+2014,All ages,Physician offices,282.0,0.282
+2015,All ages,Physician offices,313.0,0.313
+2016,All ages,Physician offices,278.0,0.278
+2018,All ages,Physician offices,267.0,0.267
+2000,Under 18 years,Physician offices,226.0,0.226
+2001,Under 18 years,Physician offices,239.0,0.239
+2002,Under 18 years,Physician offices,260.0,0.26
+2003,Under 18 years,Physician offices,232.0,0.232
+2004,Under 18 years,Physician offices,235.0,0.235
+2005,Under 18 years,Physician offices,253.0,0.253
+2006,Under 18 years,Physician offices,247.0,0.247
+2007,Under 18 years,Physician offices,264.0,0.264
+2008,Under 18 years,Physician offices,233.0,0.233
+2009,Under 18 years,Physician offices,247.0,0.247
+2010,Under 18 years,Physician offices,257.0,0.257
+2011,Under 18 years,Physician offices,280.0,0.28
+2012,Under 18 years,Physician offices,232.0,0.232
+2013,Under 18 years,Physician offices,206.0,0.206
+2014,Under 18 years,Physician offices,189.0,0.189
+2015,Under 18 years,Physician offices,203.0,0.203
+2016,Under 18 years,Physician offices,241.0,0.241
+2018,Under 18 years,Physician offices,176.0,0.176
+2000,18-44 years,Physician offices,224.0,0.224
+2001,18-44 years,Physician offices,244.0,0.244
+2002,18-44 years,Physician offices,239.0,0.239
+2003,18-44 years,Physician offices,229.0,0.229
+2004,18-44 years,Physician offices,219.0,0.219
+2005,18-44 years,Physician offices,224.0,0.224
+2006,18-44 years,Physician offices,212.0,0.212
+2007,18-44 years,Physician offices,233.0,0.233
+2008,18-44 years,Physician offices,221.0,0.221
+2009,18-44 years,Physician offices,234.0,0.234
+2010,18-44 years,Physician offices,237.0,0.237
+2011,18-44 years,Physician offices,216.0,0.216
+2012,18-44 years,Physician offices,211.0,0.211
+2013,18-44 years,Physician offices,201.0,0.201
+2014,18-44 years,Physician offices,185.0,0.185
+2015,18-44 years,Physician offices,204.0,0.204
+2016,18-44 years,Physician offices,190.0,0.19
+2018,18-44 years,Physician offices,173.0,0.173
+2000,45-64 years,Physician offices,358.0,0.358
+2001,45-64 years,Physician offices,406.0,0.406
+2002,45-64 years,Physician offices,404.0,0.404
+2003,45-64 years,Physician offices,377.0,0.377
+2004,45-64 years,Physician offices,376.0,0.376
+2005,45-64 years,Physician offices,391.0,0.391
+2006,45-64 years,Physician offices,345.0,0.345
+2007,45-64 years,Physician offices,373.0,0.373
+2008,45-64 years,Physician offices,367.0,0.367
+2009,45-64 years,Physician offices,401.0,0.401
+2010,45-64 years,Physician offices,371.0,0.371
+2011,45-64 years,Physician offices,349.0,0.349
+2012,45-64 years,Physician offices,335.0,0.335
+2013,45-64 years,Physician offices,343.0,0.343
+2014,45-64 years,Physician offices,330.0,0.33
+2015,45-64 years,Physician offices,366.0,0.366
+2016,45-64 years,Physician offices,302.0,0.302
+2018,45-64 years,Physician offices,302.0,0.302
+2000,45-54 years,Physician offices,323.0,0.323
+2001,45-54 years,Physician offices,364.0,0.364
+2002,45-54 years,Physician offices,367.0,0.367
+2003,45-54 years,Physician offices,343.0,0.343
+2004,45-54 years,Physician offices,327.0,0.327
+2005,45-54 years,Physician offices,344.0,0.344
+2006,45-54 years,Physician offices,311.0,0.311
+2007,45-54 years,Physician offices,325.0,0.325
+2008,45-54 years,Physician offices,313.0,0.313
+2009,45-54 years,Physician offices,358.0,0.358
+2010,45-54 years,Physician offices,320.0,0.32
+2011,45-54 years,Physician offices,309.0,0.309
+2012,45-54 years,Physician offices,297.0,0.297
+2013,45-54 years,Physician offices,303.0,0.303
+2014,45-54 years,Physician offices,290.0,0.29
+2015,45-54 years,Physician offices,333.0,0.333
+2016,45-54 years,Physician offices,269.0,0.269
+2018,45-54 years,Physician offices,272.0,0.272
+2000,55-64 years,Physician offices,412.0,0.412
+2001,55-64 years,Physician offices,470.0,0.47
+2002,55-64 years,Physician offices,459.0,0.459
+2003,55-64 years,Physician offices,428.0,0.428
+2004,55-64 years,Physician offices,446.0,0.446
+2005,55-64 years,Physician offices,458.0,0.458
+2006,55-64 years,Physician offices,392.0,0.392
+2007,55-64 years,Physician offices,438.0,0.438
+2008,55-64 years,Physician offices,437.0,0.437
+2009,55-64 years,Physician offices,457.0,0.457
+2010,55-64 years,Physician offices,434.0,0.434
+2011,55-64 years,Physician offices,395.0,0.395
+2012,55-64 years,Physician offices,380.0,0.38
+2013,55-64 years,Physician offices,387.0,0.387
+2014,55-64 years,Physician offices,374.0,0.374
+2015,55-64 years,Physician offices,401.0,0.401
+2016,55-64 years,Physician offices,336.0,0.336
+2018,55-64 years,Physician offices,332.0,0.332
+2000,65 years and over,Physician offices,612.0,0.612
+2001,65 years and over,Physician offices,742.0,0.742
+2002,65 years and over,Physician offices,720.0,0.72
+2003,65 years and over,Physician offices,664.0,0.664
+2004,65 years and over,Physician offices,675.0,0.675
+2005,65 years and over,Physician offices,705.0,0.705
+2006,65 years and over,Physician offices,645.0,0.645
+2007,65 years and over,Physician offices,712.0,0.712
+2008,65 years and over,Physician offices,688.0,0.688
+2009,65 years and over,Physician offices,737.0,0.737
+2010,65 years and over,Physician offices,666.0,0.666
+2011,65 years and over,Physician offices,638.0,0.638
+2012,65 years and over,Physician offices,592.0,0.592
+2013,65 years and over,Physician offices,611.0,0.611
+2014,65 years and over,Physician offices,589.0,0.589
+2015,65 years and over,Physician offices,658.0,0.658
+2016,65 years and over,Physician offices,498.0,0.498
+2018,65 years and over,Physician offices,550.0,0.55
+2000,65-74 years,Physician offices,577.0,0.577
+2001,65-74 years,Physician offices,680.0,0.68
+2002,65-74 years,Physician offices,660.0,0.66
+2003,65-74 years,Physician offices,588.0,0.588
+2004,65-74 years,Physician offices,623.0,0.623
+2005,65-74 years,Physician offices,647.0,0.647
+2006,65-74 years,Physician offices,579.0,0.579
+2007,65-74 years,Physician offices,669.0,0.669
+2008,65-74 years,Physician offices,639.0,0.639
+2009,65-74 years,Physician offices,669.0,0.669
+2010,65-74 years,Physician offices,624.0,0.624
+2011,65-74 years,Physician offices,590.0,0.59
+2012,65-74 years,Physician offices,532.0,0.532
+2013,65-74 years,Physician offices,566.0,0.566
+2014,65-74 years,Physician offices,548.0,0.548
+2015,65-74 years,Physician offices,585.0,0.585
+2016,65-74 years,Physician offices,465.0,0.465
+2018,65-74 years,Physician offices,486.0,0.486
+2000,75 years and over,Physician offices,654.0,0.654
+2001,75 years and over,Physician offices,814.0,0.814
+2002,75 years and over,Physician offices,788.0,0.788
+2003,75 years and over,Physician offices,748.0,0.748
+2004,75 years and over,Physician offices,734.0,0.734
+2005,75 years and over,Physician offices,768.0,0.768
+2006,75 years and over,Physician offices,719.0,0.719
+2007,75 years and over,Physician offices,761.0,0.761
+2008,75 years and over,Physician offices,743.0,0.743
+2009,75 years and over,Physician offices,817.0,0.817
+2010,75 years and over,Physician offices,715.0,0.715
+2011,75 years and over,Physician offices,698.0,0.698
+2012,75 years and over,Physician offices,670.0,0.67
+2013,75 years and over,Physician offices,672.0,0.672
+2014,75 years and over,Physician offices,645.0,0.645
+2015,75 years and over,Physician offices,762.0,0.762
+2016,75 years and over,Physician offices,547.0,0.547
+2018,75 years and over,Physician offices,644.0,0.644
+2000,All ages,Physician offices,251.0,0.251
+2001,All ages,Physician offices,281.0,0.281
+2002,All ages,Physician offices,283.0,0.283
+2003,All ages,Physician offices,264.0,0.264
+2004,All ages,Physician offices,266.0,0.266
+2005,All ages,Physician offices,283.0,0.283
+2006,All ages,Physician offices,256.0,0.256
+2007,All ages,Physician offices,285.0,0.285
+2008,All ages,Physician offices,262.0,0.262
+2009,All ages,Physician offices,289.0,0.289
+2010,All ages,Physician offices,283.0,0.283
+2011,All ages,Physician offices,281.0,0.281
+2012,All ages,Physician offices,258.0,0.258
+2013,All ages,Physician offices,256.0,0.256
+2014,All ages,Physician offices,245.0,0.245
+2015,All ages,Physician offices,262.0,0.262
+2016,All ages,Physician offices,239.0,0.239
+2018,All ages,Physician offices,224.0,0.224
+2000,All ages,Physician offices,348.0,0.348
+2001,All ages,Physician offices,395.0,0.395
+2002,All ages,Physician offices,396.0,0.396
+2003,All ages,Physician offices,368.0,0.368
+2004,All ages,Physician offices,363.0,0.363
+2005,All ages,Physician offices,377.0,0.377
+2006,All ages,Physician offices,355.0,0.355
+2007,All ages,Physician offices,384.0,0.384
+2008,All ages,Physician offices,376.0,0.376
+2009,All ages,Physician offices,397.0,0.397
+2010,All ages,Physician offices,379.0,0.379
+2011,All ages,Physician offices,361.0,0.361
+2012,All ages,Physician offices,342.0,0.342
+2013,All ages,Physician offices,336.0,0.336
+2014,All ages,Physician offices,317.0,0.317
+2015,All ages,Physician offices,362.0,0.362
+2016,All ages,Physician offices,315.0,0.315
+2018,All ages,Physician offices,308.0,0.308
+2000,Under 18 years,Physician offices,231.0,0.231
+2001,Under 18 years,Physician offices,238.0,0.238
+2002,Under 18 years,Physician offices,262.0,0.262
+2003,Under 18 years,Physician offices,241.0,0.241
+2004,Under 18 years,Physician offices,239.0,0.239
+2005,Under 18 years,Physician offices,265.0,0.265
+2006,Under 18 years,Physician offices,242.0,0.242
+2007,Under 18 years,Physician offices,268.0,0.268
+2008,Under 18 years,Physician offices,233.0,0.233
+2009,Under 18 years,Physician offices,257.0,0.257
+2010,Under 18 years,Physician offices,262.0,0.262
+2011,Under 18 years,Physician offices,294.0,0.294
+2012,Under 18 years,Physician offices,236.0,0.236
+2013,Under 18 years,Physician offices,206.0,0.206
+2014,Under 18 years,Physician offices,197.0,0.197
+2015,Under 18 years,Physician offices,203.0,0.203
+2016,Under 18 years,Physician offices,248.0,0.248
+2018,Under 18 years,Physician offices,179.0,0.179
+2000,18-44 years,Physician offices,148.0,0.148
+2001,18-44 years,Physician offices,163.0,0.163
+2002,18-44 years,Physician offices,161.0,0.161
+2003,18-44 years,Physician offices,147.0,0.147
+2004,18-44 years,Physician offices,136.0,0.136
+2005,18-44 years,Physician offices,158.0,0.158
+2006,18-44 years,Physician offices,139.0,0.139
+2007,18-44 years,Physician offices,151.0,0.151
+2008,18-44 years,Physician offices,131.0,0.131
+2009,18-44 years,Physician offices,145.0,0.145
+2010,18-44 years,Physician offices,151.0,0.151
+2011,18-44 years,Physician offices,145.0,0.145
+2012,18-44 years,Physician offices,140.0,0.14
+2013,18-44 years,Physician offices,137.0,0.137
+2014,18-44 years,Physician offices,129.0,0.129
+2015,18-44 years,Physician offices,122.0,0.122
+2016,18-44 years,Physician offices,118.0,0.118
+2018,18-44 years,Physician offices,103.0,0.103
+2000,45-54 years,Physician offices,260.0,0.26
+2001,45-54 years,Physician offices,294.0,0.294
+2002,45-54 years,Physician offices,298.0,0.298
+2003,45-54 years,Physician offices,280.0,0.28
+2004,45-54 years,Physician offices,280.0,0.28
+2005,45-54 years,Physician offices,278.0,0.278
+2006,45-54 years,Physician offices,260.0,0.26
+2007,45-54 years,Physician offices,262.0,0.262
+2008,45-54 years,Physician offices,255.0,0.255
+2009,45-54 years,Physician offices,296.0,0.296
+2010,45-54 years,Physician offices,265.0,0.265
+2011,45-54 years,Physician offices,250.0,0.25
+2012,45-54 years,Physician offices,251.0,0.251
+2013,45-54 years,Physician offices,263.0,0.263
+2014,45-54 years,Physician offices,245.0,0.245
+2015,45-54 years,Physician offices,251.0,0.251
+2016,45-54 years,Physician offices,220.0,0.22
+2018,45-54 years,Physician offices,234.0,0.234
+2000,55-64 years,Physician offices,367.0,0.367
+2001,55-64 years,Physician offices,399.0,0.399
+2002,55-64 years,Physician offices,393.0,0.393
+2003,55-64 years,Physician offices,365.0,0.365
+2004,55-64 years,Physician offices,398.0,0.398
+2005,55-64 years,Physician offices,411.0,0.411
+2006,55-64 years,Physician offices,344.0,0.344
+2007,55-64 years,Physician offices,396.0,0.396
+2008,55-64 years,Physician offices,373.0,0.373
+2009,55-64 years,Physician offices,403.0,0.403
+2010,55-64 years,Physician offices,396.0,0.396
+2011,55-64 years,Physician offices,351.0,0.351
+2012,55-64 years,Physician offices,343.0,0.343
+2013,55-64 years,Physician offices,359.0,0.359
+2014,55-64 years,Physician offices,340.0,0.34
+2015,55-64 years,Physician offices,378.0,0.378
+2016,55-64 years,Physician offices,310.0,0.31
+2018,55-64 years,Physician offices,277.0,0.277
+2000,65-74 years,Physician offices,539.0,0.539
+2001,65-74 years,Physician offices,654.0,0.654
+2002,65-74 years,Physician offices,631.0,0.631
+2003,65-74 years,Physician offices,558.0,0.558
+2004,65-74 years,Physician offices,604.0,0.604
+2005,65-74 years,Physician offices,619.0,0.619
+2006,65-74 years,Physician offices,554.0,0.554
+2007,65-74 years,Physician offices,661.0,0.661
+2008,65-74 years,Physician offices,604.0,0.604
+2009,65-74 years,Physician offices,654.0,0.654
+2010,65-74 years,Physician offices,597.0,0.597
+2011,65-74 years,Physician offices,566.0,0.566
+2012,65-74 years,Physician offices,505.0,0.505
+2013,65-74 years,Physician offices,530.0,0.53
+2014,65-74 years,Physician offices,510.0,0.51
+2015,65-74 years,Physician offices,560.0,0.56
+2016,65-74 years,Physician offices,462.0,0.462
+2018,65-74 years,Physician offices,459.0,0.459
+2000,75 years and over,Physician offices,670.0,0.67
+2001,75 years and over,Physician offices,840.0,0.84
+2002,75 years and over,Physician offices,762.0,0.762
+2003,75 years and over,Physician offices,777.0,0.777
+2004,75 years and over,Physician offices,771.0,0.771
+2005,75 years and over,Physician offices,741.0,0.741
+2006,75 years and over,Physician offices,709.0,0.709
+2007,75 years and over,Physician offices,801.0,0.801
+2008,75 years and over,Physician offices,768.0,0.768
+2009,75 years and over,Physician offices,807.0,0.807
+2010,75 years and over,Physician offices,760.0,0.76
+2011,75 years and over,Physician offices,758.0,0.758
+2012,75 years and over,Physician offices,685.0,0.685
+2013,75 years and over,Physician offices,679.0,0.679
+2014,75 years and over,Physician offices,671.0,0.671
+2015,75 years and over,Physician offices,799.0,0.799
+2016,75 years and over,Physician offices,542.0,0.542
+2018,75 years and over,Physician offices,681.0,0.681
+2000,Under 18 years,Physician offices,221.0,0.221
+2001,Under 18 years,Physician offices,240.0,0.24
+2002,Under 18 years,Physician offices,258.0,0.258
+2003,Under 18 years,Physician offices,223.0,0.223
+2004,Under 18 years,Physician offices,230.0,0.23
+2005,Under 18 years,Physician offices,240.0,0.24
+2006,Under 18 years,Physician offices,252.0,0.252
+2007,Under 18 years,Physician offices,261.0,0.261
+2008,Under 18 years,Physician offices,232.0,0.232
+2009,Under 18 years,Physician offices,237.0,0.237
+2010,Under 18 years,Physician offices,252.0,0.252
+2011,Under 18 years,Physician offices,265.0,0.265
+2012,Under 18 years,Physician offices,229.0,0.229
+2013,Under 18 years,Physician offices,206.0,0.206
+2014,Under 18 years,Physician offices,181.0,0.181
+2015,Under 18 years,Physician offices,204.0,0.204
+2016,Under 18 years,Physician offices,234.0,0.234
+2018,Under 18 years,Physician offices,172.0,0.172
+2000,18-44 years,Physician offices,298.0,0.298
+2001,18-44 years,Physician offices,323.0,0.323
+2002,18-44 years,Physician offices,316.0,0.316
+2003,18-44 years,Physician offices,309.0,0.309
+2004,18-44 years,Physician offices,300.0,0.3
+2005,18-44 years,Physician offices,290.0,0.29
+2006,18-44 years,Physician offices,284.0,0.284
+2007,18-44 years,Physician offices,315.0,0.315
+2008,18-44 years,Physician offices,311.0,0.311
+2009,18-44 years,Physician offices,322.0,0.322
+2010,18-44 years,Physician offices,323.0,0.323
+2011,18-44 years,Physician offices,286.0,0.286
+2012,18-44 years,Physician offices,281.0,0.281
+2013,18-44 years,Physician offices,263.0,0.263
+2014,18-44 years,Physician offices,240.0,0.24
+2015,18-44 years,Physician offices,285.0,0.285
+2016,18-44 years,Physician offices,262.0,0.262
+2018,18-44 years,Physician offices,243.0,0.243
+2000,45-54 years,Physician offices,384.0,0.384
+2001,45-54 years,Physician offices,431.0,0.431
+2002,45-54 years,Physician offices,433.0,0.433
+2003,45-54 years,Physician offices,403.0,0.403
+2004,45-54 years,Physician offices,373.0,0.373
+2005,45-54 years,Physician offices,408.0,0.408
+2006,45-54 years,Physician offices,359.0,0.359
+2007,45-54 years,Physician offices,386.0,0.386
+2008,45-54 years,Physician offices,369.0,0.369
+2009,45-54 years,Physician offices,417.0,0.417
+2010,45-54 years,Physician offices,372.0,0.372
+2011,45-54 years,Physician offices,364.0,0.364
+2012,45-54 years,Physician offices,340.0,0.34
+2013,45-54 years,Physician offices,341.0,0.341
+2014,45-54 years,Physician offices,333.0,0.333
+2015,45-54 years,Physician offices,411.0,0.411
+2016,45-54 years,Physician offices,316.0,0.316
+2018,45-54 years,Physician offices,308.0,0.308
+2000,55-64 years,Physician offices,453.0,0.453
+2001,55-64 years,Physician offices,535.0,0.535
+2002,55-64 years,Physician offices,521.0,0.521
+2003,55-64 years,Physician offices,486.0,0.486
+2004,55-64 years,Physician offices,490.0,0.49
+2005,55-64 years,Physician offices,501.0,0.501
+2006,55-64 years,Physician offices,436.0,0.436
+2007,55-64 years,Physician offices,477.0,0.477
+2008,55-64 years,Physician offices,496.0,0.496
+2009,55-64 years,Physician offices,507.0,0.507
+2010,55-64 years,Physician offices,469.0,0.469
+2011,55-64 years,Physician offices,436.0,0.436
+2012,55-64 years,Physician offices,413.0,0.413
+2013,55-64 years,Physician offices,413.0,0.413
+2014,55-64 years,Physician offices,406.0,0.406
+2015,55-64 years,Physician offices,424.0,0.424
+2016,55-64 years,Physician offices,359.0,0.359
+2018,55-64 years,Physician offices,383.0,0.383
+2000,65-74 years,Physician offices,609.0,0.609
+2001,65-74 years,Physician offices,702.0,0.702
+2002,65-74 years,Physician offices,684.0,0.684
+2003,65-74 years,Physician offices,613.0,0.613
+2004,65-74 years,Physician offices,638.0,0.638
+2005,65-74 years,Physician offices,671.0,0.671
+2006,65-74 years,Physician offices,600.0,0.6
+2007,65-74 years,Physician offices,676.0,0.676
+2008,65-74 years,Physician offices,669.0,0.669
+2009,65-74 years,Physician offices,681.0,0.681
+2010,65-74 years,Physician offices,647.0,0.647
+2011,65-74 years,Physician offices,611.0,0.611
+2012,65-74 years,Physician offices,556.0,0.556
+2013,65-74 years,Physician offices,598.0,0.598
+2014,65-74 years,Physician offices,581.0,0.581
+2015,65-74 years,Physician offices,607.0,0.607
+2016,65-74 years,Physician offices,468.0,0.468
+2018,65-74 years,Physician offices,509.0,0.509
+2000,75 years and over,Physician offices,645.0,0.645
+2001,75 years and over,Physician offices,798.0,0.798
+2002,75 years and over,Physician offices,804.0,0.804
+2003,75 years and over,Physician offices,730.0,0.73
+2004,75 years and over,Physician offices,710.0,0.71
+2005,75 years and over,Physician offices,785.0,0.785
+2006,75 years and over,Physician offices,725.0,0.725
+2007,75 years and over,Physician offices,735.0,0.735
+2008,75 years and over,Physician offices,728.0,0.728
+2009,75 years and over,Physician offices,823.0,0.823
+2010,75 years and over,Physician offices,685.0,0.685
+2011,75 years and over,Physician offices,657.0,0.657
+2012,75 years and over,Physician offices,660.0,0.66
+2013,75 years and over,Physician offices,667.0,0.667
+2014,75 years and over,Physician offices,627.0,0.627
+2015,75 years and over,Physician offices,736.0,0.736
+2016,75 years and over,Physician offices,550.0,0.55
+2018,75 years and over,Physician offices,617.0,0.617
+2000,All ages,Physician offices,316.0,0.316
+2001,All ages,Physician offices,369.0,0.369
+2002,All ages,Physician offices,364.0,0.364
+2003,All ages,Physician offices,337.0,0.337
+2004,All ages,Physician offices,334.0,0.334
+2005,All ages,Physician offices,355.0,0.355
+2006,All ages,Physician offices,324.0,0.324
+2007,All ages,Physician offices,345.0,0.345
+2008,All ages,Physician offices,336.0,0.336
+2009,All ages,Physician offices,365.0,0.365
+2010,All ages,Physician offices,349.0,0.349
+2011,All ages,Physician offices,345.0,0.345
+2012,All ages,Physician offices,330.0,0.33
+2013,All ages,Physician offices,323.0,0.323
+2014,All ages,Physician offices,310.0,0.31
+2015,All ages,Physician offices,315.0,0.315
+2016,All ages,Physician offices,302.0,0.302
+2018,All ages,Physician offices,293.0,0.293
+2000,All ages,Physician offices,214.0,0.214
+2001,All ages,Physician offices,217.0,0.217
+2002,All ages,Physician offices,269.0,0.269
+2003,All ages,Physician offices,236.0,0.236
+2004,All ages,Physician offices,271.0,0.271
+2005,All ages,Physician offices,243.0,0.243
+2006,All ages,Physician offices,235.0,0.235
+2007,All ages,Physician offices,317.0,0.317
+2008,All ages,Physician offices,276.0,0.276
+2009,All ages,Physician offices,296.0,0.296
+2010,All ages,Physician offices,303.0,0.303
+2011,All ages,Physician offices,266.0,0.266
+2012,All ages,Physician offices,221.0,0.221
+2013,All ages,Physician offices,235.0,0.235
+2014,All ages,Physician offices,199.0,0.199
+2015,All ages,Physician offices,316.0,0.316
+2016,All ages,Physician offices,224.0,0.224
+2018,All ages,Physician offices,171.0,0.171
+2000,Under 18 years,Physician offices,243.0,0.243
+2001,Under 18 years,Physician offices,268.0,0.268
+2002,Under 18 years,Physician offices,282.0,0.282
+2003,Under 18 years,Physician offices,260.0,0.26
+2004,Under 18 years,Physician offices,257.0,0.257
+2005,Under 18 years,Physician offices,280.0,0.28
+2006,Under 18 years,Physician offices,263.0,0.263
+2007,Under 18 years,Physician offices,273.0,0.273
+2008,Under 18 years,Physician offices,246.0,0.246
+2009,Under 18 years,Physician offices,269.0,0.269
+2010,Under 18 years,Physician offices,270.0,0.27
+2011,Under 18 years,Physician offices,324.0,0.324
+2012,Under 18 years,Physician offices,264.0,0.264
+2013,Under 18 years,Physician offices,230.0,0.23
+2014,Under 18 years,Physician offices,219.0,0.219
+2015,Under 18 years,Physician offices,213.0,0.213
+2016,Under 18 years,Physician offices,268.0,0.268
+2018,Under 18 years,Physician offices,198.0,0.198
+2000,18-44 years,Physician offices,239.0,0.239
+2001,18-44 years,Physician offices,264.0,0.264
+2002,18-44 years,Physician offices,256.0,0.256
+2003,18-44 years,Physician offices,242.0,0.242
+2004,18-44 years,Physician offices,228.0,0.228
+2005,18-44 years,Physician offices,242.0,0.242
+2006,18-44 years,Physician offices,225.0,0.225
+2007,18-44 years,Physician offices,235.0,0.235
+2008,18-44 years,Physician offices,230.0,0.23
+2009,18-44 years,Physician offices,244.0,0.244
+2010,18-44 years,Physician offices,249.0,0.249
+2011,18-44 years,Physician offices,233.0,0.233
+2012,18-44 years,Physician offices,231.0,0.231
+2013,18-44 years,Physician offices,218.0,0.218
+2014,18-44 years,Physician offices,203.0,0.203
+2015,18-44 years,Physician offices,211.0,0.211
+2016,18-44 years,Physician offices,205.0,0.205
+2018,18-44 years,Physician offices,188.0,0.188
+2000,45-54 years,Physician offices,330.0,0.33
+2001,45-54 years,Physician offices,378.0,0.378
+2002,45-54 years,Physician offices,385.0,0.385
+2003,45-54 years,Physician offices,352.0,0.352
+2004,45-54 years,Physician offices,336.0,0.336
+2005,45-54 years,Physician offices,362.0,0.362
+2006,45-54 years,Physician offices,317.0,0.317
+2007,45-54 years,Physician offices,324.0,0.324
+2008,45-54 years,Physician offices,325.0,0.325
+2009,45-54 years,Physician offices,369.0,0.369
+2010,45-54 years,Physician offices,326.0,0.326
+2011,45-54 years,Physician offices,305.0,0.305
+2012,45-54 years,Physician offices,313.0,0.313
+2013,45-54 years,Physician offices,318.0,0.318
+2014,45-54 years,Physician offices,308.0,0.308
+2015,45-54 years,Physician offices,310.0,0.31
+2016,45-54 years,Physician offices,289.0,0.289
+2018,45-54 years,Physician offices,295.0,0.295
+2000,55-64 years,Physician offices,416.0,0.416
+2001,55-64 years,Physician offices,490.0,0.49
+2002,55-64 years,Physician offices,476.0,0.476
+2003,55-64 years,Physician offices,439.0,0.439
+2004,55-64 years,Physician offices,456.0,0.456
+2005,55-64 years,Physician offices,476.0,0.476
+2006,55-64 years,Physician offices,402.0,0.402
+2007,55-64 years,Physician offices,442.0,0.442
+2008,55-64 years,Physician offices,446.0,0.446
+2009,55-64 years,Physician offices,466.0,0.466
+2010,55-64 years,Physician offices,440.0,0.44
+2011,55-64 years,Physician offices,400.0,0.4
+2012,55-64 years,Physician offices,400.0,0.4
+2013,55-64 years,Physician offices,405.0,0.405
+2014,55-64 years,Physician offices,390.0,0.39
+2015,55-64 years,Physician offices,394.0,0.394
+2016,55-64 years,Physician offices,351.0,0.351
+2018,55-64 years,Physician offices,350.0,0.35
+2000,65-74 years,Physician offices,568.0,0.568
+2001,65-74 years,Physician offices,708.0,0.708
+2002,65-74 years,Physician offices,669.0,0.669
+2003,65-74 years,Physician offices,582.0,0.582
+2004,65-74 years,Physician offices,619.0,0.619
+2005,65-74 years,Physician offices,656.0,0.656
+2006,65-74 years,Physician offices,593.0,0.593
+2007,65-74 years,Physician offices,666.0,0.666
+2008,65-74 years,Physician offices,648.0,0.648
+2009,65-74 years,Physician offices,678.0,0.678
+2010,65-74 years,Physician offices,642.0,0.642
+2011,65-74 years,Physician offices,594.0,0.594
+2012,65-74 years,Physician offices,555.0,0.555
+2013,65-74 years,Physician offices,582.0,0.582
+2014,65-74 years,Physician offices,568.0,0.568
+2015,65-74 years,Physician offices,548.0,0.548
+2016,65-74 years,Physician offices,488.0,0.488
+2018,65-74 years,Physician offices,504.0,0.504
+2000,75 years and over,Physician offices,658.0,0.658
+2001,75 years and over,Physician offices,845.0,0.845
+2002,75 years and over,Physician offices,790.0,0.79
+2003,75 years and over,Physician offices,747.0,0.747
+2004,75 years and over,Physician offices,743.0,0.743
+2005,75 years and over,Physician offices,763.0,0.763
+2006,75 years and over,Physician offices,721.0,0.721
+2007,75 years and over,Physician offices,765.0,0.765
+2008,75 years and over,Physician offices,743.0,0.743
+2009,75 years and over,Physician offices,835.0,0.835
+2010,75 years and over,Physician offices,723.0,0.723
+2011,75 years and over,Physician offices,698.0,0.698
+2012,75 years and over,Physician offices,693.0,0.693
+2013,75 years and over,Physician offices,701.0,0.701
+2014,75 years and over,Physician offices,658.0,0.658
+2015,75 years and over,Physician offices,710.0,0.71
+2016,75 years and over,Physician offices,565.0,0.565
+2018,75 years and over,Physician offices,667.0,0.667
+2000,Under 18 years,Physician offices,167.0,0.167
+2001,Under 18 years,Physician offices,110.0,0.11
+2002,Under 18 years,Physician offices,198.0,0.198
+2003,Under 18 years,Physician offices,131.0,0.131
+2004,Under 18 years,Physician offices,165.0,0.165
+2005,Under 18 years,Physician offices,162.0,0.162
+2006,Under 18 years,Physician offices,188.0,0.188
+2007,Under 18 years,Physician offices,247.0,0.247
+2008,Under 18 years,Physician offices,208.0,0.208
+2009,Under 18 years,Physician offices,198.0,0.198
+2010,Under 18 years,Physician offices,241.0,0.241
+2011,Under 18 years,Physician offices,153.0,0.153
+2012,Under 18 years,Physician offices,168.0,0.168
+2013,Under 18 years,Physician offices,158.0,0.158
+2014,Under 18 years,Physician offices,112.0,0.112
+2015,Under 18 years,Physician offices,167.0,0.167
+2016,Under 18 years,Physician offices,200.0,0.2
+2018,Under 18 years,Physician offices,115.0,0.115
+2000,18-44 years,Physician offices,149.0,0.149
+2001,18-44 years,Physician offices,178.0,0.178
+2002,18-44 years,Physician offices,191.0,0.191
+2003,18-44 years,Physician offices,199.0,0.199
+2004,18-44 years,Physician offices,213.0,0.213
+2005,18-44 years,Physician offices,172.0,0.172
+2006,18-44 years,Physician offices,180.0,0.18
+2007,18-44 years,Physician offices,241.0,0.241
+2008,18-44 years,Physician offices,201.0,0.201
+2009,18-44 years,Physician offices,228.0,0.228
+2010,18-44 years,Physician offices,222.0,0.222
+2011,18-44 years,Physician offices,199.0,0.199
+2012,18-44 years,Physician offices,168.0,0.168
+2013,18-44 years,Physician offices,170.0,0.17
+2014,18-44 years,Physician offices,137.0,0.137
+2015,18-44 years,Physician offices,205.0,0.205
+2016,18-44 years,Physician offices,179.0,0.179
+2018,18-44 years,Physician offices,135.0,0.135
+2000,45-54 years,Physician offices,269.0,0.269
+2001,45-54 years,Physician offices,342.0,0.342
+2002,45-54 years,Physician offices,306.0,0.306
+2003,45-54 years,Physician offices,315.0,0.315
+2004,45-54 years,Physician offices,338.0,0.338
+2005,45-54 years,Physician offices,297.0,0.297
+2006,45-54 years,Physician offices,272.0,0.272
+2007,45-54 years,Physician offices,341.0,0.341
+2008,45-54 years,Physician offices,289.0,0.289
+2009,45-54 years,Physician offices,329.0,0.329
+2010,45-54 years,Physician offices,339.0,0.339
+2011,45-54 years,Physician offices,378.0,0.378
+2012,45-54 years,Physician offices,252.0,0.252
+2013,45-54 years,Physician offices,284.0,0.284
+2014,45-54 years,Physician offices,235.0,0.235
+2015,45-54 years,Physician offices,420.0,0.42
+2016,45-54 years,Physician offices,219.0,0.219
+2018,45-54 years,Physician offices,182.0,0.182
+2000,55-64 years,Physician offices,373.0,0.373
+2001,55-64 years,Physician offices,383.0,0.383
+2002,55-64 years,Physician offices,421.0,0.421
+2003,55-64 years,Physician offices,349.0,0.349
+2004,55-64 years,Physician offices,455.0,0.455
+2005,55-64 years,Physician offices,374.0,0.374
+2006,55-64 years,Physician offices,347.0,0.347
+2007,55-64 years,Physician offices,444.0,0.444
+2008,55-64 years,Physician offices,422.0,0.422
+2009,55-64 years,Physician offices,478.0,0.478
+2010,55-64 years,Physician offices,481.0,0.481
+2011,55-64 years,Physician offices,412.0,0.412
+2012,55-64 years,Physician offices,305.0,0.305
+2013,55-64 years,Physician offices,339.0,0.339
+2014,55-64 years,Physician offices,316.0,0.316
+2015,55-64 years,Physician offices,496.0,0.496
+2016,55-64 years,Physician offices,283.0,0.283
+2018,55-64 years,Physician offices,221.0,0.221
+2000,65-74 years,Physician offices,512.0,0.512
+2001,65-74 years,Physician offices,492.0,0.492
+2002,65-74 years,Physician offices,687.0,0.687
+2003,65-74 years,Physician offices,602.0,0.602
+2004,65-74 years,Physician offices,703.0,0.703
+2005,65-74 years,Physician offices,589.0,0.589
+2006,65-74 years,Physician offices,458.0,0.458
+2007,65-74 years,Physician offices,748.0,0.748
+2008,65-74 years,Physician offices,636.0,0.636
+2009,65-74 years,Physician offices,667.0,0.667
+2010,65-74 years,Physician offices,565.0,0.565
+2011,65-74 years,Physician offices,539.0,0.539
+2012,65-74 years,Physician offices,421.0,0.421
+2013,65-74 years,Physician offices,527.0,0.527
+2014,65-74 years,Physician offices,457.0,0.457
+2015,65-74 years,Physician offices,743.0,0.743
+2016,65-74 years,Physician offices,350.0,0.35
+2018,65-74 years,Physician offices,353.0,0.353
+2000,75 years and over,Physician offices,568.0,0.568
+2001,75 years and over,Physician offices,517.0,0.517
+2002,75 years and over,Physician offices,842.0,0.842
+2003,75 years and over,Physician offices,608.0,0.608
+2004,75 years and over,Physician offices,666.0,0.666
+2005,75 years and over,Physician offices,806.0,0.806
+2006,75 years and over,Physician offices,569.0,0.569
+2007,75 years and over,Physician offices,769.0,0.769
+2008,75 years and over,Physician offices,762.0,0.762
+2009,75 years and over,Physician offices,718.0,0.718
+2010,75 years and over,Physician offices,682.0,0.682
+2011,75 years and over,Physician offices,605.0,0.605
+2012,75 years and over,Physician offices,522.0,0.522
+2013,75 years and over,Physician offices,542.0,0.542
+2014,75 years and over,Physician offices,565.0,0.565
+2015,75 years and over,Physician offices,874.0,0.874
+2016,75 years and over,Physician offices,465.0,0.465
+2018,75 years and over,Physician offices,365.0,0.365
+2000,All ages,Hospital outpatient department,83289.0,83.289
+2001,All ages,Hospital outpatient department,83715.0,83.715
+2002,All ages,Hospital outpatient department,83339.0,83.339
+2003,All ages,Hospital outpatient department,94578.0,94.578
+2004,All ages,Hospital outpatient department,84994.0,84.994
+2005,All ages,Hospital outpatient department,90393.0,90.393
+2006,All ages,Hospital outpatient department,102208.0,102.208
+2007,All ages,Hospital outpatient department,88894.0,88.894
+2008,All ages,Hospital outpatient department,109889.0,109.889
+2009,All ages,Hospital outpatient department,96132.0,96.132
+2010,All ages,Hospital outpatient department,100742.0,100.742
+2011,All ages,Hospital outpatient department,125721.0,125.721
+2000,Under 18 years,Hospital outpatient department,21076.0,21.076
+2001,Under 18 years,Hospital outpatient department,21299.0,21.299
+2002,Under 18 years,Hospital outpatient department,21707.0,21.707
+2003,Under 18 years,Hospital outpatient department,25412.0,25.412
+2004,Under 18 years,Hospital outpatient department,22003.0,22.003
+2005,Under 18 years,Hospital outpatient department,24288.0,24.288
+2006,Under 18 years,Hospital outpatient department,23679.0,23.679
+2007,Under 18 years,Hospital outpatient department,18962.0,18.962
+2008,Under 18 years,Hospital outpatient department,25907.0,25.907
+2009,Under 18 years,Hospital outpatient department,22418.0,22.418
+2010,Under 18 years,Hospital outpatient department,24913.0,24.913
+2011,Under 18 years,Hospital outpatient department,27651.0,27.651
+2000,18-44 years,Hospital outpatient department,26947.0,26.947
+2001,18-44 years,Hospital outpatient department,27430.0,27.43
+2002,18-44 years,Hospital outpatient department,28216.0,28.216
+2003,18-44 years,Hospital outpatient department,32714.0,32.714
+2004,18-44 years,Hospital outpatient department,27853.0,27.853
+2005,18-44 years,Hospital outpatient department,29044.0,29.044
+2006,18-44 years,Hospital outpatient department,33301.0,33.301
+2007,18-44 years,Hospital outpatient department,30300.0,30.3
+2008,18-44 years,Hospital outpatient department,34174.0,34.174
+2009,18-44 years,Hospital outpatient department,29535.0,29.535
+2010,18-44 years,Hospital outpatient department,28159.0,28.159
+2011,18-44 years,Hospital outpatient department,37557.0,37.557
+2000,45-64 years,Hospital outpatient department,20772.0,20.772
+2001,45-64 years,Hospital outpatient department,21590.0,21.59
+2002,45-64 years,Hospital outpatient department,21436.0,21.436
+2003,45-64 years,Hospital outpatient department,23307.0,23.307
+2004,45-64 years,Hospital outpatient department,22127.0,22.127
+2005,45-64 years,Hospital outpatient department,23202.0,23.202
+2006,45-64 years,Hospital outpatient department,28707.0,28.707
+2007,45-64 years,Hospital outpatient department,25707.0,25.707
+2008,45-64 years,Hospital outpatient department,31150.0,31.15
+2009,45-64 years,Hospital outpatient department,29083.0,29.083
+2010,45-64 years,Hospital outpatient department,27739.0,27.739
+2011,45-64 years,Hospital outpatient department,37980.0,37.98
+2000,45-54 years,Hospital outpatient department,11558.0,11.558
+2001,45-54 years,Hospital outpatient department,12016.0,12.016
+2002,45-54 years,Hospital outpatient department,12054.0,12.054
+2003,45-54 years,Hospital outpatient department,12937.0,12.937
+2004,45-54 years,Hospital outpatient department,11784.0,11.784
+2005,45-54 years,Hospital outpatient department,12546.0,12.546
+2006,45-54 years,Hospital outpatient department,15626.0,15.626
+2007,45-54 years,Hospital outpatient department,14138.0,14.138
+2008,45-54 years,Hospital outpatient department,16257.0,16.257
+2009,45-54 years,Hospital outpatient department,15310.0,15.31
+2010,45-54 years,Hospital outpatient department,13639.0,13.639
+2011,45-54 years,Hospital outpatient department,19310.0,19.31
+2000,55-64 years,Hospital outpatient department,9214.0,9.214
+2001,55-64 years,Hospital outpatient department,9574.0,9.574
+2002,55-64 years,Hospital outpatient department,9382.0,9.382
+2003,55-64 years,Hospital outpatient department,10370.0,10.37
+2004,55-64 years,Hospital outpatient department,10342.0,10.342
+2005,55-64 years,Hospital outpatient department,10656.0,10.656
+2006,55-64 years,Hospital outpatient department,13080.0,13.08
+2007,55-64 years,Hospital outpatient department,11569.0,11.569
+2008,55-64 years,Hospital outpatient department,14893.0,14.893
+2009,55-64 years,Hospital outpatient department,13774.0,13.774
+2010,55-64 years,Hospital outpatient department,14100.0,14.1
+2011,55-64 years,Hospital outpatient department,18670.0,18.67
+2000,65 years and over,Hospital outpatient department,14494.0,14.494
+2001,65 years and over,Hospital outpatient department,13396.0,13.396
+2002,65 years and over,Hospital outpatient department,11980.0,11.98
+2003,65 years and over,Hospital outpatient department,13144.0,13.144
+2004,65 years and over,Hospital outpatient department,13011.0,13.011
+2005,65 years and over,Hospital outpatient department,13859.0,13.859
+2006,65 years and over,Hospital outpatient department,16522.0,16.522
+2007,65 years and over,Hospital outpatient department,13926.0,13.926
+2008,65 years and over,Hospital outpatient department,18658.0,18.658
+2009,65 years and over,Hospital outpatient department,15096.0,15.096
+2010,65 years and over,Hospital outpatient department,19932.0,19.932
+2011,65 years and over,Hospital outpatient department,22534.0,22.534
+2000,65-74 years,Hospital outpatient department,7515.0,7.515
+2001,65-74 years,Hospital outpatient department,7299.0,7.299
+2002,65-74 years,Hospital outpatient department,6386.0,6.386
+2003,65-74 years,Hospital outpatient department,7077.0,7.077
+2004,65-74 years,Hospital outpatient department,7157.0,7.157
+2005,65-74 years,Hospital outpatient department,7517.0,7.517
+2006,65-74 years,Hospital outpatient department,8931.0,8.931
+2007,65-74 years,Hospital outpatient department,7815.0,7.815
+2008,65-74 years,Hospital outpatient department,10273.0,10.273
+2009,65-74 years,Hospital outpatient department,8036.0,8.036
+2010,65-74 years,Hospital outpatient department,10675.0,10.675
+2011,65-74 years,Hospital outpatient department,12529.0,12.529
+2000,75 years and over,Hospital outpatient department,6979.0,6.979
+2001,75 years and over,Hospital outpatient department,6097.0,6.097
+2002,75 years and over,Hospital outpatient department,5595.0,5.595
+2003,75 years and over,Hospital outpatient department,6067.0,6.067
+2004,75 years and over,Hospital outpatient department,5854.0,5.854
+2005,75 years and over,Hospital outpatient department,6341.0,6.341
+2006,75 years and over,Hospital outpatient department,7591.0,7.591
+2007,75 years and over,Hospital outpatient department,6111.0,6.111
+2008,75 years and over,Hospital outpatient department,8385.0,8.385
+2009,75 years and over,Hospital outpatient department,7060.0,7.06
+2010,75 years and over,Hospital outpatient department,9257.0,9.257
+2011,75 years and over,Hospital outpatient department,10005.0,10.005
+2000,All ages,Hospital outpatient department,31.0,0.031
+2001,All ages,Hospital outpatient department,30.0,0.03
+2002,All ages,Hospital outpatient department,29.0,0.029
+2003,All ages,Hospital outpatient department,33.0,0.033
+2004,All ages,Hospital outpatient department,29.0,0.029
+2005,All ages,Hospital outpatient department,31.0,0.031
+2006,All ages,Hospital outpatient department,35.0,0.035
+2007,All ages,Hospital outpatient department,30.0,0.03
+2008,All ages,Hospital outpatient department,36.0,0.036
+2009,All ages,Hospital outpatient department,31.0,0.031
+2010,All ages,Hospital outpatient department,33.0,0.033
+2011,All ages,Hospital outpatient department,40.0,0.04
+2000,All ages,Hospital outpatient department,26.0,0.026
+2001,All ages,Hospital outpatient department,25.0,0.025
+2002,All ages,Hospital outpatient department,24.0,0.024
+2003,All ages,Hospital outpatient department,27.0,0.027
+2004,All ages,Hospital outpatient department,24.0,0.024
+2005,All ages,Hospital outpatient department,25.0,0.025
+2006,All ages,Hospital outpatient department,28.0,0.028
+2007,All ages,Hospital outpatient department,23.0,0.023
+2008,All ages,Hospital outpatient department,29.0,0.029
+2009,All ages,Hospital outpatient department,25.0,0.025
+2010,All ages,Hospital outpatient department,27.0,0.027
+2011,All ages,Hospital outpatient department,32.0,0.032
+2000,All ages,Hospital outpatient department,35.0,0.035
+2001,All ages,Hospital outpatient department,35.0,0.035
+2002,All ages,Hospital outpatient department,35.0,0.035
+2003,All ages,Hospital outpatient department,40.0,0.04
+2004,All ages,Hospital outpatient department,35.0,0.035
+2005,All ages,Hospital outpatient department,37.0,0.037
+2006,All ages,Hospital outpatient department,41.0,0.041
+2007,All ages,Hospital outpatient department,36.0,0.036
+2008,All ages,Hospital outpatient department,44.0,0.044
+2009,All ages,Hospital outpatient department,37.0,0.037
+2010,All ages,Hospital outpatient department,38.0,0.038
+2011,All ages,Hospital outpatient department,48.0,0.048
+2000,All ages,Hospital outpatient department,28.0,0.028
+2001,All ages,Hospital outpatient department,28.0,0.028
+2002,All ages,Hospital outpatient department,27.0,0.027
+2003,All ages,Hospital outpatient department,30.0,0.03
+2004,All ages,Hospital outpatient department,27.0,0.027
+2005,All ages,Hospital outpatient department,28.0,0.028
+2006,All ages,Hospital outpatient department,31.0,0.031
+2007,All ages,Hospital outpatient department,26.0,0.026
+2008,All ages,Hospital outpatient department,33.0,0.033
+2009,All ages,Hospital outpatient department,29.0,0.029
+2010,All ages,Hospital outpatient department,31.0,0.031
+2011,All ages,Hospital outpatient department,37.0,0.037
+2000,All ages,Hospital outpatient department,51.0,0.051
+2001,All ages,Hospital outpatient department,51.0,0.051
+2002,All ages,Hospital outpatient department,55.0,0.055
+2003,All ages,Hospital outpatient department,61.0,0.061
+2004,All ages,Hospital outpatient department,53.0,0.053
+2005,All ages,Hospital outpatient department,58.0,0.058
+2006,All ages,Hospital outpatient department,65.0,0.065
+2007,All ages,Hospital outpatient department,60.0,0.06
+2008,All ages,Hospital outpatient department,69.0,0.069
+2009,All ages,Hospital outpatient department,59.0,0.059
+2010,All ages,Hospital outpatient department,51.0,0.051
+2011,All ages,Hospital outpatient department,69.0,0.069
+2000,All ages,Hospital outpatient department,30.0,0.03
+2001,All ages,Hospital outpatient department,30.0,0.03
+2002,All ages,Hospital outpatient department,29.0,0.029
+2003,All ages,Hospital outpatient department,33.0,0.033
+2004,All ages,Hospital outpatient department,30.0,0.03
+2005,All ages,Hospital outpatient department,31.0,0.031
+2006,All ages,Hospital outpatient department,35.0,0.035
+2007,All ages,Hospital outpatient department,30.0,0.03
+2008,All ages,Hospital outpatient department,37.0,0.037
+2009,All ages,Hospital outpatient department,32.0,0.032
+2010,All ages,Hospital outpatient department,33.0,0.033
+2011,All ages,Hospital outpatient department,41.0,0.041
+2000,Under 18 years,Hospital outpatient department,29.0,0.029
+2001,Under 18 years,Hospital outpatient department,29.0,0.029
+2002,Under 18 years,Hospital outpatient department,30.0,0.03
+2003,Under 18 years,Hospital outpatient department,35.0,0.035
+2004,Under 18 years,Hospital outpatient department,30.0,0.03
+2005,Under 18 years,Hospital outpatient department,33.0,0.033
+2006,Under 18 years,Hospital outpatient department,32.0,0.032
+2007,Under 18 years,Hospital outpatient department,26.0,0.026
+2008,Under 18 years,Hospital outpatient department,35.0,0.035
+2009,Under 18 years,Hospital outpatient department,30.0,0.03
+2010,Under 18 years,Hospital outpatient department,33.0,0.033
+2011,Under 18 years,Hospital outpatient department,37.0,0.037
+2000,18-44 years,Hospital outpatient department,25.0,0.025
+2001,18-44 years,Hospital outpatient department,25.0,0.025
+2002,18-44 years,Hospital outpatient department,26.0,0.026
+2003,18-44 years,Hospital outpatient department,30.0,0.03
+2004,18-44 years,Hospital outpatient department,25.0,0.025
+2005,18-44 years,Hospital outpatient department,26.0,0.026
+2006,18-44 years,Hospital outpatient department,30.0,0.03
+2007,18-44 years,Hospital outpatient department,27.0,0.027
+2008,18-44 years,Hospital outpatient department,31.0,0.031
+2009,18-44 years,Hospital outpatient department,27.0,0.027
+2010,18-44 years,Hospital outpatient department,25.0,0.025
+2011,18-44 years,Hospital outpatient department,34.0,0.034
+2000,45-64 years,Hospital outpatient department,34.0,0.034
+2001,45-64 years,Hospital outpatient department,34.0,0.034
+2002,45-64 years,Hospital outpatient department,32.0,0.032
+2003,45-64 years,Hospital outpatient department,34.0,0.034
+2004,45-64 years,Hospital outpatient department,32.0,0.032
+2005,45-64 years,Hospital outpatient department,32.0,0.032
+2006,45-64 years,Hospital outpatient department,39.0,0.039
+2007,45-64 years,Hospital outpatient department,34.0,0.034
+2008,45-64 years,Hospital outpatient department,40.0,0.04
+2009,45-64 years,Hospital outpatient department,37.0,0.037
+2010,45-64 years,Hospital outpatient department,35.0,0.035
+2011,45-64 years,Hospital outpatient department,46.0,0.046
+2000,45-54 years,Hospital outpatient department,31.0,0.031
+2001,45-54 years,Hospital outpatient department,31.0,0.031
+2002,45-54 years,Hospital outpatient department,30.0,0.03
+2003,45-54 years,Hospital outpatient department,32.0,0.032
+2004,45-54 years,Hospital outpatient department,29.0,0.029
+2005,45-54 years,Hospital outpatient department,30.0,0.03
+2006,45-54 years,Hospital outpatient department,36.0,0.036
+2007,45-54 years,Hospital outpatient department,32.0,0.032
+2008,45-54 years,Hospital outpatient department,37.0,0.037
+2009,45-54 years,Hospital outpatient department,35.0,0.035
+2010,45-54 years,Hospital outpatient department,31.0,0.031
+2011,45-54 years,Hospital outpatient department,44.0,0.044
+2000,55-64 years,Hospital outpatient department,39.0,0.039
+2001,55-64 years,Hospital outpatient department,38.0,0.038
+2002,55-64 years,Hospital outpatient department,36.0,0.036
+2003,55-64 years,Hospital outpatient department,37.0,0.037
+2004,55-64 years,Hospital outpatient department,36.0,0.036
+2005,55-64 years,Hospital outpatient department,35.0,0.035
+2006,55-64 years,Hospital outpatient department,42.0,0.042
+2007,55-64 years,Hospital outpatient department,36.0,0.036
+2008,55-64 years,Hospital outpatient department,44.0,0.044
+2009,55-64 years,Hospital outpatient department,40.0,0.04
+2010,55-64 years,Hospital outpatient department,39.0,0.039
+2011,55-64 years,Hospital outpatient department,49.0,0.049
+2000,65 years and over,Hospital outpatient department,44.0,0.044
+2001,65 years and over,Hospital outpatient department,40.0,0.04
+2002,65 years and over,Hospital outpatient department,35.0,0.035
+2003,65 years and over,Hospital outpatient department,38.0,0.038
+2004,65 years and over,Hospital outpatient department,38.0,0.038
+2005,65 years and over,Hospital outpatient department,39.0,0.039
+2006,65 years and over,Hospital outpatient department,46.0,0.046
+2007,65 years and over,Hospital outpatient department,38.0,0.038
+2008,65 years and over,Hospital outpatient department,50.0,0.05
+2009,65 years and over,Hospital outpatient department,40.0,0.04
+2010,65 years and over,Hospital outpatient department,51.0,0.051
+2011,65 years and over,Hospital outpatient department,56.0,0.056
+2000,65-74 years,Hospital outpatient department,42.0,0.042
+2001,65-74 years,Hospital outpatient department,40.0,0.04
+2002,65-74 years,Hospital outpatient department,35.0,0.035
+2003,65-74 years,Hospital outpatient department,39.0,0.039
+2004,65-74 years,Hospital outpatient department,39.0,0.039
+2005,65-74 years,Hospital outpatient department,41.0,0.041
+2006,65-74 years,Hospital outpatient department,48.0,0.048
+2007,65-74 years,Hospital outpatient department,41.0,0.041
+2008,65-74 years,Hospital outpatient department,52.0,0.052
+2009,65-74 years,Hospital outpatient department,39.0,0.039
+2010,65-74 years,Hospital outpatient department,50.0,0.05
+2011,65-74 years,Hospital outpatient department,56.0,0.056
+2000,75 years and over,Hospital outpatient department,47.0,0.047
+2001,75 years and over,Hospital outpatient department,39.0,0.039
+2002,75 years and over,Hospital outpatient department,35.0,0.035
+2003,75 years and over,Hospital outpatient department,38.0,0.038
+2004,75 years and over,Hospital outpatient department,36.0,0.036
+2005,75 years and over,Hospital outpatient department,38.0,0.038
+2006,75 years and over,Hospital outpatient department,45.0,0.045
+2007,75 years and over,Hospital outpatient department,36.0,0.036
+2008,75 years and over,Hospital outpatient department,48.0,0.048
+2009,75 years and over,Hospital outpatient department,41.0,0.041
+2010,75 years and over,Hospital outpatient department,52.0,0.052
+2011,75 years and over,Hospital outpatient department,56.0,0.056
+2000,All ages,Hospital outpatient department,25.0,0.025
+2001,All ages,Hospital outpatient department,24.0,0.024
+2002,All ages,Hospital outpatient department,23.0,0.023
+2003,All ages,Hospital outpatient department,26.0,0.026
+2004,All ages,Hospital outpatient department,24.0,0.024
+2005,All ages,Hospital outpatient department,25.0,0.025
+2006,All ages,Hospital outpatient department,28.0,0.028
+2007,All ages,Hospital outpatient department,23.0,0.023
+2008,All ages,Hospital outpatient department,29.0,0.029
+2009,All ages,Hospital outpatient department,26.0,0.026
+2010,All ages,Hospital outpatient department,27.0,0.027
+2011,All ages,Hospital outpatient department,33.0,0.033
+2000,All ages,Hospital outpatient department,35.0,0.035
+2001,All ages,Hospital outpatient department,35.0,0.035
+2002,All ages,Hospital outpatient department,35.0,0.035
+2003,All ages,Hospital outpatient department,40.0,0.04
+2004,All ages,Hospital outpatient department,35.0,0.035
+2005,All ages,Hospital outpatient department,37.0,0.037
+2006,All ages,Hospital outpatient department,41.0,0.041
+2007,All ages,Hospital outpatient department,37.0,0.037
+2008,All ages,Hospital outpatient department,44.0,0.044
+2009,All ages,Hospital outpatient department,38.0,0.038
+2010,All ages,Hospital outpatient department,39.0,0.039
+2011,All ages,Hospital outpatient department,49.0,0.049
+2000,Under 18 years,Hospital outpatient department,29.0,0.029
+2001,Under 18 years,Hospital outpatient department,29.0,0.029
+2002,Under 18 years,Hospital outpatient department,28.0,0.028
+2003,Under 18 years,Hospital outpatient department,34.0,0.034
+2004,Under 18 years,Hospital outpatient department,30.0,0.03
+2005,Under 18 years,Hospital outpatient department,33.0,0.033
+2006,Under 18 years,Hospital outpatient department,31.0,0.031
+2007,Under 18 years,Hospital outpatient department,25.0,0.025
+2008,Under 18 years,Hospital outpatient department,34.0,0.034
+2009,Under 18 years,Hospital outpatient department,30.0,0.03
+2010,Under 18 years,Hospital outpatient department,34.0,0.034
+2011,Under 18 years,Hospital outpatient department,37.0,0.037
+2000,18-44 years,Hospital outpatient department,17.0,0.017
+2001,18-44 years,Hospital outpatient department,16.0,0.016
+2002,18-44 years,Hospital outpatient department,16.0,0.016
+2003,18-44 years,Hospital outpatient department,19.0,0.019
+2004,18-44 years,Hospital outpatient department,15.0,0.015
+2005,18-44 years,Hospital outpatient department,16.0,0.016
+2006,18-44 years,Hospital outpatient department,19.0,0.019
+2007,18-44 years,Hospital outpatient department,16.0,0.016
+2008,18-44 years,Hospital outpatient department,18.0,0.018
+2009,18-44 years,Hospital outpatient department,16.0,0.016
+2010,18-44 years,Hospital outpatient department,16.0,0.016
+2011,18-44 years,Hospital outpatient department,20.0,0.02
+2000,45-54 years,Hospital outpatient department,26.0,0.026
+2001,45-54 years,Hospital outpatient department,26.0,0.026
+2002,45-54 years,Hospital outpatient department,25.0,0.025
+2003,45-54 years,Hospital outpatient department,25.0,0.025
+2004,45-54 years,Hospital outpatient department,23.0,0.023
+2005,45-54 years,Hospital outpatient department,24.0,0.024
+2006,45-54 years,Hospital outpatient department,31.0,0.031
+2007,45-54 years,Hospital outpatient department,26.0,0.026
+2008,45-54 years,Hospital outpatient department,28.0,0.028
+2009,45-54 years,Hospital outpatient department,28.0,0.028
+2010,45-54 years,Hospital outpatient department,24.0,0.024
+2011,45-54 years,Hospital outpatient department,34.0,0.034
+2000,55-64 years,Hospital outpatient department,32.0,0.032
+2001,55-64 years,Hospital outpatient department,30.0,0.03
+2002,55-64 years,Hospital outpatient department,28.0,0.028
+2003,55-64 years,Hospital outpatient department,29.0,0.029
+2004,55-64 years,Hospital outpatient department,30.0,0.03
+2005,55-64 years,Hospital outpatient department,29.0,0.029
+2006,55-64 years,Hospital outpatient department,34.0,0.034
+2007,55-64 years,Hospital outpatient department,27.0,0.027
+2008,55-64 years,Hospital outpatient department,37.0,0.037
+2009,55-64 years,Hospital outpatient department,35.0,0.035
+2010,55-64 years,Hospital outpatient department,32.0,0.032
+2011,55-64 years,Hospital outpatient department,45.0,0.045
+2000,65-74 years,Hospital outpatient department,38.0,0.038
+2001,65-74 years,Hospital outpatient department,35.0,0.035
+2002,65-74 years,Hospital outpatient department,34.0,0.034
+2003,65-74 years,Hospital outpatient department,34.0,0.034
+2004,65-74 years,Hospital outpatient department,34.0,0.034
+2005,65-74 years,Hospital outpatient department,34.0,0.034
+2006,65-74 years,Hospital outpatient department,40.0,0.04
+2007,65-74 years,Hospital outpatient department,35.0,0.035
+2008,65-74 years,Hospital outpatient department,44.0,0.044
+2009,65-74 years,Hospital outpatient department,37.0,0.037
+2010,65-74 years,Hospital outpatient department,47.0,0.047
+2011,65-74 years,Hospital outpatient department,52.0,0.052
+2000,75 years and over,Hospital outpatient department,42.0,0.042
+2001,75 years and over,Hospital outpatient department,37.0,0.037
+2002,75 years and over,Hospital outpatient department,31.0,0.031
+2003,75 years and over,Hospital outpatient department,38.0,0.038
+2005,45-54 years,Hospital outpatient department,36.0,0.036
+2004,75 years and over,Hospital outpatient department,34.0,0.034
+2005,75 years and over,Hospital outpatient department,32.0,0.032
+2006,75 years and over,Hospital outpatient department,44.0,0.044
+2007,75 years and over,Hospital outpatient department,30.0,0.03
+2008,75 years and over,Hospital outpatient department,50.0,0.05
+2009,75 years and over,Hospital outpatient department,37.0,0.037
+2010,75 years and over,Hospital outpatient department,50.0,0.05
+2011,75 years and over,Hospital outpatient department,49.0,0.049
+2000,Under 18 years,Hospital outpatient department,29.0,0.029
+2001,Under 18 years,Hospital outpatient department,29.0,0.029
+2002,Under 18 years,Hospital outpatient department,31.0,0.031
+2003,Under 18 years,Hospital outpatient department,36.0,0.036
+2004,Under 18 years,Hospital outpatient department,30.0,0.03
+2005,Under 18 years,Hospital outpatient department,33.0,0.033
+2006,Under 18 years,Hospital outpatient department,33.0,0.033
+2007,Under 18 years,Hospital outpatient department,26.0,0.026
+2008,Under 18 years,Hospital outpatient department,36.0,0.036
+2009,Under 18 years,Hospital outpatient department,30.0,0.03
+2010,Under 18 years,Hospital outpatient department,33.0,0.033
+2011,Under 18 years,Hospital outpatient department,38.0,0.038
+2000,18-44 years,Hospital outpatient department,33.0,0.033
+2001,18-44 years,Hospital outpatient department,34.0,0.034
+2002,18-44 years,Hospital outpatient department,35.0,0.035
+2003,18-44 years,Hospital outpatient department,41.0,0.041
+2004,18-44 years,Hospital outpatient department,35.0,0.035
+2005,18-44 years,Hospital outpatient department,37.0,0.037
+2006,18-44 years,Hospital outpatient department,41.0,0.041
+2007,18-44 years,Hospital outpatient department,38.0,0.038
+2008,18-44 years,Hospital outpatient department,44.0,0.044
+2009,18-44 years,Hospital outpatient department,38.0,0.038
+2010,18-44 years,Hospital outpatient department,35.0,0.035
+2011,18-44 years,Hospital outpatient department,47.0,0.047
+2000,45-54 years,Hospital outpatient department,36.0,0.036
+2001,45-54 years,Hospital outpatient department,36.0,0.036
+2002,45-54 years,Hospital outpatient department,36.0,0.036
+2003,45-54 years,Hospital outpatient department,39.0,0.039
+2004,45-54 years,Hospital outpatient department,34.0,0.034
+2006,45-54 years,Hospital outpatient department,41.0,0.041
+2007,45-54 years,Hospital outpatient department,39.0,0.039
+2008,45-54 years,Hospital outpatient department,45.0,0.045
+2009,45-54 years,Hospital outpatient department,41.0,0.041
+2010,45-54 years,Hospital outpatient department,37.0,0.037
+2011,45-54 years,Hospital outpatient department,53.0,0.053
+2000,55-64 years,Hospital outpatient department,45.0,0.045
+2001,55-64 years,Hospital outpatient department,45.0,0.045
+2002,55-64 years,Hospital outpatient department,43.0,0.043
+2003,55-64 years,Hospital outpatient department,45.0,0.045
+2004,55-64 years,Hospital outpatient department,41.0,0.041
+2005,55-64 years,Hospital outpatient department,41.0,0.041
+2006,55-64 years,Hospital outpatient department,48.0,0.048
+2007,55-64 years,Hospital outpatient department,43.0,0.043
+2008,55-64 years,Hospital outpatient department,51.0,0.051
+2009,55-64 years,Hospital outpatient department,44.0,0.044
+2010,55-64 years,Hospital outpatient department,46.0,0.046
+2011,55-64 years,Hospital outpatient department,54.0,0.054
+2000,65-74 years,Hospital outpatient department,46.0,0.046
+2001,65-74 years,Hospital outpatient department,45.0,0.045
+2002,65-74 years,Hospital outpatient department,36.0,0.036
+2003,65-74 years,Hospital outpatient department,44.0,0.044
+2004,65-74 years,Hospital outpatient department,44.0,0.044
+2005,65-74 years,Hospital outpatient department,47.0,0.047
+2006,65-74 years,Hospital outpatient department,54.0,0.054
+2007,65-74 years,Hospital outpatient department,46.0,0.046
+2008,65-74 years,Hospital outpatient department,58.0,0.058
+2009,65-74 years,Hospital outpatient department,41.0,0.041
+2010,65-74 years,Hospital outpatient department,54.0,0.054
+2011,65-74 years,Hospital outpatient department,60.0,0.06
+2000,75 years and over,Hospital outpatient department,49.0,0.049
+2001,75 years and over,Hospital outpatient department,40.0,0.04
+2002,75 years and over,Hospital outpatient department,38.0,0.038
+2003,75 years and over,Hospital outpatient department,37.0,0.037
+2004,75 years and over,Hospital outpatient department,37.0,0.037
+2005,75 years and over,Hospital outpatient department,42.0,0.042
+2006,75 years and over,Hospital outpatient department,45.0,0.045
+2007,75 years and over,Hospital outpatient department,39.0,0.039
+2008,75 years and over,Hospital outpatient department,47.0,0.047
+2009,75 years and over,Hospital outpatient department,43.0,0.043
+2010,75 years and over,Hospital outpatient department,53.0,0.053
+2011,75 years and over,Hospital outpatient department,61.0,0.061
+2000,All ages,Hospital outpatient department,28.0,0.028
+2001,All ages,Hospital outpatient department,28.0,0.028
+2002,All ages,Hospital outpatient department,27.0,0.027
+2003,All ages,Hospital outpatient department,30.0,0.03
+2004,All ages,Hospital outpatient department,27.0,0.027
+2005,All ages,Hospital outpatient department,28.0,0.028
+2006,All ages,Hospital outpatient department,31.0,0.031
+2007,All ages,Hospital outpatient department,26.0,0.026
+2008,All ages,Hospital outpatient department,33.0,0.033
+2009,All ages,Hospital outpatient department,29.0,0.029
+2010,All ages,Hospital outpatient department,32.0,0.032
+2011,All ages,Hospital outpatient department,38.0,0.038
+2000,All ages,Hospital outpatient department,48.0,0.048
+2001,All ages,Hospital outpatient department,49.0,0.049
+2002,All ages,Hospital outpatient department,53.0,0.053
+2003,All ages,Hospital outpatient department,60.0,0.06
+2004,All ages,Hospital outpatient department,50.0,0.05
+2005,All ages,Hospital outpatient department,57.0,0.057
+2006,All ages,Hospital outpatient department,64.0,0.064
+2007,All ages,Hospital outpatient department,58.0,0.058
+2008,All ages,Hospital outpatient department,68.0,0.068
+2009,All ages,Hospital outpatient department,58.0,0.058
+2010,All ages,Hospital outpatient department,50.0,0.05
+2011,All ages,Hospital outpatient department,68.0,0.068
+2000,Under 18 years,Hospital outpatient department,27.0,0.027
+2001,Under 18 years,Hospital outpatient department,28.0,0.028
+2002,Under 18 years,Hospital outpatient department,28.0,0.028
+2003,Under 18 years,Hospital outpatient department,32.0,0.032
+2004,Under 18 years,Hospital outpatient department,28.0,0.028
+2005,Under 18 years,Hospital outpatient department,31.0,0.031
+2006,Under 18 years,Hospital outpatient department,30.0,0.03
+2007,Under 18 years,Hospital outpatient department,23.0,0.023
+2001,45-54 years,Hospital outpatient department,28.0,0.028
+2008,Under 18 years,Hospital outpatient department,32.0,0.032
+2009,Under 18 years,Hospital outpatient department,29.0,0.029
+2010,Under 18 years,Hospital outpatient department,33.0,0.033
+2011,Under 18 years,Hospital outpatient department,37.0,0.037
+2000,18-44 years,Hospital outpatient department,23.0,0.023
+2001,18-44 years,Hospital outpatient department,23.0,0.023
+2002,18-44 years,Hospital outpatient department,23.0,0.023
+2003,18-44 years,Hospital outpatient department,27.0,0.027
+2004,18-44 years,Hospital outpatient department,23.0,0.023
+2005,18-44 years,Hospital outpatient department,24.0,0.024
+2006,18-44 years,Hospital outpatient department,27.0,0.027
+2007,18-44 years,Hospital outpatient department,24.0,0.024
+2008,18-44 years,Hospital outpatient department,28.0,0.028
+2009,18-44 years,Hospital outpatient department,24.0,0.024
+2010,18-44 years,Hospital outpatient department,25.0,0.025
+2011,18-44 years,Hospital outpatient department,31.0,0.031
+2000,45-54 years,Hospital outpatient department,28.0,0.028
+2002,45-54 years,Hospital outpatient department,27.0,0.027
+2003,45-54 years,Hospital outpatient department,28.0,0.028
+2004,45-54 years,Hospital outpatient department,26.0,0.026
+2005,45-54 years,Hospital outpatient department,26.0,0.026
+2006,45-54 years,Hospital outpatient department,32.0,0.032
+2007,45-54 years,Hospital outpatient department,28.0,0.028
+2008,45-54 years,Hospital outpatient department,32.0,0.032
+2009,45-54 years,Hospital outpatient department,30.0,0.03
+2010,45-54 years,Hospital outpatient department,28.0,0.028
+2011,45-54 years,Hospital outpatient department,37.0,0.037
+2000,55-64 years,Hospital outpatient department,36.0,0.036
+2001,55-64 years,Hospital outpatient department,34.0,0.034
+2002,55-64 years,Hospital outpatient department,31.0,0.031
+2003,55-64 years,Hospital outpatient department,33.0,0.033
+2004,55-64 years,Hospital outpatient department,31.0,0.031
+2005,55-64 years,Hospital outpatient department,31.0,0.031
+2006,55-64 years,Hospital outpatient department,36.0,0.036
+2007,55-64 years,Hospital outpatient department,30.0,0.03
+2008,55-64 years,Hospital outpatient department,38.0,0.038
+2009,55-64 years,Hospital outpatient department,34.0,0.034
+2010,55-64 years,Hospital outpatient department,36.0,0.036
+2011,55-64 years,Hospital outpatient department,44.0,0.044
+2000,65-74 years,Hospital outpatient department,38.0,0.038
+2001,65-74 years,Hospital outpatient department,37.0,0.037
+2002,65-74 years,Hospital outpatient department,30.0,0.03
+2003,65-74 years,Hospital outpatient department,35.0,0.035
+2004,65-74 years,Hospital outpatient department,35.0,0.035
+2005,65-74 years,Hospital outpatient department,36.0,0.036
+2006,65-74 years,Hospital outpatient department,44.0,0.044
+2007,65-74 years,Hospital outpatient department,36.0,0.036
+2008,65-74 years,Hospital outpatient department,47.0,0.047
+2009,65-74 years,Hospital outpatient department,35.0,0.035
+2010,65-74 years,Hospital outpatient department,48.0,0.048
+2011,65-74 years,Hospital outpatient department,49.0,0.049
+2000,75 years and over,Hospital outpatient department,44.0,0.044
+2001,75 years and over,Hospital outpatient department,36.0,0.036
+2002,75 years and over,Hospital outpatient department,31.0,0.031
+2003,75 years and over,Hospital outpatient department,35.0,0.035
+2004,75 years and over,Hospital outpatient department,33.0,0.033
+2005,75 years and over,Hospital outpatient department,35.0,0.035
+2006,75 years and over,Hospital outpatient department,41.0,0.041
+2007,75 years and over,Hospital outpatient department,31.0,0.031
+2008,75 years and over,Hospital outpatient department,46.0,0.046
+2009,75 years and over,Hospital outpatient department,36.0,0.036
+2010,75 years and over,Hospital outpatient department,52.0,0.052
+2011,75 years and over,Hospital outpatient department,52.0,0.052
+2000,Under 18 years,Hospital outpatient department,40.0,0.04
+2001,Under 18 years,Hospital outpatient department,44.0,0.044
+2002,Under 18 years,Hospital outpatient department,46.0,0.046
+2003,Under 18 years,Hospital outpatient department,55.0,0.055
+2004,Under 18 years,Hospital outpatient department,42.0,0.042
+2005,Under 18 years,Hospital outpatient department,54.0,0.054
+2006,Under 18 years,Hospital outpatient department,49.0,0.049
+2007,Under 18 years,Hospital outpatient department,44.0,0.044
+2008,Under 18 years,Hospital outpatient department,61.0,0.061
+2009,Under 18 years,Hospital outpatient department,42.0,0.042
+2010,Under 18 years,Hospital outpatient department,48.0,0.048
+2011,Under 18 years,Hospital outpatient department,50.0,0.05
+2000,18-44 years,Hospital outpatient department,40.0,0.04
+2001,18-44 years,Hospital outpatient department,41.0,0.041
+2002,18-44 years,Hospital outpatient department,46.0,0.046
+2003,18-44 years,Hospital outpatient department,54.0,0.054
+2004,18-44 years,Hospital outpatient department,44.0,0.044
+2005,18-44 years,Hospital outpatient department,46.0,0.046
+2006,18-44 years,Hospital outpatient department,59.0,0.059
+2007,18-44 years,Hospital outpatient department,52.0,0.052
+2008,18-44 years,Hospital outpatient department,55.0,0.055
+2009,18-44 years,Hospital outpatient department,50.0,0.05
+2010,18-44 years,Hospital outpatient department,37.0,0.037
+2011,18-44 years,Hospital outpatient department,55.0,0.055
+2000,45-54 years,Hospital outpatient department,61.0,0.061
+2001,45-54 years,Hospital outpatient department,56.0,0.056
+2002,45-54 years,Hospital outpatient department,57.0,0.057
+2003,45-54 years,Hospital outpatient department,65.0,0.065
+2004,45-54 years,Hospital outpatient department,50.0,0.05
+2005,45-54 years,Hospital outpatient department,63.0,0.063
+2006,45-54 years,Hospital outpatient department,78.0,0.078
+2007,45-54 years,Hospital outpatient department,73.0,0.073
+2008,45-54 years,Hospital outpatient department,80.0,0.08
+2009,45-54 years,Hospital outpatient department,74.0,0.074
+2010,45-54 years,Hospital outpatient department,54.0,0.054
+2011,45-54 years,Hospital outpatient department,89.0,0.089
+2000,55-64 years,Hospital outpatient department,70.0,0.07
+2001,55-64 years,Hospital outpatient department,79.0,0.079
+2002,55-64 years,Hospital outpatient department,78.0,0.078
+2003,55-64 years,Hospital outpatient department,86.0,0.086
+2004,55-64 years,Hospital outpatient department,83.0,0.083
+2005,55-64 years,Hospital outpatient department,84.0,0.084
+2006,55-64 years,Hospital outpatient department,97.0,0.097
+2007,55-64 years,Hospital outpatient department,87.0,0.087
+2008,55-64 years,Hospital outpatient department,99.0,0.099
+2009,55-64 years,Hospital outpatient department,91.0,0.091
+2010,55-64 years,Hospital outpatient department,73.0,0.073
+2011,55-64 years,Hospital outpatient department,94.0,0.094
+2000,65-74 years,Hospital outpatient department,85.0,0.085
+2001,65-74 years,Hospital outpatient department,70.0,0.07
+2002,65-74 years,Hospital outpatient department,87.0,0.087
+2003,65-74 years,Hospital outpatient department,83.0,0.083
+2004,65-74 years,Hospital outpatient department,82.0,0.082
+2005,65-74 years,Hospital outpatient department,94.0,0.094
+2006,65-74 years,Hospital outpatient department,84.0,0.084
+2007,65-74 years,Hospital outpatient department,83.0,0.083
+2008,65-74 years,Hospital outpatient department,101.0,0.101
+2009,65-74 years,Hospital outpatient department,81.0,0.081
+2010,65-74 years,Hospital outpatient department,85.0,0.085
+2011,65-74 years,Hospital outpatient department,121.0,0.121
+2000,75 years and over,Hospital outpatient department,85.0,0.085
+2001,75 years and over,Hospital outpatient department,67.0,0.067
+2002,75 years and over,Hospital outpatient department,85.0,0.085
+2003,75 years and over,Hospital outpatient department,64.0,0.064
+2004,75 years and over,Hospital outpatient department,81.0,0.081
+2005,75 years and over,Hospital outpatient department,78.0,0.078
+2006,75 years and over,Hospital outpatient department,80.0,0.08
+2007,75 years and over,Hospital outpatient department,97.0,0.097
+2008,75 years and over,Hospital outpatient department,87.0,0.087
+2010,75 years and over,Hospital outpatient department,74.0,0.074
+2011,75 years and over,Hospital outpatient department,98.0,0.098
+2000,All ages,Hospital emergency departments,108017.0,108.017
+2001,All ages,Hospital emergency departments,107490.0,107.49
+2002,All ages,Hospital emergency departments,110155.0,110.155
+2003,All ages,Hospital emergency departments,113903.0,113.903
+2004,All ages,Hospital emergency departments,110216.0,110.216
+2005,All ages,Hospital emergency departments,115323.0,115.323
+2006,All ages,Hospital emergency departments,119191.0,119.191
+2007,All ages,Hospital emergency departments,116802.0,116.802
+2008,All ages,Hospital emergency departments,123761.0,123.761
+2009,All ages,Hospital emergency departments,136072.0,136.072
+2010,All ages,Hospital emergency departments,129843.0,129.843
+2011,All ages,Hospital emergency departments,136296.0,136.296
+2012,All ages,Hospital emergency departments,130870.0,130.87
+2013,All ages,Hospital emergency departments,130353.0,130.353
+2014,All ages,Hospital emergency departments,141420.0,141.42
+2015,All ages,Hospital emergency departments,136943.0,136.943
+2016,All ages,Hospital emergency departments,145591.0,145.591
+2017,All ages,Hospital emergency departments,138977.0,138.977
+2018,All ages,Hospital emergency departments,129974.0,129.974
+2000,Under 18 years,Hospital emergency departments,27630.0,27.63
+2001,Under 18 years,Hospital emergency departments,26239.0,26.239
+2002,Under 18 years,Hospital emergency departments,27932.0,27.932
+2003,Under 18 years,Hospital emergency departments,28920.0,28.92
+2004,Under 18 years,Hospital emergency departments,27144.0,27.144
+2005,Under 18 years,Hospital emergency departments,28915.0,28.915
+2006,Under 18 years,Hospital emergency departments,26296.0,26.296
+2007,Under 18 years,Hospital emergency departments,26893.0,26.893
+2008,Under 18 years,Hospital emergency departments,27880.0,27.88
+2009,Under 18 years,Hospital emergency departments,33173.0,33.173
+2010,Under 18 years,Hospital emergency departments,29815.0,29.815
+2011,Under 18 years,Hospital emergency departments,29451.0,29.451
+2012,Under 18 years,Hospital emergency departments,27656.0,27.656
+2013,Under 18 years,Hospital emergency departments,27992.0,27.992
+2014,Under 18 years,Hospital emergency departments,32485.0,32.485
+2015,Under 18 years,Hospital emergency departments,31860.0,31.86
+2016,Under 18 years,Hospital emergency departments,32146.0,32.146
+2017,Under 18 years,Hospital emergency departments,33698.0,33.698
+2018,Under 18 years,Hospital emergency departments,29293.0,29.293
+2000,18-44 years,Hospital emergency departments,45816.0,45.816
+2001,18-44 years,Hospital emergency departments,46109.0,46.109
+2002,18-44 years,Hospital emergency departments,45792.0,45.792
+2003,18-44 years,Hospital emergency departments,46449.0,46.449
+2004,18-44 years,Hospital emergency departments,45835.0,45.835
+2005,18-44 years,Hospital emergency departments,47496.0,47.496
+2006,18-44 years,Hospital emergency departments,50139.0,50.139
+2007,18-44 years,Hospital emergency departments,47883.0,47.883
+2008,18-44 years,Hospital emergency departments,50285.0,50.285
+2009,18-44 years,Hospital emergency departments,53784.0,53.784
+2010,18-44 years,Hospital emergency departments,52697.0,52.697
+2011,18-44 years,Hospital emergency departments,56646.0,56.646
+2012,18-44 years,Hospital emergency departments,53489.0,53.489
+2013,18-44 years,Hospital emergency departments,51251.0,51.251
+2014,18-44 years,Hospital emergency departments,56803.0,56.803
+2015,18-44 years,Hospital emergency departments,54592.0,54.592
+2016,18-44 years,Hospital emergency departments,55978.0,55.978
+2017,18-44 years,Hospital emergency departments,53072.0,53.072
+2018,18-44 years,Hospital emergency departments,47085.0,47.085
+2000,45-64 years,Hospital emergency departments,18339.0,18.339
+2001,45-64 years,Hospital emergency departments,19260.0,19.26
+2002,45-64 years,Hospital emergency departments,19943.0,19.943
+2003,45-64 years,Hospital emergency departments,20992.0,20.992
+2004,45-64 years,Hospital emergency departments,21506.0,21.506
+2005,45-64 years,Hospital emergency departments,22182.0,22.182
+2006,45-64 years,Hospital emergency departments,25466.0,25.466
+2007,45-64 years,Hospital emergency departments,24491.0,24.491
+2008,45-64 years,Hospital emergency departments,26335.0,26.335
+2009,45-64 years,Hospital emergency departments,29297.0,29.297
+2010,45-64 years,Hospital emergency departments,27877.0,27.877
+2011,45-64 years,Hospital emergency departments,29828.0,29.828
+2012,45-64 years,Hospital emergency departments,28938.0,28.938
+2013,45-64 years,Hospital emergency departments,30358.0,30.358
+2014,45-64 years,Hospital emergency departments,30354.0,30.354
+2015,45-64 years,Hospital emergency departments,29119.0,29.119
+2016,45-64 years,Hospital emergency departments,34359.0,34.359
+2017,45-64 years,Hospital emergency departments,29828.0,29.828
+2018,45-64 years,Hospital emergency departments,30399.0,30.399
+2000,45-54 years,Hospital emergency departments,11201.0,11.201
+2001,45-54 years,Hospital emergency departments,11707.0,11.707
+2002,45-54 years,Hospital emergency departments,12050.0,12.05
+2003,45-54 years,Hospital emergency departments,12861.0,12.861
+2004,45-54 years,Hospital emergency departments,13156.0,13.156
+2005,45-54 years,Hospital emergency departments,13094.0,13.094
+2006,45-54 years,Hospital emergency departments,15663.0,15.663
+2007,45-54 years,Hospital emergency departments,14898.0,14.898
+2008,45-54 years,Hospital emergency departments,15641.0,15.641
+2009,45-54 years,Hospital emergency departments,17271.0,17.271
+2010,45-54 years,Hospital emergency departments,16581.0,16.581
+2011,45-54 years,Hospital emergency departments,17595.0,17.595
+2012,45-54 years,Hospital emergency departments,16389.0,16.389
+2013,45-54 years,Hospital emergency departments,17358.0,17.358
+2014,45-54 years,Hospital emergency departments,16997.0,16.997
+2015,45-54 years,Hospital emergency departments,16070.0,16.07
+2016,45-54 years,Hospital emergency departments,18605.0,18.605
+2017,45-54 years,Hospital emergency departments,16415.0,16.415
+2018,45-54 years,Hospital emergency departments,15297.0,15.297
+2000,55-64 years,Hospital emergency departments,7138.0,7.138
+2001,55-64 years,Hospital emergency departments,7552.0,7.552
+2002,55-64 years,Hospital emergency departments,7892.0,7.892
+2003,55-64 years,Hospital emergency departments,8132.0,8.132
+2004,55-64 years,Hospital emergency departments,8349.0,8.349
+2005,55-64 years,Hospital emergency departments,9088.0,9.088
+2006,55-64 years,Hospital emergency departments,9803.0,9.803
+2007,55-64 years,Hospital emergency departments,9593.0,9.593
+2008,55-64 years,Hospital emergency departments,10694.0,10.694
+2009,55-64 years,Hospital emergency departments,12026.0,12.026
+2010,55-64 years,Hospital emergency departments,11296.0,11.296
+2011,55-64 years,Hospital emergency departments,12232.0,12.232
+2012,55-64 years,Hospital emergency departments,12549.0,12.549
+2013,55-64 years,Hospital emergency departments,13000.0,13.0
+2014,55-64 years,Hospital emergency departments,13357.0,13.357
+2015,55-64 years,Hospital emergency departments,13050.0,13.05
+2016,55-64 years,Hospital emergency departments,15754.0,15.754
+2017,55-64 years,Hospital emergency departments,13412.0,13.412
+2018,55-64 years,Hospital emergency departments,15102.0,15.102
+2000,65 years and over,Hospital emergency departments,16232.0,16.232
+2001,65 years and over,Hospital emergency departments,15883.0,15.883
+2002,65 years and over,Hospital emergency departments,16488.0,16.488
+2003,65 years and over,Hospital emergency departments,17542.0,17.542
+2004,65 years and over,Hospital emergency departments,15732.0,15.732
+2005,65 years and over,Hospital emergency departments,16730.0,16.73
+2006,65 years and over,Hospital emergency departments,17290.0,17.29
+2007,65 years and over,Hospital emergency departments,17535.0,17.535
+2008,65 years and over,Hospital emergency departments,19261.0,19.261
+2009,65 years and over,Hospital emergency departments,19818.0,19.818
+2010,65 years and over,Hospital emergency departments,19454.0,19.454
+2011,65 years and over,Hospital emergency departments,20372.0,20.372
+2012,65 years and over,Hospital emergency departments,20786.0,20.786
+2013,65 years and over,Hospital emergency departments,20752.0,20.752
+2014,65 years and over,Hospital emergency departments,21778.0,21.778
+2015,65 years and over,Hospital emergency departments,21372.0,21.372
+2016,65 years and over,Hospital emergency departments,23108.0,23.108
+2017,65 years and over,Hospital emergency departments,22379.0,22.379
+2018,65 years and over,Hospital emergency departments,23197.0,23.197
+2000,65-74 years,Hospital emergency departments,6543.0,6.543
+2001,65-74 years,Hospital emergency departments,6551.0,6.551
+2002,65-74 years,Hospital emergency departments,6759.0,6.759
+2003,65-74 years,Hospital emergency departments,7153.0,7.153
+2004,65-74 years,Hospital emergency departments,6219.0,6.219
+2005,65-74 years,Hospital emergency departments,6756.0,6.756
+2006,65-74 years,Hospital emergency departments,7095.0,7.095
+2007,65-74 years,Hospital emergency departments,6908.0,6.908
+2008,65-74 years,Hospital emergency departments,7479.0,7.479
+2009,65-74 years,Hospital emergency departments,8396.0,8.396
+2010,65-74 years,Hospital emergency departments,8199.0,8.199
+2011,65-74 years,Hospital emergency departments,8208.0,8.208
+2012,65-74 years,Hospital emergency departments,8937.0,8.937
+2013,65-74 years,Hospital emergency departments,9354.0,9.354
+2014,65-74 years,Hospital emergency departments,9689.0,9.689
+2015,65-74 years,Hospital emergency departments,9797.0,9.797
+2016,65-74 years,Hospital emergency departments,10985.0,10.985
+2017,65-74 years,Hospital emergency departments,10316.0,10.316
+2018,65-74 years,Hospital emergency departments,10709.0,10.709
+2000,75 years and over,Hospital emergency departments,9690.0,9.69
+2001,75 years and over,Hospital emergency departments,9332.0,9.332
+2002,75 years and over,Hospital emergency departments,9728.0,9.728
+2003,75 years and over,Hospital emergency departments,10389.0,10.389
+2004,75 years and over,Hospital emergency departments,9513.0,9.513
+2005,75 years and over,Hospital emergency departments,9974.0,9.974
+2006,75 years and over,Hospital emergency departments,10195.0,10.195
+2007,75 years and over,Hospital emergency departments,10627.0,10.627
+2008,75 years and over,Hospital emergency departments,11781.0,11.781
+2009,75 years and over,Hospital emergency departments,11423.0,11.423
+2010,75 years and over,Hospital emergency departments,11255.0,11.255
+2011,75 years and over,Hospital emergency departments,12163.0,12.163
+2012,75 years and over,Hospital emergency departments,11849.0,11.849
+2013,75 years and over,Hospital emergency departments,11398.0,11.398
+2014,75 years and over,Hospital emergency departments,12088.0,12.088
+2015,75 years and over,Hospital emergency departments,11575.0,11.575
+2016,75 years and over,Hospital emergency departments,12123.0,12.123
+2017,75 years and over,Hospital emergency departments,12063.0,12.063
+2018,75 years and over,Hospital emergency departments,12488.0,12.488
+2000,All ages,Hospital emergency departments,40.0,0.04
+2001,All ages,Hospital emergency departments,39.0,0.039
+2002,All ages,Hospital emergency departments,39.0,0.039
+2003,All ages,Hospital emergency departments,40.0,0.04
+2004,All ages,Hospital emergency departments,39.0,0.039
+2005,All ages,Hospital emergency departments,40.0,0.04
+2006,All ages,Hospital emergency departments,41.0,0.041
+2007,All ages,Hospital emergency departments,40.0,0.04
+2008,All ages,Hospital emergency departments,42.0,0.042
+2009,All ages,Hospital emergency departments,46.0,0.046
+2010,All ages,Hospital emergency departments,43.0,0.043
+2011,All ages,Hospital emergency departments,45.0,0.045
+2012,All ages,Hospital emergency departments,43.0,0.043
+2013,All ages,Hospital emergency departments,42.0,0.042
+2014,All ages,Hospital emergency departments,46.0,0.046
+2015,All ages,Hospital emergency departments,44.0,0.044
+2016,All ages,Hospital emergency departments,46.0,0.046
+2017,All ages,Hospital emergency departments,44.0,0.044
+2018,All ages,Hospital emergency departments,41.0,0.041
+2000,All ages,Hospital emergency departments,38.0,0.038
+2001,All ages,Hospital emergency departments,37.0,0.037
+2002,All ages,Hospital emergency departments,37.0,0.037
+2003,All ages,Hospital emergency departments,39.0,0.039
+2004,All ages,Hospital emergency departments,36.0,0.036
+2005,All ages,Hospital emergency departments,38.0,0.038
+2006,All ages,Hospital emergency departments,38.0,0.038
+2007,All ages,Hospital emergency departments,37.0,0.037
+2008,All ages,Hospital emergency departments,39.0,0.039
+2009,All ages,Hospital emergency departments,42.0,0.042
+2010,All ages,Hospital emergency departments,40.0,0.04
+2011,All ages,Hospital emergency departments,42.0,0.042
+2012,All ages,Hospital emergency departments,39.0,0.039
+2013,All ages,Hospital emergency departments,38.0,0.038
+2014,All ages,Hospital emergency departments,42.0,0.042
+2015,All ages,Hospital emergency departments,40.0,0.04
+2016,All ages,Hospital emergency departments,43.0,0.043
+2017,All ages,Hospital emergency departments,40.0,0.04
+2018,All ages,Hospital emergency departments,37.0,0.037
+2000,All ages,Hospital emergency departments,41.0,0.041
+2001,All ages,Hospital emergency departments,40.0,0.04
+2002,All ages,Hospital emergency departments,41.0,0.041
+2003,All ages,Hospital emergency departments,42.0,0.042
+2004,All ages,Hospital emergency departments,41.0,0.041
+2005,All ages,Hospital emergency departments,42.0,0.042
+2006,All ages,Hospital emergency departments,44.0,0.044
+2007,All ages,Hospital emergency departments,42.0,0.042
+2008,All ages,Hospital emergency departments,44.0,0.044
+2009,All ages,Hospital emergency departments,49.0,0.049
+2010,All ages,Hospital emergency departments,47.0,0.047
+2011,All ages,Hospital emergency departments,48.0,0.048
+2012,All ages,Hospital emergency departments,47.0,0.047
+2013,All ages,Hospital emergency departments,47.0,0.047
+2014,All ages,Hospital emergency departments,49.0,0.049
+2015,All ages,Hospital emergency departments,48.0,0.048
+2016,All ages,Hospital emergency departments,50.0,0.05
+2017,All ages,Hospital emergency departments,48.0,0.048
+2018,All ages,Hospital emergency departments,44.0,0.044
+2000,All ages,Hospital emergency departments,37.0,0.037
+2001,All ages,Hospital emergency departments,36.0,0.036
+2002,All ages,Hospital emergency departments,36.0,0.036
+2003,All ages,Hospital emergency departments,38.0,0.038
+2004,All ages,Hospital emergency departments,35.0,0.035
+2005,All ages,Hospital emergency departments,37.0,0.037
+2006,All ages,Hospital emergency departments,36.0,0.036
+2007,All ages,Hospital emergency departments,36.0,0.036
+2008,All ages,Hospital emergency departments,38.0,0.038
+2009,All ages,Hospital emergency departments,41.0,0.041
+2010,All ages,Hospital emergency departments,41.0,0.041
+2011,All ages,Hospital emergency departments,42.0,0.042
+2012,All ages,Hospital emergency departments,40.0,0.04
+2013,All ages,Hospital emergency departments,40.0,0.04
+2014,All ages,Hospital emergency departments,41.0,0.041
+2015,All ages,Hospital emergency departments,42.0,0.042
+2016,All ages,Hospital emergency departments,44.0,0.044
+2017,All ages,Hospital emergency departments,40.0,0.04
+2018,All ages,Hospital emergency departments,36.0,0.036
+2000,All ages,Hospital emergency departments,62.0,0.062
+2001,All ages,Hospital emergency departments,65.0,0.065
+2002,All ages,Hospital emergency departments,71.0,0.071
+2003,All ages,Hospital emergency departments,71.0,0.071
+2004,All ages,Hospital emergency departments,70.0,0.07
+2005,All ages,Hospital emergency departments,70.0,0.07
+2006,All ages,Hospital emergency departments,81.0,0.081
+2007,All ages,Hospital emergency departments,76.0,0.076
+2008,All ages,Hospital emergency departments,78.0,0.078
+2009,All ages,Hospital emergency departments,85.0,0.085
+2010,All ages,Hospital emergency departments,73.0,0.073
+2011,All ages,Hospital emergency departments,85.0,0.085
+2012,All ages,Hospital emergency departments,79.0,0.079
+2013,All ages,Hospital emergency departments,73.0,0.073
+2014,All ages,Hospital emergency departments,95.0,0.095
+2015,All ages,Hospital emergency departments,78.0,0.078
+2016,All ages,Hospital emergency departments,81.0,0.081
+2017,All ages,Hospital emergency departments,86.0,0.086
+2018,All ages,Hospital emergency departments,85.0,0.085
+2000,All ages,Hospital emergency departments,39.0,0.039
+2001,All ages,Hospital emergency departments,38.0,0.038
+2002,All ages,Hospital emergency departments,39.0,0.039
+2003,All ages,Hospital emergency departments,40.0,0.04
+2004,All ages,Hospital emergency departments,38.0,0.038
+2005,All ages,Hospital emergency departments,40.0,0.04
+2006,All ages,Hospital emergency departments,41.0,0.041
+2007,All ages,Hospital emergency departments,39.0,0.039
+2008,All ages,Hospital emergency departments,41.0,0.041
+2009,All ages,Hospital emergency departments,45.0,0.045
+2010,All ages,Hospital emergency departments,43.0,0.043
+2011,All ages,Hospital emergency departments,44.0,0.044
+2012,All ages,Hospital emergency departments,42.0,0.042
+2013,All ages,Hospital emergency departments,42.0,0.042
+2014,All ages,Hospital emergency departments,45.0,0.045
+2015,All ages,Hospital emergency departments,43.0,0.043
+2016,All ages,Hospital emergency departments,46.0,0.046
+2017,All ages,Hospital emergency departments,43.0,0.043
+2018,All ages,Hospital emergency departments,40.0,0.04
+2000,Under 18 years,Hospital emergency departments,38.0,0.038
+2001,Under 18 years,Hospital emergency departments,36.0,0.036
+2002,Under 18 years,Hospital emergency departments,38.0,0.038
+2003,Under 18 years,Hospital emergency departments,40.0,0.04
+2004,Under 18 years,Hospital emergency departments,37.0,0.037
+2005,Under 18 years,Hospital emergency departments,39.0,0.039
+2006,Under 18 years,Hospital emergency departments,36.0,0.036
+2007,Under 18 years,Hospital emergency departments,36.0,0.036
+2008,Under 18 years,Hospital emergency departments,38.0,0.038
+2009,Under 18 years,Hospital emergency departments,45.0,0.045
+2010,Under 18 years,Hospital emergency departments,40.0,0.04
+2011,Under 18 years,Hospital emergency departments,40.0,0.04
+2012,Under 18 years,Hospital emergency departments,38.0,0.038
+2013,Under 18 years,Hospital emergency departments,38.0,0.038
+2014,Under 18 years,Hospital emergency departments,44.0,0.044
+2015,Under 18 years,Hospital emergency departments,43.0,0.043
+2016,Under 18 years,Hospital emergency departments,44.0,0.044
+2017,Under 18 years,Hospital emergency departments,46.0,0.046
+2018,Under 18 years,Hospital emergency departments,40.0,0.04
+2000,18-44 years,Hospital emergency departments,42.0,0.042
+2001,18-44 years,Hospital emergency departments,42.0,0.042
+2002,18-44 years,Hospital emergency departments,42.0,0.042
+2003,18-44 years,Hospital emergency departments,42.0,0.042
+2004,18-44 years,Hospital emergency departments,42.0,0.042
+2005,18-44 years,Hospital emergency departments,43.0,0.043
+2006,18-44 years,Hospital emergency departments,45.0,0.045
+2007,18-44 years,Hospital emergency departments,43.0,0.043
+2008,18-44 years,Hospital emergency departments,46.0,0.046
+2009,18-44 years,Hospital emergency departments,49.0,0.049
+2010,18-44 years,Hospital emergency departments,48.0,0.048
+2011,18-44 years,Hospital emergency departments,51.0,0.051
+2012,18-44 years,Hospital emergency departments,48.0,0.048
+2013,18-44 years,Hospital emergency departments,46.0,0.046
+2014,18-44 years,Hospital emergency departments,50.0,0.05
+2015,18-44 years,Hospital emergency departments,48.0,0.048
+2016,18-44 years,Hospital emergency departments,50.0,0.05
+2017,18-44 years,Hospital emergency departments,47.0,0.047
+2018,18-44 years,Hospital emergency departments,41.0,0.041
+2000,45-64 years,Hospital emergency departments,30.0,0.03
+2001,45-64 years,Hospital emergency departments,30.0,0.03
+2002,45-64 years,Hospital emergency departments,30.0,0.03
+2003,45-64 years,Hospital emergency departments,31.0,0.031
+2004,45-64 years,Hospital emergency departments,31.0,0.031
+2005,45-64 years,Hospital emergency departments,31.0,0.031
+2006,45-64 years,Hospital emergency departments,34.0,0.034
+2007,45-64 years,Hospital emergency departments,32.0,0.032
+2008,45-64 years,Hospital emergency departments,34.0,0.034
+2009,45-64 years,Hospital emergency departments,37.0,0.037
+2010,45-64 years,Hospital emergency departments,35.0,0.035
+2011,45-64 years,Hospital emergency departments,36.0,0.036
+2012,45-64 years,Hospital emergency departments,35.0,0.035
+2013,45-64 years,Hospital emergency departments,37.0,0.037
+2014,45-64 years,Hospital emergency departments,37.0,0.037
+2015,45-64 years,Hospital emergency departments,35.0,0.035
+2016,45-64 years,Hospital emergency departments,41.0,0.041
+2017,45-64 years,Hospital emergency departments,36.0,0.036
+2018,45-64 years,Hospital emergency departments,37.0,0.037
+2000,45-54 years,Hospital emergency departments,30.0,0.03
+2001,45-54 years,Hospital emergency departments,30.0,0.03
+2002,45-54 years,Hospital emergency departments,30.0,0.03
+2003,45-54 years,Hospital emergency departments,32.0,0.032
+2004,45-54 years,Hospital emergency departments,32.0,0.032
+2005,45-54 years,Hospital emergency departments,31.0,0.031
+2006,45-54 years,Hospital emergency departments,37.0,0.037
+2007,45-54 years,Hospital emergency departments,34.0,0.034
+2008,45-54 years,Hospital emergency departments,36.0,0.036
+2009,45-54 years,Hospital emergency departments,39.0,0.039
+2010,45-54 years,Hospital emergency departments,38.0,0.038
+2011,45-54 years,Hospital emergency departments,40.0,0.04
+2012,45-54 years,Hospital emergency departments,37.0,0.037
+2013,45-54 years,Hospital emergency departments,40.0,0.04
+2014,45-54 years,Hospital emergency departments,40.0,0.04
+2015,45-54 years,Hospital emergency departments,38.0,0.038
+2016,45-54 years,Hospital emergency departments,44.0,0.044
+2017,45-54 years,Hospital emergency departments,39.0,0.039
+2018,45-54 years,Hospital emergency departments,37.0,0.037
+2000,55-64 years,Hospital emergency departments,30.0,0.03
+2001,55-64 years,Hospital emergency departments,30.0,0.03
+2002,55-64 years,Hospital emergency departments,30.0,0.03
+2003,55-64 years,Hospital emergency departments,29.0,0.029
+2004,55-64 years,Hospital emergency departments,29.0,0.029
+2005,55-64 years,Hospital emergency departments,30.0,0.03
+2006,55-64 years,Hospital emergency departments,31.0,0.031
+2007,55-64 years,Hospital emergency departments,29.0,0.029
+2008,55-64 years,Hospital emergency departments,32.0,0.032
+2009,55-64 years,Hospital emergency departments,35.0,0.035
+2010,55-64 years,Hospital emergency departments,32.0,0.032
+2011,55-64 years,Hospital emergency departments,32.0,0.032
+2012,55-64 years,Hospital emergency departments,33.0,0.033
+2013,55-64 years,Hospital emergency departments,33.0,0.033
+2014,55-64 years,Hospital emergency departments,34.0,0.034
+2015,55-64 years,Hospital emergency departments,32.0,0.032
+2016,55-64 years,Hospital emergency departments,38.0,0.038
+2017,55-64 years,Hospital emergency departments,32.0,0.032
+2018,55-64 years,Hospital emergency departments,36.0,0.036
+2000,65 years and over,Hospital emergency departments,50.0,0.05
+2001,65 years and over,Hospital emergency departments,47.0,0.047
+2002,65 years and over,Hospital emergency departments,49.0,0.049
+2003,65 years and over,Hospital emergency departments,51.0,0.051
+2004,65 years and over,Hospital emergency departments,45.0,0.045
+2005,65 years and over,Hospital emergency departments,48.0,0.048
+2006,65 years and over,Hospital emergency departments,49.0,0.049
+2007,65 years and over,Hospital emergency departments,48.0,0.048
+2008,65 years and over,Hospital emergency departments,52.0,0.052
+2009,65 years and over,Hospital emergency departments,52.0,0.052
+2010,65 years and over,Hospital emergency departments,50.0,0.05
+2011,65 years and over,Hospital emergency departments,51.0,0.051
+2012,65 years and over,Hospital emergency departments,50.0,0.05
+2013,65 years and over,Hospital emergency departments,48.0,0.048
+2014,65 years and over,Hospital emergency departments,48.0,0.048
+2015,65 years and over,Hospital emergency departments,46.0,0.046
+2016,65 years and over,Hospital emergency departments,48.0,0.048
+2017,65 years and over,Hospital emergency departments,45.0,0.045
+2018,65 years and over,Hospital emergency departments,45.0,0.045
+2000,65-74 years,Hospital emergency departments,37.0,0.037
+2001,65-74 years,Hospital emergency departments,36.0,0.036
+2002,65-74 years,Hospital emergency departments,38.0,0.038
+2003,65-74 years,Hospital emergency departments,40.0,0.04
+2004,65-74 years,Hospital emergency departments,34.0,0.034
+2005,65-74 years,Hospital emergency departments,37.0,0.037
+2006,65-74 years,Hospital emergency departments,38.0,0.038
+2007,65-74 years,Hospital emergency departments,36.0,0.036
+2008,65-74 years,Hospital emergency departments,38.0,0.038
+2009,65-74 years,Hospital emergency departments,41.0,0.041
+2010,65-74 years,Hospital emergency departments,39.0,0.039
+2011,65-74 years,Hospital emergency departments,37.0,0.037
+2012,65-74 years,Hospital emergency departments,38.0,0.038
+2013,65-74 years,Hospital emergency departments,37.0,0.037
+2014,65-74 years,Hospital emergency departments,37.0,0.037
+2015,65-74 years,Hospital emergency departments,36.0,0.036
+2016,65-74 years,Hospital emergency departments,39.0,0.039
+2017,65-74 years,Hospital emergency departments,35.0,0.035
+2018,65-74 years,Hospital emergency departments,35.0,0.035
+2000,75 years and over,Hospital emergency departments,65.0,0.065
+2001,75 years and over,Hospital emergency departments,60.0,0.06
+2002,75 years and over,Hospital emergency departments,61.0,0.061
+2003,75 years and over,Hospital emergency departments,64.0,0.064
+2004,75 years and over,Hospital emergency departments,58.0,0.058
+2005,75 years and over,Hospital emergency departments,60.0,0.06
+2006,75 years and over,Hospital emergency departments,60.0,0.06
+2007,75 years and over,Hospital emergency departments,62.0,0.062
+2008,75 years and over,Hospital emergency departments,68.0,0.068
+2009,75 years and over,Hospital emergency departments,66.0,0.066
+2010,75 years and over,Hospital emergency departments,64.0,0.064
+2011,75 years and over,Hospital emergency departments,68.0,0.068
+2012,75 years and over,Hospital emergency departments,66.0,0.066
+2013,75 years and over,Hospital emergency departments,62.0,0.062
+2014,75 years and over,Hospital emergency departments,64.0,0.064
+2015,75 years and over,Hospital emergency departments,60.0,0.06
+2016,75 years and over,Hospital emergency departments,62.0,0.062
+2017,75 years and over,Hospital emergency departments,60.0,0.06
+2018,75 years and over,Hospital emergency departments,60.0,0.06
+2000,All ages,Hospital emergency departments,38.0,0.038
+2001,All ages,Hospital emergency departments,37.0,0.037
+2002,All ages,Hospital emergency departments,37.0,0.037
+2003,All ages,Hospital emergency departments,38.0,0.038
+2004,All ages,Hospital emergency departments,36.0,0.036
+2005,All ages,Hospital emergency departments,37.0,0.037
+2006,All ages,Hospital emergency departments,38.0,0.038
+2007,All ages,Hospital emergency departments,37.0,0.037
+2008,All ages,Hospital emergency departments,39.0,0.039
+2009,All ages,Hospital emergency departments,42.0,0.042
+2010,All ages,Hospital emergency departments,39.0,0.039
+2011,All ages,Hospital emergency departments,41.0,0.041
+2012,All ages,Hospital emergency departments,39.0,0.039
+2013,All ages,Hospital emergency departments,38.0,0.038
+2014,All ages,Hospital emergency departments,42.0,0.042
+2015,All ages,Hospital emergency departments,39.0,0.039
+2016,All ages,Hospital emergency departments,42.0,0.042
+2017,All ages,Hospital emergency departments,39.0,0.039
+2018,All ages,Hospital emergency departments,37.0,0.037
+2000,All ages,Hospital emergency departments,41.0,0.041
+2001,All ages,Hospital emergency departments,40.0,0.04
+2002,All ages,Hospital emergency departments,41.0,0.041
+2003,All ages,Hospital emergency departments,42.0,0.042
+2004,All ages,Hospital emergency departments,41.0,0.041
+2005,All ages,Hospital emergency departments,42.0,0.042
+2006,All ages,Hospital emergency departments,43.0,0.043
+2007,All ages,Hospital emergency departments,42.0,0.042
+2008,All ages,Hospital emergency departments,44.0,0.044
+2009,All ages,Hospital emergency departments,48.0,0.048
+2010,All ages,Hospital emergency departments,46.0,0.046
+2011,All ages,Hospital emergency departments,48.0,0.048
+2012,All ages,Hospital emergency departments,46.0,0.046
+2013,All ages,Hospital emergency departments,46.0,0.046
+2014,All ages,Hospital emergency departments,48.0,0.048
+2015,All ages,Hospital emergency departments,47.0,0.047
+2016,All ages,Hospital emergency departments,49.0,0.049
+2017,All ages,Hospital emergency departments,47.0,0.047
+2018,All ages,Hospital emergency departments,44.0,0.044
+2000,Under 18 years,Hospital emergency departments,41.0,0.041
+2001,Under 18 years,Hospital emergency departments,38.0,0.038
+2002,Under 18 years,Hospital emergency departments,39.0,0.039
+2003,Under 18 years,Hospital emergency departments,41.0,0.041
+2004,Under 18 years,Hospital emergency departments,38.0,0.038
+2005,Under 18 years,Hospital emergency departments,41.0,0.041
+2006,Under 18 years,Hospital emergency departments,36.0,0.036
+2007,Under 18 years,Hospital emergency departments,38.0,0.038
+2008,Under 18 years,Hospital emergency departments,39.0,0.039
+2009,Under 18 years,Hospital emergency departments,46.0,0.046
+2010,Under 18 years,Hospital emergency departments,43.0,0.043
+2011,Under 18 years,Hospital emergency departments,41.0,0.041
+2012,Under 18 years,Hospital emergency departments,37.0,0.037
+2013,Under 18 years,Hospital emergency departments,39.0,0.039
+2014,Under 18 years,Hospital emergency departments,45.0,0.045
+2015,Under 18 years,Hospital emergency departments,44.0,0.044
+2016,Under 18 years,Hospital emergency departments,45.0,0.045
+2017,Under 18 years,Hospital emergency departments,47.0,0.047
+2018,Under 18 years,Hospital emergency departments,40.0,0.04
+2000,18-44 years,Hospital emergency departments,38.0,0.038
+2001,18-44 years,Hospital emergency departments,39.0,0.039
+2002,18-44 years,Hospital emergency departments,37.0,0.037
+2003,18-44 years,Hospital emergency departments,37.0,0.037
+2004,18-44 years,Hospital emergency departments,36.0,0.036
+2005,18-44 years,Hospital emergency departments,38.0,0.038
+2006,18-44 years,Hospital emergency departments,39.0,0.039
+2007,18-44 years,Hospital emergency departments,37.0,0.037
+2008,18-44 years,Hospital emergency departments,39.0,0.039
+2009,18-44 years,Hospital emergency departments,40.0,0.04
+2010,18-44 years,Hospital emergency departments,38.0,0.038
+2011,18-44 years,Hospital emergency departments,43.0,0.043
+2012,18-44 years,Hospital emergency departments,40.0,0.04
+2013,18-44 years,Hospital emergency departments,37.0,0.037
+2014,18-44 years,Hospital emergency departments,42.0,0.042
+2015,18-44 years,Hospital emergency departments,39.0,0.039
+2016,18-44 years,Hospital emergency departments,41.0,0.041
+2017,18-44 years,Hospital emergency departments,37.0,0.037
+2018,18-44 years,Hospital emergency departments,33.0,0.033
+2000,45-54 years,Hospital emergency departments,30.0,0.03
+2001,45-54 years,Hospital emergency departments,29.0,0.029
+2002,45-54 years,Hospital emergency departments,29.0,0.029
+2003,45-54 years,Hospital emergency departments,30.0,0.03
+2004,45-54 years,Hospital emergency departments,31.0,0.031
+2005,45-54 years,Hospital emergency departments,29.0,0.029
+2006,45-54 years,Hospital emergency departments,36.0,0.036
+2007,45-54 years,Hospital emergency departments,34.0,0.034
+2008,45-54 years,Hospital emergency departments,35.0,0.035
+2009,45-54 years,Hospital emergency departments,36.0,0.036
+2010,45-54 years,Hospital emergency departments,35.0,0.035
+2011,45-54 years,Hospital emergency departments,38.0,0.038
+2012,45-54 years,Hospital emergency departments,35.0,0.035
+2013,45-54 years,Hospital emergency departments,37.0,0.037
+2014,45-54 years,Hospital emergency departments,41.0,0.041
+2015,45-54 years,Hospital emergency departments,36.0,0.036
+2016,45-54 years,Hospital emergency departments,41.0,0.041
+2017,45-54 years,Hospital emergency departments,38.0,0.038
+2018,45-54 years,Hospital emergency departments,35.0,0.035
+2000,55-64 years,Hospital emergency departments,30.0,0.03
+2001,55-64 years,Hospital emergency departments,28.0,0.028
+2002,55-64 years,Hospital emergency departments,28.0,0.028
+2003,55-64 years,Hospital emergency departments,29.0,0.029
+2004,55-64 years,Hospital emergency departments,28.0,0.028
+2005,55-64 years,Hospital emergency departments,28.0,0.028
+2006,55-64 years,Hospital emergency departments,31.0,0.031
+2007,55-64 years,Hospital emergency departments,29.0,0.029
+2008,55-64 years,Hospital emergency departments,31.0,0.031
+2009,55-64 years,Hospital emergency departments,34.0,0.034
+2010,55-64 years,Hospital emergency departments,32.0,0.032
+2011,55-64 years,Hospital emergency departments,34.0,0.034
+2012,55-64 years,Hospital emergency departments,33.0,0.033
+2013,55-64 years,Hospital emergency departments,34.0,0.034
+2014,55-64 years,Hospital emergency departments,31.0,0.031
+2015,55-64 years,Hospital emergency departments,31.0,0.031
+2016,55-64 years,Hospital emergency departments,39.0,0.039
+2017,55-64 years,Hospital emergency departments,30.0,0.03
+2018,55-64 years,Hospital emergency departments,35.0,0.035
+2000,65-74 years,Hospital emergency departments,36.0,0.036
+2001,65-74 years,Hospital emergency departments,38.0,0.038
+2002,65-74 years,Hospital emergency departments,38.0,0.038
+2003,65-74 years,Hospital emergency departments,41.0,0.041
+2004,65-74 years,Hospital emergency departments,34.0,0.034
+2005,65-74 years,Hospital emergency departments,39.0,0.039
+2006,65-74 years,Hospital emergency departments,38.0,0.038
+2007,65-74 years,Hospital emergency departments,36.0,0.036
+2008,65-74 years,Hospital emergency departments,38.0,0.038
+2009,65-74 years,Hospital emergency departments,40.0,0.04
+2010,65-74 years,Hospital emergency departments,37.0,0.037
+2011,65-74 years,Hospital emergency departments,37.0,0.037
+2012,65-74 years,Hospital emergency departments,38.0,0.038
+2013,65-74 years,Hospital emergency departments,36.0,0.036
+2014,65-74 years,Hospital emergency departments,37.0,0.037
+2015,65-74 years,Hospital emergency departments,34.0,0.034
+2016,65-74 years,Hospital emergency departments,39.0,0.039
+2017,65-74 years,Hospital emergency departments,33.0,0.033
+2018,65-74 years,Hospital emergency departments,35.0,0.035
+2000,75 years and over,Hospital emergency departments,59.0,0.059
+2001,75 years and over,Hospital emergency departments,57.0,0.057
+2002,75 years and over,Hospital emergency departments,58.0,0.058
+2003,75 years and over,Hospital emergency departments,67.0,0.067
+2004,75 years and over,Hospital emergency departments,56.0,0.056
+2005,75 years and over,Hospital emergency departments,60.0,0.06
+2006,75 years and over,Hospital emergency departments,58.0,0.058
+2007,75 years and over,Hospital emergency departments,56.0,0.056
+2008,75 years and over,Hospital emergency departments,68.0,0.068
+2009,75 years and over,Hospital emergency departments,63.0,0.063
+2010,75 years and over,Hospital emergency departments,60.0,0.06
+2011,75 years and over,Hospital emergency departments,62.0,0.062
+2012,75 years and over,Hospital emergency departments,62.0,0.062
+2013,75 years and over,Hospital emergency departments,55.0,0.055
+2014,75 years and over,Hospital emergency departments,61.0,0.061
+2015,75 years and over,Hospital emergency departments,60.0,0.06
+2016,75 years and over,Hospital emergency departments,62.0,0.062
+2017,75 years and over,Hospital emergency departments,55.0,0.055
+2018,75 years and over,Hospital emergency departments,56.0,0.056
+2000,Under 18 years,Hospital emergency departments,35.0,0.035
+2001,Under 18 years,Hospital emergency departments,34.0,0.034
+2002,Under 18 years,Hospital emergency departments,38.0,0.038
+2003,Under 18 years,Hospital emergency departments,38.0,0.038
+2004,Under 18 years,Hospital emergency departments,36.0,0.036
+2005,Under 18 years,Hospital emergency departments,38.0,0.038
+2006,Under 18 years,Hospital emergency departments,36.0,0.036
+2007,Under 18 years,Hospital emergency departments,35.0,0.035
+2008,Under 18 years,Hospital emergency departments,36.0,0.036
+2009,Under 18 years,Hospital emergency departments,43.0,0.043
+2010,Under 18 years,Hospital emergency departments,37.0,0.037
+2011,Under 18 years,Hospital emergency departments,39.0,0.039
+2012,Under 18 years,Hospital emergency departments,38.0,0.038
+2013,Under 18 years,Hospital emergency departments,38.0,0.038
+2014,Under 18 years,Hospital emergency departments,43.0,0.043
+2015,Under 18 years,Hospital emergency departments,43.0,0.043
+2016,Under 18 years,Hospital emergency departments,43.0,0.043
+2017,Under 18 years,Hospital emergency departments,45.0,0.045
+2018,Under 18 years,Hospital emergency departments,40.0,0.04
+2000,18-44 years,Hospital emergency departments,46.0,0.046
+2001,18-44 years,Hospital emergency departments,45.0,0.045
+2002,18-44 years,Hospital emergency departments,46.0,0.046
+2003,18-44 years,Hospital emergency departments,47.0,0.047
+2004,18-44 years,Hospital emergency departments,47.0,0.047
+2005,18-44 years,Hospital emergency departments,48.0,0.048
+2006,18-44 years,Hospital emergency departments,52.0,0.052
+2007,18-44 years,Hospital emergency departments,49.0,0.049
+2008,18-44 years,Hospital emergency departments,53.0,0.053
+2009,18-44 years,Hospital emergency departments,57.0,0.057
+2010,18-44 years,Hospital emergency departments,57.0,0.057
+2011,18-44 years,Hospital emergency departments,59.0,0.059
+2012,18-44 years,Hospital emergency departments,56.0,0.056
+2013,18-44 years,Hospital emergency departments,55.0,0.055
+2014,18-44 years,Hospital emergency departments,59.0,0.059
+2015,18-44 years,Hospital emergency departments,57.0,0.057
+2016,18-44 years,Hospital emergency departments,58.0,0.058
+2017,18-44 years,Hospital emergency departments,56.0,0.056
+2018,18-44 years,Hospital emergency departments,49.0,0.049
+2000,45-54 years,Hospital emergency departments,31.0,0.031
+2001,45-54 years,Hospital emergency departments,31.0,0.031
+2002,45-54 years,Hospital emergency departments,32.0,0.032
+2003,45-54 years,Hospital emergency departments,33.0,0.033
+2004,45-54 years,Hospital emergency departments,33.0,0.033
+2005,45-54 years,Hospital emergency departments,33.0,0.033
+2006,45-54 years,Hospital emergency departments,37.0,0.037
+2007,45-54 years,Hospital emergency departments,35.0,0.035
+2008,45-54 years,Hospital emergency departments,36.0,0.036
+2009,45-54 years,Hospital emergency departments,42.0,0.042
+2010,45-54 years,Hospital emergency departments,40.0,0.04
+2011,45-54 years,Hospital emergency departments,41.0,0.041
+2012,45-54 years,Hospital emergency departments,40.0,0.04
+2013,45-54 years,Hospital emergency departments,43.0,0.043
+2014,45-54 years,Hospital emergency departments,39.0,0.039
+2015,45-54 years,Hospital emergency departments,39.0,0.039
+2016,45-54 years,Hospital emergency departments,47.0,0.047
+2017,45-54 years,Hospital emergency departments,41.0,0.041
+2018,45-54 years,Hospital emergency departments,39.0,0.039
+2000,55-64 years,Hospital emergency departments,31.0,0.031
+2001,55-64 years,Hospital emergency departments,32.0,0.032
+2002,55-64 years,Hospital emergency departments,32.0,0.032
+2003,55-64 years,Hospital emergency departments,30.0,0.03
+2004,55-64 years,Hospital emergency departments,30.0,0.03
+2005,55-64 years,Hospital emergency departments,32.0,0.032
+2006,55-64 years,Hospital emergency departments,31.0,0.031
+2007,55-64 years,Hospital emergency departments,30.0,0.03
+2008,55-64 years,Hospital emergency departments,33.0,0.033
+2009,55-64 years,Hospital emergency departments,35.0,0.035
+2010,55-64 years,Hospital emergency departments,31.0,0.031
+2011,55-64 years,Hospital emergency departments,31.0,0.031
+2012,55-64 years,Hospital emergency departments,32.0,0.032
+2013,55-64 years,Hospital emergency departments,33.0,0.033
+2014,55-64 years,Hospital emergency departments,36.0,0.036
+2015,55-64 years,Hospital emergency departments,33.0,0.033
+2016,55-64 years,Hospital emergency departments,38.0,0.038
+2017,55-64 years,Hospital emergency departments,34.0,0.034
+2018,55-64 years,Hospital emergency departments,37.0,0.037
+2000,65-74 years,Hospital emergency departments,37.0,0.037
+2001,65-74 years,Hospital emergency departments,35.0,0.035
+2002,65-74 years,Hospital emergency departments,37.0,0.037
+2003,65-74 years,Hospital emergency departments,39.0,0.039
+2004,65-74 years,Hospital emergency departments,34.0,0.034
+2005,65-74 years,Hospital emergency departments,35.0,0.035
+2006,65-74 years,Hospital emergency departments,38.0,0.038
+2007,65-74 years,Hospital emergency departments,36.0,0.036
+2008,65-74 years,Hospital emergency departments,37.0,0.037
+2009,65-74 years,Hospital emergency departments,42.0,0.042
+2010,65-74 years,Hospital emergency departments,40.0,0.04
+2011,65-74 years,Hospital emergency departments,37.0,0.037
+2012,65-74 years,Hospital emergency departments,37.0,0.037
+2013,65-74 years,Hospital emergency departments,39.0,0.039
+2014,65-74 years,Hospital emergency departments,37.0,0.037
+2015,65-74 years,Hospital emergency departments,38.0,0.038
+2016,65-74 years,Hospital emergency departments,38.0,0.038
+2017,65-74 years,Hospital emergency departments,37.0,0.037
+2018,65-74 years,Hospital emergency departments,36.0,0.036
+2000,75 years and over,Hospital emergency departments,69.0,0.069
+2001,75 years and over,Hospital emergency departments,61.0,0.061
+2002,75 years and over,Hospital emergency departments,63.0,0.063
+2003,75 years and over,Hospital emergency departments,63.0,0.063
+2004,75 years and over,Hospital emergency departments,59.0,0.059
+2005,75 years and over,Hospital emergency departments,59.0,0.059
+2006,75 years and over,Hospital emergency departments,62.0,0.062
+2007,75 years and over,Hospital emergency departments,66.0,0.066
+2008,75 years and over,Hospital emergency departments,68.0,0.068
+2009,75 years and over,Hospital emergency departments,68.0,0.068
+2010,75 years and over,Hospital emergency departments,66.0,0.066
+2011,75 years and over,Hospital emergency departments,72.0,0.072
+2012,75 years and over,Hospital emergency departments,68.0,0.068
+2013,75 years and over,Hospital emergency departments,67.0,0.067
+2014,75 years and over,Hospital emergency departments,67.0,0.067
+2015,75 years and over,Hospital emergency departments,61.0,0.061
+2016,75 years and over,Hospital emergency departments,62.0,0.062
+2017,75 years and over,Hospital emergency departments,64.0,0.064
+2018,75 years and over,Hospital emergency departments,62.0,0.062
+2000,All ages,Hospital emergency departments,37.0,0.037
+2001,All ages,Hospital emergency departments,36.0,0.036
+2002,All ages,Hospital emergency departments,36.0,0.036
+2003,All ages,Hospital emergency departments,37.0,0.037
+2004,All ages,Hospital emergency departments,35.0,0.035
+2005,All ages,Hospital emergency departments,37.0,0.037
+2006,All ages,Hospital emergency departments,36.0,0.036
+2007,All ages,Hospital emergency departments,36.0,0.036
+2008,All ages,Hospital emergency departments,37.0,0.037
+2009,All ages,Hospital emergency departments,41.0,0.041
+2010,All ages,Hospital emergency departments,40.0,0.04
+2011,All ages,Hospital emergency departments,41.0,0.041
+2012,All ages,Hospital emergency departments,39.0,0.039
+2013,All ages,Hospital emergency departments,40.0,0.04
+2014,All ages,Hospital emergency departments,40.0,0.04
+2015,All ages,Hospital emergency departments,41.0,0.041
+2016,All ages,Hospital emergency departments,44.0,0.044
+2017,All ages,Hospital emergency departments,40.0,0.04
+2018,All ages,Hospital emergency departments,36.0,0.036
+2000,All ages,Hospital emergency departments,62.0,0.062
+2001,All ages,Hospital emergency departments,64.0,0.064
+2002,All ages,Hospital emergency departments,70.0,0.07
+2003,All ages,Hospital emergency departments,69.0,0.069
+2004,All ages,Hospital emergency departments,69.0,0.069
+2005,All ages,Hospital emergency departments,69.0,0.069
+2006,All ages,Hospital emergency departments,80.0,0.08
+2007,All ages,Hospital emergency departments,75.0,0.075
+2008,All ages,Hospital emergency departments,77.0,0.077
+2009,All ages,Hospital emergency departments,84.0,0.084
+2010,All ages,Hospital emergency departments,72.0,0.072
+2011,All ages,Hospital emergency departments,83.0,0.083
+2012,All ages,Hospital emergency departments,78.0,0.078
+2013,All ages,Hospital emergency departments,72.0,0.072
+2014,All ages,Hospital emergency departments,95.0,0.095
+2015,All ages,Hospital emergency departments,77.0,0.077
+2016,All ages,Hospital emergency departments,80.0,0.08
+2017,All ages,Hospital emergency departments,86.0,0.086
+2018,All ages,Hospital emergency departments,84.0,0.084
+2000,Under 18 years,Hospital emergency departments,36.0,0.036
+2001,Under 18 years,Hospital emergency departments,34.0,0.034
+2002,Under 18 years,Hospital emergency departments,36.0,0.036
+2003,Under 18 years,Hospital emergency departments,38.0,0.038
+2004,Under 18 years,Hospital emergency departments,35.0,0.035
+2005,Under 18 years,Hospital emergency departments,37.0,0.037
+2006,Under 18 years,Hospital emergency departments,32.0,0.032
+2007,Under 18 years,Hospital emergency departments,34.0,0.034
+2008,Under 18 years,Hospital emergency departments,34.0,0.034
+2009,Under 18 years,Hospital emergency departments,40.0,0.04
+2010,Under 18 years,Hospital emergency departments,39.0,0.039
+2011,Under 18 years,Hospital emergency departments,37.0,0.037
+2012,Under 18 years,Hospital emergency departments,35.0,0.035
+2013,Under 18 years,Hospital emergency departments,37.0,0.037
+2014,Under 18 years,Hospital emergency departments,39.0,0.039
+2015,Under 18 years,Hospital emergency departments,42.0,0.042
+2016,Under 18 years,Hospital emergency departments,41.0,0.041
+2017,Under 18 years,Hospital emergency departments,42.0,0.042
+2018,Under 18 years,Hospital emergency departments,36.0,0.036
+2000,18-44 years,Hospital emergency departments,39.0,0.039
+2001,18-44 years,Hospital emergency departments,40.0,0.04
+2002,18-44 years,Hospital emergency departments,38.0,0.038
+2003,18-44 years,Hospital emergency departments,39.0,0.039
+2004,18-44 years,Hospital emergency departments,38.0,0.038
+2005,18-44 years,Hospital emergency departments,40.0,0.04
+2006,18-44 years,Hospital emergency departments,40.0,0.04
+2007,18-44 years,Hospital emergency departments,39.0,0.039
+2008,18-44 years,Hospital emergency departments,41.0,0.041
+2009,18-44 years,Hospital emergency departments,43.0,0.043
+2010,18-44 years,Hospital emergency departments,45.0,0.045
+2011,18-44 years,Hospital emergency departments,47.0,0.047
+2012,18-44 years,Hospital emergency departments,45.0,0.045
+2013,18-44 years,Hospital emergency departments,43.0,0.043
+2014,18-44 years,Hospital emergency departments,44.0,0.044
+2015,18-44 years,Hospital emergency departments,45.0,0.045
+2016,18-44 years,Hospital emergency departments,47.0,0.047
+2017,18-44 years,Hospital emergency departments,42.0,0.042
+2018,18-44 years,Hospital emergency departments,37.0,0.037
+2000,45-54 years,Hospital emergency departments,28.0,0.028
+2001,45-54 years,Hospital emergency departments,28.0,0.028
+2002,45-54 years,Hospital emergency departments,27.0,0.027
+2003,45-54 years,Hospital emergency departments,29.0,0.029
+2004,45-54 years,Hospital emergency departments,28.0,0.028
+2005,45-54 years,Hospital emergency departments,28.0,0.028
+2006,45-54 years,Hospital emergency departments,30.0,0.03
+2007,45-54 years,Hospital emergency departments,30.0,0.03
+2008,45-54 years,Hospital emergency departments,31.0,0.031
+2009,45-54 years,Hospital emergency departments,34.0,0.034
+2010,45-54 years,Hospital emergency departments,34.0,0.034
+2011,45-54 years,Hospital emergency departments,35.0,0.035
+2012,45-54 years,Hospital emergency departments,33.0,0.033
+2013,45-54 years,Hospital emergency departments,36.0,0.036
+2014,45-54 years,Hospital emergency departments,34.0,0.034
+2015,45-54 years,Hospital emergency departments,34.0,0.034
+2016,45-54 years,Hospital emergency departments,42.0,0.042
+2017,45-54 years,Hospital emergency departments,34.0,0.034
+2018,45-54 years,Hospital emergency departments,32.0,0.032
+2000,55-64 years,Hospital emergency departments,28.0,0.028
+2001,55-64 years,Hospital emergency departments,28.0,0.028
+2002,55-64 years,Hospital emergency departments,27.0,0.027
+2003,55-64 years,Hospital emergency departments,28.0,0.028
+2004,55-64 years,Hospital emergency departments,26.0,0.026
+2005,55-64 years,Hospital emergency departments,27.0,0.027
+2006,55-64 years,Hospital emergency departments,27.0,0.027
+2007,55-64 years,Hospital emergency departments,27.0,0.027
+2008,55-64 years,Hospital emergency departments,28.0,0.028
+2009,55-64 years,Hospital emergency departments,30.0,0.03
+2010,55-64 years,Hospital emergency departments,29.0,0.029
+2011,55-64 years,Hospital emergency departments,30.0,0.03
+2012,55-64 years,Hospital emergency departments,28.0,0.028
+2013,55-64 years,Hospital emergency departments,31.0,0.031
+2014,55-64 years,Hospital emergency departments,30.0,0.03
+2015,55-64 years,Hospital emergency departments,30.0,0.03
+2016,55-64 years,Hospital emergency departments,35.0,0.035
+2017,55-64 years,Hospital emergency departments,29.0,0.029
+2018,55-64 years,Hospital emergency departments,31.0,0.031
+2000,65-74 years,Hospital emergency departments,35.0,0.035
+2001,65-74 years,Hospital emergency departments,33.0,0.033
+2002,65-74 years,Hospital emergency departments,35.0,0.035
+2003,65-74 years,Hospital emergency departments,36.0,0.036
+2004,65-74 years,Hospital emergency departments,32.0,0.032
+2005,65-74 years,Hospital emergency departments,35.0,0.035
+2006,65-74 years,Hospital emergency departments,35.0,0.035
+2007,65-74 years,Hospital emergency departments,33.0,0.033
+2008,65-74 years,Hospital emergency departments,35.0,0.035
+2009,65-74 years,Hospital emergency departments,38.0,0.038
+2010,65-74 years,Hospital emergency departments,37.0,0.037
+2011,65-74 years,Hospital emergency departments,34.0,0.034
+2012,65-74 years,Hospital emergency departments,35.0,0.035
+2013,65-74 years,Hospital emergency departments,35.0,0.035
+2014,65-74 years,Hospital emergency departments,34.0,0.034
+2015,65-74 years,Hospital emergency departments,35.0,0.035
+2016,65-74 years,Hospital emergency departments,37.0,0.037
+2017,65-74 years,Hospital emergency departments,33.0,0.033
+2018,65-74 years,Hospital emergency departments,31.0,0.031
+2000,75 years and over,Hospital emergency departments,63.0,0.063
+2001,75 years and over,Hospital emergency departments,58.0,0.058
+2002,75 years and over,Hospital emergency departments,59.0,0.059
+2003,75 years and over,Hospital emergency departments,62.0,0.062
+2004,75 years and over,Hospital emergency departments,56.0,0.056
+2005,75 years and over,Hospital emergency departments,56.0,0.056
+2006,75 years and over,Hospital emergency departments,57.0,0.057
+2007,75 years and over,Hospital emergency departments,60.0,0.06
+2008,75 years and over,Hospital emergency departments,67.0,0.067
+2009,75 years and over,Hospital emergency departments,64.0,0.064
+2010,75 years and over,Hospital emergency departments,62.0,0.062
+2011,75 years and over,Hospital emergency departments,65.0,0.065
+2012,75 years and over,Hospital emergency departments,63.0,0.063
+2013,75 years and over,Hospital emergency departments,63.0,0.063
+2014,75 years and over,Hospital emergency departments,65.0,0.065
+2015,75 years and over,Hospital emergency departments,61.0,0.061
+2016,75 years and over,Hospital emergency departments,61.0,0.061
+2017,75 years and over,Hospital emergency departments,61.0,0.061
+2018,75 years and over,Hospital emergency departments,57.0,0.057
+2000,Under 18 years,Hospital emergency departments,57.0,0.057
+2001,Under 18 years,Hospital emergency departments,55.0,0.055
+2002,Under 18 years,Hospital emergency departments,63.0,0.063
+2003,Under 18 years,Hospital emergency departments,61.0,0.061
+2004,Under 18 years,Hospital emergency departments,60.0,0.06
+2005,Under 18 years,Hospital emergency departments,63.0,0.063
+2006,Under 18 years,Hospital emergency departments,62.0,0.062
+2007,Under 18 years,Hospital emergency departments,60.0,0.06
+2008,Under 18 years,Hospital emergency departments,65.0,0.065
+2009,Under 18 years,Hospital emergency departments,75.0,0.075
+2010,Under 18 years,Hospital emergency departments,62.0,0.062
+2011,Under 18 years,Hospital emergency departments,72.0,0.072
+2012,Under 18 years,Hospital emergency departments,65.0,0.065
+2013,Under 18 years,Hospital emergency departments,60.0,0.06
+2014,Under 18 years,Hospital emergency departments,93.0,0.093
+2015,Under 18 years,Hospital emergency departments,70.0,0.07
+2016,Under 18 years,Hospital emergency departments,77.0,0.077
+2017,Under 18 years,Hospital emergency departments,85.0,0.085
+2018,Under 18 years,Hospital emergency departments,79.0,0.079
+2000,18-44 years,Hospital emergency departments,68.0,0.068
+2001,18-44 years,Hospital emergency departments,71.0,0.071
+2002,18-44 years,Hospital emergency departments,79.0,0.079
+2003,18-44 years,Hospital emergency departments,77.0,0.077
+2004,18-44 years,Hospital emergency departments,79.0,0.079
+2005,18-44 years,Hospital emergency departments,77.0,0.077
+2006,18-44 years,Hospital emergency departments,93.0,0.093
+2007,18-44 years,Hospital emergency departments,87.0,0.087
+2008,18-44 years,Hospital emergency departments,87.0,0.087
+2009,18-44 years,Hospital emergency departments,94.0,0.094
+2010,18-44 years,Hospital emergency departments,81.0,0.081
+2011,18-44 years,Hospital emergency departments,96.0,0.096
+2012,18-44 years,Hospital emergency departments,89.0,0.089
+2013,18-44 years,Hospital emergency departments,83.0,0.083
+2014,18-44 years,Hospital emergency departments,109.0,0.109
+2015,18-44 years,Hospital emergency departments,91.0,0.091
+2016,18-44 years,Hospital emergency departments,90.0,0.09
+2017,18-44 years,Hospital emergency departments,98.0,0.098
+2018,18-44 years,Hospital emergency departments,87.0,0.087
+2000,45-54 years,Hospital emergency departments,53.0,0.053
+2001,45-54 years,Hospital emergency departments,56.0,0.056
+2002,45-54 years,Hospital emergency departments,59.0,0.059
+2003,45-54 years,Hospital emergency departments,65.0,0.065
+2004,45-54 years,Hospital emergency departments,65.0,0.065
+2005,45-54 years,Hospital emergency departments,62.0,0.062
+2006,45-54 years,Hospital emergency departments,88.0,0.088
+2007,45-54 years,Hospital emergency departments,76.0,0.076
+2008,45-54 years,Hospital emergency departments,76.0,0.076
+2009,45-54 years,Hospital emergency departments,83.0,0.083
+2010,45-54 years,Hospital emergency departments,73.0,0.073
+2011,45-54 years,Hospital emergency departments,83.0,0.083
+2012,45-54 years,Hospital emergency departments,78.0,0.078
+2013,45-54 years,Hospital emergency departments,77.0,0.077
+2014,45-54 years,Hospital emergency departments,88.0,0.088
+2015,45-54 years,Hospital emergency departments,81.0,0.081
+2016,45-54 years,Hospital emergency departments,74.0,0.074
+2017,45-54 years,Hospital emergency departments,89.0,0.089
+2018,45-54 years,Hospital emergency departments,84.0,0.084
+2000,55-64 years,Hospital emergency departments,52.0,0.052
+2001,55-64 years,Hospital emergency departments,56.0,0.056
+2002,55-64 years,Hospital emergency departments,65.0,0.065
+2003,55-64 years,Hospital emergency departments,53.0,0.053
+2004,55-64 years,Hospital emergency departments,58.0,0.058
+2005,55-64 years,Hospital emergency departments,58.0,0.058
+2006,55-64 years,Hospital emergency departments,71.0,0.071
+2007,55-64 years,Hospital emergency departments,61.0,0.061
+2008,55-64 years,Hospital emergency departments,68.0,0.068
+2009,55-64 years,Hospital emergency departments,76.0,0.076
+2010,55-64 years,Hospital emergency departments,62.0,0.062
+2011,55-64 years,Hospital emergency departments,60.0,0.06
+2012,55-64 years,Hospital emergency departments,71.0,0.071
+2013,55-64 years,Hospital emergency departments,64.0,0.064
+2014,55-64 years,Hospital emergency departments,72.0,0.072
+2015,55-64 years,Hospital emergency departments,57.0,0.057
+2016,55-64 years,Hospital emergency departments,70.0,0.07
+2017,55-64 years,Hospital emergency departments,66.0,0.066
+2018,55-64 years,Hospital emergency departments,80.0,0.08
+2000,65-74 years,Hospital emergency departments,59.0,0.059
+2001,65-74 years,Hospital emergency departments,71.0,0.071
+2002,65-74 years,Hospital emergency departments,68.0,0.068
+2003,65-74 years,Hospital emergency departments,77.0,0.077
+2004,65-74 years,Hospital emergency departments,62.0,0.062
+2005,65-74 years,Hospital emergency departments,62.0,0.062
+2006,65-74 years,Hospital emergency departments,73.0,0.073
+2007,65-74 years,Hospital emergency departments,69.0,0.069
+2008,65-74 years,Hospital emergency departments,73.0,0.073
+2009,65-74 years,Hospital emergency departments,73.0,0.073
+2010,65-74 years,Hospital emergency departments,66.0,0.066
+2011,65-74 years,Hospital emergency departments,73.0,0.073
+2012,65-74 years,Hospital emergency departments,69.0,0.069
+2013,65-74 years,Hospital emergency departments,63.0,0.063
+2014,65-74 years,Hospital emergency departments,72.0,0.072
+2015,65-74 years,Hospital emergency departments,57.0,0.057
+2016,65-74 years,Hospital emergency departments,66.0,0.066
+2017,65-74 years,Hospital emergency departments,64.0,0.064
+2018,65-74 years,Hospital emergency departments,80.0,0.08
+2000,75 years and over,Hospital emergency departments,92.0,0.092
+2001,75 years and over,Hospital emergency departments,91.0,0.091
+2002,75 years and over,Hospital emergency departments,92.0,0.092
+2003,75 years and over,Hospital emergency departments,103.0,0.103
+2004,75 years and over,Hospital emergency departments,86.0,0.086
+2005,75 years and over,Hospital emergency departments,98.0,0.098
+2006,75 years and over,Hospital emergency departments,94.0,0.094
+2007,75 years and over,Hospital emergency departments,100.0,0.1
+2008,75 years and over,Hospital emergency departments,93.0,0.093
+2009,75 years and over,Hospital emergency departments,95.0,0.095
+2010,75 years and over,Hospital emergency departments,89.0,0.089
+2011,75 years and over,Hospital emergency departments,118.0,0.118
+2012,75 years and over,Hospital emergency departments,100.0,0.1
+2013,75 years and over,Hospital emergency departments,69.0,0.069
+2014,75 years and over,Hospital emergency departments,81.0,0.081
+2015,75 years and over,Hospital emergency departments,77.0,0.077
+2016,75 years and over,Hospital emergency departments,88.0,0.088
+2017,75 years and over,Hospital emergency departments,65.0,0.065
+2018,75 years and over,Hospital emergency departments,109.0,0.109
