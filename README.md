@@ -1,9 +1,10 @@
 # Primary Care & Emergency Room Utilization Analysis
 
-<img align="middle" width="850" height="500" src="Images\cover_img.jpg">
+<img align="middle" width="850" height="500" src="Images/cover_img.jpg">
 
 
 #### 📊 Exploring whether primary care physician (PCP) availability reduces emergency room (ER) visit rates, and how socioeconomic factors influence this relationship.
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -20,6 +21,7 @@
 
 
 ---
+
 
 ## 🔍 Project Overview
 
@@ -66,7 +68,6 @@ The analysis combines multiple years of data (2018–2023), cleans and merges da
         ├── README.md
 
 
-
 ## 🛠️ How to Access and Run the Project
 
 #### Requirements: 
@@ -94,6 +95,7 @@ The analysis combines multiple years of data (2018–2023), cleans and merges da
 * Open the .ipynb files in Jupyter or VS Code to view cleaning steps and analysis.
 
 * Open PowerBI_Dashboard.pbix in Power BI Desktop to view visualizations.
+
 
 ## 📑 Notebook Summaries
 
@@ -221,6 +223,7 @@ Datasets Used:
                     
         This fully supports the hypothesis.
 
+
 ## ⚠️ Project Limitations and Challenges
 
 1. Lack of county-level ER visit data
@@ -253,6 +256,7 @@ Datasets Used:
 
     * Despite these constraints, the direction and magnitude of results remained stable across multiple tests.
 
+
 ## 📊 Power BI Dashboard
 
 The dashboard summarizes the full analysis in two pages.
@@ -267,7 +271,7 @@ Visuals included:
 
 * Data disclaimer (healthcare visits = 2018 max)
 
-* KPI Cards (Avg PCP per 100k, Avg ER visit rate, Avg median household income, Avg percent insured
+* KPI Cards (Avg PCP per 100k, Avg ER visit rate, Avg median household income, Avg percent insured)
 
 * Scatter Plot: ER Visit Rate vs PCP per 100k
 
