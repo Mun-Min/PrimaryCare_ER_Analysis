@@ -24,8 +24,7 @@
 
 This project investigates a central research question:
 
-
-    Hypothesis: Is PCP density negatively associated with ER visits, and to what extent do socioeconomic variables moderate this relationship?
+#### Hypothesis: Is PCP density negatively associated with ER visits, and to what extent do socioeconomic variables moderate this relationship?
 
 Using datasets from <u>PolicyMap</u>, <u>HRSA</u>, the <u>U.S. Census</u>, and <u>Data.gov</u>, we analyze population, insurance, income, and healthcare utilization patterns. The goal is to understand whether increasing access to primary care can meaningfully reduce ER utilization — especially in lower-income areas.
 
@@ -96,7 +95,8 @@ The analysis combines multiple years of data (2018–2023), cleans and merges da
 * Open PowerBI_Dashboard.pbix in Power BI Desktop to view visualizations.
 
 ## 📑 Notebook Summaries
-#### 📘 <u>Notebook 1 — Primary Care Physicians (2018–2021)</u>
+
+📘 <span style="text-decoration: underline;">**Notebook 1 — Primary Care Physicians (2018–2021)**</span>
 
 Sources: PolicyMap, HRSA
 
@@ -118,7 +118,9 @@ Notes:
 
 * Variation across states indicates uneven healthcare access.
 
-#### 📘 <u>Notebook 2 — Insurance, Income & Population (2019–2023)</u>
+<br>
+
+📘 <span style="text-decoration: underline;">**Notebook 2 — Insurance, Income & Population (2019–2023)**</span>
 
 Sources: PolicyMap, Census ACS & Decennial Census
 
@@ -138,7 +140,10 @@ Notes:
 
 * Lower-income counties often show high insurance rates due to Medicaid expansion.
 
-#### 📘 <u>Notebook 3 — U.S. Healthcare Visits (2000–2018)</u>
+<br>
+
+📘 <span style="text-decoration: underline;">**Notebook 3 — U.S. Healthcare Visits (2000–2018)**</span>
+
 
 Source: Data.gov / U.S. Department of Health & Human Services
 
@@ -159,7 +164,9 @@ Insights:
 
 #### Important Data Limitation: The U.S. healthcare visits dataset has no state or county identifiers. It is national-level only, derived from survey/administrative summaries. This made it impossible to directly assess county-level ER use, limiting how precisely we can match local PCP supply to ER utilization patterns.
 
-#### 📘 <u>Notebook 4 — Income, Insurance & Moderation Analysis</u>
+<br>
+
+📘 <span style="text-decoration: underline;">**Notebook 4 — Income, Insurance & Moderation Analysis**</span>
 
 Tasks:
 
@@ -177,7 +184,10 @@ Insights:
 
 * Differences in ER utilization are more strongly explained by healthcare access, not insurance alone.
 
-#### 📈 Regression Analysis Notebook
+<br>
+
+📈 <span style="text-decoration: underline;">**Notebook 4 — Regression Analysis Notebook**</span>
+
 Datasets Used:
 
 * income_insurance_merged.csv
@@ -207,7 +217,7 @@ Datasets Used:
             ✔ Income moderates this relationship
 
             ✔ Effect is strongest in low-income areas
-        
+                    
         This fully supports the hypothesis.
 
 ## ⚠️ Project Limitations and Challenges
@@ -291,24 +301,24 @@ Visuals included:
 
 #### Does PCP supply reduce ER visits?
 
-    Yes. Across thousands of observations, more PCPs per capita are strongly associated with fewer emergency room visits.
+- Yes. Across thousands of observations, more PCPs per capita are strongly associated with fewer emergency room visits.
 
 #### Do socioeconomic factors matter?
 
-    Yes — income significantly moderates the relationship.
+- Yes — income significantly moderates the relationship.
 
-    In low-income areas, increasing PCP density has the strongest impact on reducing ER reliance.
+- In low-income areas, increasing PCP density has the strongest impact on reducing ER reliance.
 
-    In higher-income areas, the relationship weakens because residents have more stable healthcare access pathways.
+- In higher-income areas, the relationship weakens because residents have more stable healthcare access pathways.
 
 #### Overall conclusion:
 
-    Improving primary care access — particularly in underserved, lower-income regions — is a powerful strategy for reducing avoidable ER utilization.
+- Improving primary care access — particularly in underserved, lower-income regions — is a powerful strategy for reducing avoidable ER utilization.
 
-    Although insurance coverage is relatively high, insurance alone does not guarantee access — especially when the primary care workforce is not keeping pace with population growth. 
+- Although insurance coverage is relatively high, insurance alone does not guarantee access — especially when the primary care workforce is not keeping pace with population growth. 
     
-    National research reinforces this concern: the American Association of Medical Colleges (AAMC) projects a shortage of 14,800 to 49,300 primary care physicians by 2030, the Health Resources and Services Administration (HRSA) forecasts a deficit of more than 87,000 primary care clinicians by 2037, and additional studies predict more than 57,000 clinicians will be needed by 2040 due to aging populations and workforce attrition. 
+- National research reinforces this concern: the American Association of Medical Colleges (AAMC) projects a shortage of 14,800 to 49,300 primary care physicians by 2030, the Health Resources and Services Administration (HRSA) forecasts a deficit of more than 87,000 primary care clinicians by 2037, and additional studies predict more than 57,000 clinicians will be needed by 2040 due to aging populations and workforce attrition. 
     
-    Rural areas are expected to be hit hardest, with only about 68% of primary care demand projected to be met in coming decades. These national trends align with our analysis, supporting the idea that limited access to primary care may be driving increased ER utilization. 
+- Rural areas are expected to be hit hardest, with only about 68% of primary care demand projected to be met in coming decades. These national trends align with our analysis, supporting the idea that limited access to primary care may be driving increased ER utilization. 
     
-    To address these gaps, expanding residency funding, strengthening retention and burnout-prevention programs, adopting team-based care models with NPs and PAs, bolstering federal incentives such as National Health Service Corps (NHSC) programs, and expanding telehealth and mobile clinic capacity are all evidence-based strategies shown to improve access. 
+- To address these gaps, expanding residency funding, strengthening retention and burnout-prevention programs, adopting team-based care models with NPs and PAs, bolstering federal incentives such as National Health Service Corps (NHSC) programs, and expanding telehealth and mobile clinic capacity are all evidence-based strategies shown to improve access. 
