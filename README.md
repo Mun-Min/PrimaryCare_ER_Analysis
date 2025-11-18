@@ -23,7 +23,7 @@
 ---
 
 
-## 🔍 Project Overview
+## Project Overview
 
 This project investigates a central research question:
 
@@ -68,7 +68,7 @@ The analysis combines multiple years of data (2018–2023), cleans and merges da
         ├── README.md
 
 
-## 🛠️ How to Access and Run the Project
+## How to Access and Run the Project
 
 #### Requirements: 
 
@@ -97,7 +97,7 @@ The analysis combines multiple years of data (2018–2023), cleans and merges da
 * Open PowerBI_Dashboard.pbix in Power BI Desktop to view visualizations.
 
 
-## 📑 Notebook Summaries
+## Notebook Summaries
 
 📘 <span style="text-decoration: underline;">**Notebook 1 — Primary Care Physicians (2018–2021)**</span>
 
@@ -125,7 +125,7 @@ Notes:
 
 📘 <span style="text-decoration: underline;">**Notebook 2 — Insurance, Income & Population (2019–2023)**</span>
 
-Sources: PolicyMap, Census ACS & Decennial Census
+Sources: PolicyMap / Census: Decennial Census and American Community Survey (ACS)
 
 Tasks:
 
@@ -170,6 +170,8 @@ Insights:
 <br>
 
 📘 <span style="text-decoration: underline;">**Notebook 4 — Income, Insurance & Moderation Analysis**</span>
+
+Source: PolicyMap / Census: Decennial Census and American Community Survey (ACS)
 
 Tasks:
 
@@ -224,7 +226,7 @@ Datasets Used:
         This fully supports the hypothesis.
 
 
-## ⚠️ Project Limitations and Challenges
+## Project Limitations and Challenges
 
 1. Lack of county-level ER visit data
 
@@ -257,7 +259,7 @@ Datasets Used:
     * Despite these constraints, the direction and magnitude of results remained stable across multiple tests.
 
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 The dashboard summarizes the full analysis in two pages.
 
@@ -294,7 +296,7 @@ Visuals included:
 * Line chart: U.S. population (1990–2023)
 
 
-## 🧠 Final Interpretation
+## Final Interpretation
 
 #### Does PCP supply reduce ER visits?
 
