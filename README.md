@@ -5,18 +5,19 @@
 
 #### 📊 Exploring whether primary care physician (PCP) availability reduces emergency room (ER) visit rates, and how socioeconomic factors influence this relationship.
 
-## Table of Contents:
-1. [Project Overview](#🔍-project-overview)
+## Table of Contents
+1. [Project Overview](#project-overview)
 
-2. [How to Access and Run the Project](#🛠️-how-to-access-and-run-the-project)
+2. [How to Access and Run the Project](#how-to-access-and-run-the-project)
 
-3. [Notebook Summaries](#📑-notebook-summaries)
+3. [Notebook Summaries](#notebook-summaries)
 
-4. [Project Limitiations and Challenges](#⚠️-project-limitations-and-challenges) 
-   
-5. [PowerBI Dashboard](#📊-power-bi-dashboard)
+4. [Project Limitations and Challenges](#project-limitations-and-challenges)
 
-6. [Final Interpretation](#🧠-final-interpretation)
+5. [PowerBI Dashboard](#powerbi-dashboard)
+
+6. [Final Interpretation](#final-interpretation)
+
 
 ---
 
@@ -266,15 +267,7 @@ Visuals included:
 
 * Data disclaimer (healthcare visits = 2018 max)
 
-* KPI Cards
-
-* Avg PCP per 100k
-
-* Avg ER visit rate
-
-* Avg median household income
-
-* Avg percent insured
+* KPI Cards (Avg PCP per 100k, Avg ER visit rate, Avg median household income, Avg percent insured
 
 * Scatter Plot: ER Visit Rate vs PCP per 100k
 
