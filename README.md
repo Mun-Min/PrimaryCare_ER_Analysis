@@ -15,7 +15,7 @@
 
 4. [Project Limitations and Challenges](#project-limitations-and-challenges)
 
-5. [PowerBI Dashboard](#powerbi-dashboard)
+5. [PowerBI Dashboard](#power-bi-dashboard)
 
 6. [Final Interpretation](#final-interpretation)
    
