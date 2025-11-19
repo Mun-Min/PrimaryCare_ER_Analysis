@@ -18,6 +18,8 @@
 5. [PowerBI Dashboard](#powerbi-dashboard)
 
 6. [Final Interpretation](#final-interpretation)
+   
+7. [External Sources](#external-sources)
 
 
 ---
@@ -94,7 +96,7 @@ The analysis combines multiple years of data (2018–2023), cleans and merges da
 
 * Open the .ipynb files in Jupyter or VS Code to view cleaning steps and analysis.
 
-* Open PowerBI_Dashboard.pbix in Power BI Desktop to view visualizations.
+* Open [PowerBI_Dashboard.pbix](https://github.com/Mun-Min/PrimaryCare_ER_Analysis/blob/master/PowerBI_Dashboard.pbix) in Power BI Desktop to view visualizations.
 
 
 ## Notebook Summaries
@@ -103,23 +105,11 @@ The analysis combines multiple years of data (2018–2023), cleans and merges da
 
 Sources: PolicyMap, HRSA
 
-Tasks:
-
-* Clean & merge PCP datasets (2018–2021)
-
-* Standardize variable names
-
-* Handle missing values
-
-* Conduct early trend checks
-
-Notes:
-
-* PCP supply increased slightly from 2018–2021.
-
-* Growth rate is flattening — consistent with current workforce research.
-
-* Variation across states indicates uneven healthcare access.
+| Tasks     | Insights |
+| -------- | ------- |
+|Clean & merge PCP datasets (2018–2021)  | PCP supply increased slightly from 2018–2021    |
+| Standardize variable names and handle missing values  | Growth rate is flattening — consistent with current workforce research   |
+| Conduct early trend checks| Variation across states indicates uneven healthcare access     |
 
 <br>
 
@@ -127,43 +117,23 @@ Notes:
 
 Sources: PolicyMap / Census: Decennial Census and American Community Survey (ACS)
 
-Tasks:
-
-* Combine insured, uninsured, and population datasets
-
-* Address missing or inconsistent values
-
-* Merge variables into a unified socioeconomic dataset
-
-Notes:
-
-* Most counties have 85–95% insured, limiting variance in statistical modeling.
-
-* Broad insurance access does not necessarily translate to primary care access.
-
-* Lower-income counties often show high insurance rates due to Medicaid expansion.
+| Tasks     | Insights |
+| -------- | ------- |
+|Combine insured, uninsured, and population datasets  | Most counties have 85–95% insured, limiting variance in statistical modeling    |
+| Address missing or inconsistent values | Broad insurance access does not necessarily translate to primary care access    |
+| Merge variables into a unified socioeconomic dataset| Lower-income counties often show high insurance rates due to Medicaid expansion     |
 
 <br>
 
 📘 <span style="text-decoration: underline;">**Notebook 3 — U.S. Healthcare Visits (2000–2018)**</span>
 
-
 Source: Data.gov / U.S. Department of Health & Human Services
 
-Tasks:
-
-* Clean & restructure annual national healthcare visit counts
-
-* Create trend visualizations
-
-* Prepare ER visits for regression analysis
-
-Insights:
-
-* Physician office visits dominate utilization.
-
-* ER visits steadily rise across all years.
-
+| Tasks     | Insights |
+| -------- | ------- |
+|Clean & restructure annual national healthcare visit counts  | Physician office visits dominate utilization    |
+| Create trend visualizations | ER visits steadily rise across all years    |
+| Prepare ER visits for regression analysis| Data limitation did not hinder the ability to gain meaningful insights     |
 
 #### Important Data Limitation: The U.S. healthcare visits dataset has no state or county identifiers. It is national-level only, derived from survey/administrative summaries. This made it impossible to directly assess county-level ER use, limiting how precisely we can match local PCP supply to ER utilization patterns.
 
@@ -173,33 +143,24 @@ Insights:
 
 Source: PolicyMap / Census: Decennial Census and American Community Survey (ACS)
 
-Tasks:
 
-* Build quartiles for median household income
-
-* Visualize insurance distribution by income group
-
-* Evaluate socioeconomic variation
-
-Insights:
-
-* Insurance coverage remains high across all income quartiles.
-
-* Histograms and box plots show very little variation, explaining why income and insurance have low predictive power individually.
-
-* Differences in ER utilization are more strongly explained by healthcare access, not insurance alone.
+| Tasks     | Insights |
+| -------- | ------- |
+| Build quartiles for median household income  | Insurance coverage remains high across all income quartiles    |
+| Visualize insurance distribution by income group | Histograms and box plots show very little variation, explaining why income and insurance have low predictive power individually    |
+| Evaluate socioeconomic variation    | Differences in ER utilization are more strongly explained by healthcare access, not insurance alone    |
 
 <br>
 
-📈 <span style="text-decoration: underline;">**Notebook 4 — Regression Analysis Notebook**</span>
+📈 <span style="text-decoration: underline;">**Notebook 5 — Regression Analysis Notebook**</span>
 
 Datasets Used:
 
-* income_insurance_merged.csv
+* [income_insurance_merged.csv](https://github.com/Mun-Min/PrimaryCare_ER_Analysis/blob/master/Data_Files_Cleaned/income_insurance_merged.csv)
 
-* primary_care_physicians_2018_2021_cleaned.csv
+* [primary_care_physicians_2018_2021_cleaned.csv](https://github.com/Mun-Min/PrimaryCare_ER_Analysis/blob/master/Data_Files_Cleaned/primary_care_physicians_2018_2021_cleaned.csv)
 
-* us_healthcare_visits_cleaned.csv
+* [us_healthcare_visits_cleaned.csv](https://github.com/Mun-Min/PrimaryCare_ER_Analysis/blob/master/Data_Files_Cleaned/us_healthcare_visits_cleaned.csv)
 
         Model: OLS Regression
 
@@ -215,15 +176,15 @@ Datasets Used:
 
 
 
-        Conclusion:
+    Conclusion:
 
-            ✔ PCP density is negatively associated with ER visits
+    * PCP density is negatively associated with ER visits
 
-            ✔ Income moderates this relationship
+    * Income moderates this relationship
 
-            ✔ Effect is strongest in low-income areas
+    * Effect is strongest in low-income areas
                     
-        This fully supports the hypothesis.
+    This fully supports the hypothesis.
 
 
 ## Project Limitations and Challenges
@@ -321,3 +282,17 @@ Visuals included:
 - Rural areas are expected to be hit hardest, with only about 68% of primary care demand projected to be met in coming decades. These national trends align with our analysis, supporting the idea that limited access to primary care may be driving increased ER utilization. 
     
 - To address these gaps, expanding residency funding, strengthening retention and burnout-prevention programs, adopting team-based care models with NPs and PAs, bolstering federal incentives such as National Health Service Corps (NHSC) programs, and expanding telehealth and mobile clinic capacity are all evidence-based strategies shown to improve access. 
+
+
+## External Sources
+
+* [US Primary Care Workforce Growth](https://pubmed.ncbi.nlm.nih.gov/39443342/)
+  
+* [State of the Primary Care Workforce, 2024](https://bhw.hrsa.gov/sites/default/files/bureau-health-workforce/state-of-the-primary-care-workforce-report-2024.pdf?)
+
+* [Association of American Medical Colleges Physician Shortages Research](https://www.aamc.org/news/press-releases/new-research-shows-increasing-physician-shortages-both-primary-and-specialty-care?)
+
+* [U.S. Department of Health & Human Services | Public Dataset](https://catalog.data.gov/dataset/visits-to-physician-offices-hospital-outpatient-departments-and-hospital-emergency-departm-6ef16)
+
+* [PolicyMap Data Warehouse](https://www.policymap.com/)
+
