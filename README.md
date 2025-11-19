@@ -60,6 +60,8 @@ The analysis combines multiple years of data (2018–2023), cleans and merges da
         │
         └───Images/
         |       cover_img.jpg
+        |       PowerBi_Sheet_1.png
+        |       PowerBi_Sheet_2.png
         |
         ├── Data_Analysis_Notebook_1.ipynb
         ├── Data_Analysis_Notebook_2.ipynb
