@@ -246,7 +246,7 @@ Visuals included:
 
 📌 Sheet 2 — Socioeconomic Moderation Analysis
 
-<img align="middle" width="850" height="500" src="Images\PowerBi_Sheet_2.png">
+<img align="middle" width="850" height="500" src="Images\PowerBI_Sheet_2.png">
 
 <br> 
 
@@ -256,7 +256,7 @@ Visuals included:
 
 * Line chart: Average PCP per year (2018–2021)
 
-* Line chart: U.S. population (1990–2023)
+* Shape Map: U.S. population growth & pcp density per state (2020)
 
 
 ## Final Interpretation
