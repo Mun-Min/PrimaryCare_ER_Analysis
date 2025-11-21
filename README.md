@@ -19,6 +19,8 @@
 
 6. [Final Interpretation](#final-interpretation)
    
+    * [Capstone Report](https://github.com/Mun-Min/PrimaryCare_ER_Analysis/blob/master/Capstone_Report.pdf)
+   
 7. [External Sources](#external-sources)
 
 
@@ -228,7 +230,7 @@ The dashboard summarizes the full analysis in two pages.
 
 📌 Sheet 1 — Overview & Key Insights
 
-<img align="middle" width="850" height="500" src="Images\PowerBi_Sheet_1.png">
+<img align="middle" width="850" height="500" src="Images\PowerBI_Sheet_1.png">
 
 <br>
 
@@ -285,6 +287,7 @@ Visuals included:
     
 - To address these gaps, expanding residency funding, strengthening retention and burnout-prevention programs, adopting team-based care models with NPs and PAs, bolstering federal incentives such as National Health Service Corps (NHSC) programs, and expanding telehealth and mobile clinic capacity are all evidence-based strategies shown to improve access. 
 
+[More insights provided in the Capstone Report](https://github.com/Mun-Min/PrimaryCare_ER_Analysis/blob/master/Capstone_Report.pdf)
 
 ## External Sources
 
