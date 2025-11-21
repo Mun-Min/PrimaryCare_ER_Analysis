@@ -230,7 +230,7 @@ The dashboard summarizes the full analysis in two pages.
 
 📌 Sheet 1 — Overview & Key Insights
 
-<img align="middle" width="850" height="500" src="Images\PowerBI_Sheet_1.png">
+<img align="middle" width="850" height="500" src="Images/PowerBI_Sheet_1.png">
 
 <br>
 
@@ -248,7 +248,7 @@ Visuals included:
 
 📌 Sheet 2 — Socioeconomic Moderation Analysis
 
-<img align="middle" width="850" height="500" src="Images\PowerBI_Sheet_2.png">
+<img align="middle" width="850" height="500" src="Images/PowerBI_Sheet_2.png">
 
 <br> 
 
