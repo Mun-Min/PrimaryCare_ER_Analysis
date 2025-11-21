@@ -62,14 +62,16 @@ The analysis combines multiple years of data (2018–2023), cleans and merges da
         │
         └───Images/
         |       cover_img.jpg
-        |       PowerBi_Sheet_1.png
-        |       PowerBi_Sheet_2.png
+        |       PowerBI_Sheet_1.png
+        |       PowerBI_Sheet_2.png
         |
+        ├── Capstone_Report.pdf
         ├── Data_Analysis_Notebook_1.ipynb
         ├── Data_Analysis_Notebook_2.ipynb
         ├── Data_Analysis_Notebook_3.ipynb
         ├── Data_Analysis_Notebook_4.ipynb
         ├── Regression_Analysis_Notebook.ipynb
+        ├── PCP_Population_2020_Merge_Script.ipynb
         ├── PowerBI_Dashboard.pbix
         ├── README.md
 
