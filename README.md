@@ -139,7 +139,7 @@ Source: Data.gov / U.S. Department of Health & Human Services
 | Create trend visualizations | ER visits steadily rise across all years    |
 | Prepare ER visits for regression analysis| Data limitation did not hinder the ability to gain meaningful insights     |
 
-#### Important Data Limitation: The U.S. healthcare visits dataset has no state or county identifiers. It is national-level only, derived from survey/administrative summaries. This made it impossible to directly assess county-level ER use, limiting how precisely we can match local PCP supply to ER utilization patterns.
+#### Important Data Limitation: The U.S. healthcare visits dataset has no state or county identifiers. It is national-level only, derived from survey/administrative summaries. This made it impossible to directly assess county-level ER use, limiting how precisely we can match local PCP supply to ER utilization patterns. Most national ER datasets are aggregated without state or county identifiers and localized ER data is limited due to privacy restrictions, fragmented reporting across agencies, and delays in public release. As a result, the project focuses on state-level patterns using the most complete and accessible data. All other variables -- primary care physician supply, insurance coverage, income, and population -- use the best available state-level data from 2018-2023.
 
 <br>
 
@@ -193,6 +193,7 @@ Datasets Used:
 
 ## Project Limitations and Challenges
 
+
 1. Lack of county-level ER visit data
 
     * National dataset only — no geographic identifiers
@@ -236,7 +237,7 @@ The dashboard summarizes the full analysis in two pages.
 
 Visuals included:
 
-* Data disclaimer (healthcare visits = 2018 max)
+* Data disclaimer
 
 * KPI Cards (Avg PCP per 100k, Avg ER visit rate, Avg median household income, Avg percent insured)
 
