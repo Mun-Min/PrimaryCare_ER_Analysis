@@ -29,9 +29,9 @@
 
 ## Project Overview
 
-This project investigates a central research question:
+This project investigates a central research question: Is PCP density negatively associated with ER visits, and to what extent do socioeconomic variables moderate this relationship?
 
-#### Hypothesis: Is PCP density negatively associated with ER visits, and to what extent do socioeconomic variables moderate this relationship?
+#### Hypothesis: Higher primary care physician density will be associated with lower emergency room visit rates.
 
 Using datasets from <u>PolicyMap</u>, <u>HRSA</u>, the <u>U.S. Census</u>, and <u>Data.gov</u>, we analyze population, insurance, income, and healthcare utilization patterns. The goal is to understand whether increasing access to primary care can meaningfully reduce ER utilization — especially in lower-income areas.
 
