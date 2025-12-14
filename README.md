@@ -60,7 +60,7 @@ The analysis combines multiple years of data (2018–2023), cleans and merges da
         │       us_censusbureau_population_1990_2023.csv
         │       US_Healthcare_Visits.csv
         │
-        └───Images/
+        └─── Images/
         |       cover_img.jpg
         |       PowerBI_Sheet_1.png
         |       PowerBI_Sheet_2.png
